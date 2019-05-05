@@ -21,7 +21,7 @@ steps:
 
 - task: AzureFileCopy@2
   inputs:
-    SourcePath: 'testsource/test'
+    SourcePath: 'output'
     azureSubscription: 'Free Trial(f325d8f5-9869-4c6e-a17b-5204bbb1bfc7)'
     Destination: 'AzureBlob'
     storage: 'jacquesblog'
