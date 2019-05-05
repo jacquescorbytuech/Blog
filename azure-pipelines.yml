@@ -1,0 +1,17 @@
+# Starter pipeline
+
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+
+- task: AzureFileCopy@2
+  inputs:
+    SourcePath: 'output'
+    azureSubscription: 'Free Trial(f325d8f5-9869-4c6e-a17b-5204bbb1bfc7)'
+    Destination: 'AzureBlob'
+    storage: 'jacquesblog'
+    ContainerName: '$web'
