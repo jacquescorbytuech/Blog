@@ -7,10 +7,21 @@
 trigger:
 - master
 
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
+- script: |
+    echo Add other tasks to build, test, and deploy your project.
+    echo See https://aka.ms/yaml
+  displayName: 'Run a multi-line script'
 
 - task: AzureFileCopy@2
   inputs:
-    SourcePath: 'output'
+    SourcePath: 'testsource/test'
     azureSubscription: 'Free Trial(f325d8f5-9869-4c6e-a17b-5204bbb1bfc7)'
     Destination: 'AzureBlob'
     storage: 'jacquesblog'
