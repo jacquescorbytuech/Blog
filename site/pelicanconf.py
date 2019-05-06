@@ -12,6 +12,8 @@ TIMEZONE = 'GB'
 
 DEFAULT_LANG = 'en'
 
+DELETE_OUTPUT_DIRECTORY = True
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -38,3 +40,7 @@ ARTICLE_SAVE_AS = 'writing/{slug}.html'
 
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
+
+THEME = 'theme'
+
+DISPLAY_CATEGORIES_ON_MENU = False
