@@ -13,6 +13,8 @@ from pelicanconf import *
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://www.jacquescorbytuech.com'
 RELATIVE_URLS = False
+AUTHOR = 'Jacques Corby-Tuech'
+SITENAME = 'Jacques Corby-Tuech'
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
@@ -27,6 +29,18 @@ DELETE_OUTPUT_DIRECTORY = True
 THEME = 'theme'
 
 DISPLAY_CATEGORIES_ON_MENU = False
+
+STATIC_PATHS = ['images']
+TYPOGRIFY = True
+
 SUMMARY_MAX_LENGTH = None
 
-TYPOGRIFY = True
+WITH_FUTURE_DATES = False
+
+DEFAULT_DATE = 'fs'
+
+ARTICLE_URL = 'writing/{slug}.html'
+ARTICLE_SAVE_AS = 'writing/{slug}.html'
+
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
