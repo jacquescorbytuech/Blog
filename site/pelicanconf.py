@@ -44,3 +44,5 @@ PAGE_SAVE_AS = '{slug}.html'
 THEME = 'theme'
 
 DISPLAY_CATEGORIES_ON_MENU = False
+
+DISPLAY_PAGES_ON_MENU = False
