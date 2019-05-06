@@ -13,8 +13,13 @@
   }
   
   h1 {
-    font-size: 2em;
-    margin: 0.67em 0;
+    font-size: 2rem;
+    margin: 0.67rem 0 0.3rem 0;
+  }
+
+  h2 {
+      font-size: 1.5rem;
+      margin: 0.5rem 0 0.2rem 0;
   }
   
   hr {
@@ -25,7 +30,7 @@
 
   pre {
     font-family: monospace, monospace; /* 1 */
-    font-size: 1em; /* 2 */
+    font-size: 1rem; /* 2 */
   }
   
   a {
@@ -47,27 +52,27 @@
   kbd,
   samp {
     font-family: monospace, monospace; /* 1 */
-    font-size: 1em; /* 2 */
+    font-size: 1rem; /* 2 */
   }
   
   small {
-    font-size: 80%;
+    font-size: 0.8rem;
   }
   
   sub,
   sup {
-    font-size: 75%;
+    font-size: 0.75rem;
     line-height: 0;
     position: relative;
     vertical-align: baseline;
   }
   
   sub {
-    bottom: -0.25em;
+    bottom: -0.25rem;
   }
   
   sup {
-    top: -0.5em;
+    top: -0.5rem;
   }
   
   img {
@@ -75,7 +80,7 @@
   }
   
   fieldset {
-    padding: 0.35em 0.75em 0.625em;
+    padding: 0.35rem 0.75rem 0.625rem;
   }
   
   legend {
