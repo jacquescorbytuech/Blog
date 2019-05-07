@@ -103,7 +103,7 @@
 }
 
 #banner {
-    margin-top:4rem;
+    margin-top:1rem;
 }
 
 img {
@@ -119,4 +119,10 @@ img {
 #post-list {
     list-style-type: none;
     padding:0;
+}
+
+@media (min-width:480px) {
+  #banner {
+    margin-top:4rem;
+  }
 }
