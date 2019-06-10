@@ -1,7 +1,7 @@
 Title: Dear Email Industry, We've Got a GDPR Problem
 Slug: gdpr-email-tracking
 Date: 2019-06-10 13:37
-Summary: Time to stop buying our heads in the sand.
+Summary: Time to stop burying our heads in the sand.
 
 **The email industry's got a GDPR problem.**
 
