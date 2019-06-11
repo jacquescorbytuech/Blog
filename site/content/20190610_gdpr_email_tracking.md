@@ -14,11 +14,11 @@ Now if you're reading this, you're probably familiar with how that's gone, so I 
 <br />
 ## So What's the Problem?
 
-The overwhelming majority of commercial email sent today contains tracking pixels and tracking links, these are used to uniquely identify individuals so that opens and clicks can be correctly attributed to. This isn't strictly a problem, the GDPR does not ban processing of personal data for tracking purposes, however email tracking fails to meet a number of criteria necessary to be legal under the GDPR.
+The overwhelming majority of commercial email sent today contains tracking pixels and tracking links, these are used to uniquely identify individuals so that opens and clicks can be correctly attributed to them. This isn't strictly a problem, the GDPR does not ban processing of personal data for tracking purposes, however email tracking frequently fails to meet a number of criteria necessary to be legal under the GDPR.
 
 **We're not collection consent to track user behaviour** - That means we're probably relying on good old Legitimate Interest and that's frought with a number of risks.
 
-Firstly, most brands aren't disclosing in their privacy policies that they're tracking user behaviour in marketing emails. That's a problem. [Article 5](https://gdpr-info.eu/art-5-gdpr/) clearly states that to be legally compliant, personal data should be processed in the following manner:
+Firstly, most brands aren't disclosing in their privacy policies or at moment of signup that they're tracking user behaviour in marketing emails. That's a problem. [Article 5](https://gdpr-info.eu/art-5-gdpr/) clearly states that to be legally compliant, personal data should be processed in the following manner:
 
 >processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’);
 
@@ -41,7 +41,8 @@ Take a look at your ESP, does it allow you to, on a per individual basis, opt-ou
 
 If the answer to that is no, and in most cases the answer will be no, you're in breach of the GDPR as soon as a customer objects to your data processing. That is assuming you disclose the tracking in your privacy policy, if you don't you're already in breach.
 
-This becomes even more of a legal quagmire as soon as we start looking at tracking in emails sent on a legal basis other than Consent or Legitimate Interest. 
+This becomes even more of a legal quagmire as soon as we start looking at tracking in emails sent on a legal basis other than Consent or Legitimate Interest.
+
 So what can you do about it?
 
 **Complain to your ESP!** Complain frequently and loudly. Make them do something about it. Ultimately the GDPR is here to stay, and ESP's must put in the work to allow marketers to comply with the law.
@@ -55,7 +56,7 @@ You know what?
 
 That's not a problem, personal data is not a crucial part of gauging the success of a campaign and anonymised data is more than good enough for us to achieve our objectives.
 
-I'll leave you with a parting note; as marketers, we've become entirely too comfortable handling vast swathes of personal data, it's time we get used to a world where that options isn't always going to be available to us. 
+I'll leave you with a parting note; as marketers, we've become entirely too comfortable handling vast swathes of personal data, it's time we get used to a world where that option isn't always going to be available to us. 
 
 
 
