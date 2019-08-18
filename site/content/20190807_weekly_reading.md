@@ -11,7 +11,7 @@ Some stuff I've been reading this week that's worth bringing back up. In no part
 I know you weren't asking but no, you still shouldn't trust big tech companies with your personal data. I hope regulatory bodies across Europe take leaf out of the ICO's book and start to impose some hefty fines on companies that keep doing this to us.
 
 <br />
-## [Robbit Barrat](https://twitter.com/DrBeef_/status/1158419262463258624)
+## [Robbie Barrat](https://twitter.com/DrBeef_/status/1158419262463258624)
 
 Robbie Barrat makes cool shit, this is some cool shit he made.
 
