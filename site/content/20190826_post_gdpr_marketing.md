@@ -1,4 +1,4 @@
-Title: Digital Marketing has a gdpr Problem 
+Title: Digital Marketing in the Age of the GDPR
 Slug: digital-marketing-post-gdpr
 Date: 2019-08-26 19:44
 Summary: Houston, we have a problem.
