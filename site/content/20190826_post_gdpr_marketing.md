@@ -107,7 +107,7 @@ Dead. No one will want to give you consent to send off their personal data to th
 [Legitimate interest isn't good enough](https://www.jacquescorbytuech.com/writing/gdpr-email-tracking.html), you need to obtain consent for marketing emails<sup>2</sup> and unless you have explicitly collected consent for tracking you cannot track how individuals behave within your emails.
 
 ### SMS
-Like email, you're going to need to collect consent to use SMs for marketing. There's some real opportunties to demonstrate the value of SMS to customers here, you'll just have to think creatively.
+Like email, you're going to need to collect consent to use SMS for marketing. There's some real opportunties to demonstrate the value of SMS to customers here, you'll just have to think creatively.
 
 ### Push Notifications
 You'll need consent, but you already needed that. Push notifications are probably going to suffer the least because there have been solid mechanisms in place for years to prevent misuse from marketers.
