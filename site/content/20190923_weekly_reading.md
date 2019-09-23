@@ -45,7 +45,7 @@ down. There are simply fewer
 high-priced outliers to drive up
 the average price. 
 
-Sticking on the subject of art, I can already hear the gnashing of teeth over *[but her emails...](https://news.artnet.com/art-world/hillary-clinton-reads-emails-venice-art-show-1648867)*
+Sticking to the subject of art, I can already hear the gnashing of teeth over *[but her emails...](https://news.artnet.com/art-world/hillary-clinton-reads-emails-venice-art-show-1648867)*
 
 I don't know anything about concrete, but I know [I like this type](https://www.citylab.com/design/2019/09/kennedy-center-reach-steven-holl-concrete-build-material/597562/). I think a trip to the Kennedy Center for the Performing Arts is in order if I ever find myself in D.C, the building expansion looks incredible.
 
