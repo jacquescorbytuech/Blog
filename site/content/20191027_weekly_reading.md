@@ -33,7 +33,7 @@ AI can be used for a lot of unethical purposes - case in point, [hunting for "wh
 >
 > What the DCMS would make of Yodo1's AI -- with its 87% success rate, rising to 95% -- is anyone's guess. But removing the last scintilla of human oversight from the gap between a player and $150,000 of their money is a very bad look for the games industry.
 
-Like a lot of my peers, I spent a significant amount of my teenage years playing online games like Runescape (in my case it was **a lot** of Diablo 2). Quartz writes about how that affected our view of the world, and how our behaviour was an insight into what was to come as the world became always online.
+Like a lot of my peers, I spent a significant amount of my teenage years playing online games like Runescape (in my case it was **a lot** of Diablo 2). [Quartz writes](https://qz.com/1608914/how-runescape-mmorpgs-shaped-millennials-during-childhood/) about how that affected our view of the world, and how our behaviour was an insight into what was to come as the world became always online.
 
 > Computer games fostered sedentary and physically isolated play, and may have foreshadowed the environment we occupy today, where scores of people live with their noses in their phones, communing with friends and family at a distance rather than interacting with their immediate surroundings. Daily life becomes an interlude to online life, and there’s an ever-present risk that we’ll miss something in the “real world” because we’re preoccupied with our digital selves.
 
