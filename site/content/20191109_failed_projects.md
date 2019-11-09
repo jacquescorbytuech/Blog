@@ -15,7 +15,7 @@ While the community picked up quickly and I managed to do remarkably well on the
 
 ## Path of Exile Wiki
 
-I first disovered Path of Exile through  Total Biscuit's [WTF is... - Path of Exile](https://www.youtube.com/watch?v=k8779Ff_qoc) video (this was before TB turned out to be a massive chud) and was instantly hooked as it reminded me so much of Diablo 2, which I'd played a ridiculous amount of.
+I first discovered Path of Exile through  Total Biscuit's [WTF is... - Path of Exile](https://www.youtube.com/watch?v=k8779Ff_qoc) video (this was before TB turned out to be a massive chud) and was instantly hooked as it reminded me so much of Diablo 2, which I'd played a ridiculous amount of.
 
 The site [went live on September 25th 2011](https://pathofexile.gamepedia.com/index.php?title=Path_of_Exile_Wiki&oldid=1) and [quickly picked up steam within the community](https://www.pathofexile.com/forum/view-thread/9046) - I'd got the timing right and got in there before anyone else, which was pure luck.
 
