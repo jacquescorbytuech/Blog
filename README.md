@@ -19,3 +19,7 @@ Used to generate the final version of the site, ready to publish to a hosting se
     pelican content -s publishconf.py
 
 
+
+
+    venv/Scripts/activate
+    cd site  
