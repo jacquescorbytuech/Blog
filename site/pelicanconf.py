@@ -35,8 +35,8 @@ WITH_FUTURE_DATES = False
 
 DEFAULT_DATE = 'fs'
 
-ARTICLE_URL = 'writing/{slug}.html'
-ARTICLE_SAVE_AS = 'writing/{slug}.html'
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
 
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
@@ -46,3 +46,16 @@ THEME = 'theme'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DISPLAY_PAGES_ON_MENU = False
+
+USE_FOLDER_AS_CATEGORY = True
+DEFAULT_CATEGORY = ''
+CATEGORY_URL = 'category/{slug}.html'
+CATEGORY_SAVE_AS = 'category/{slug}.html'
+
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
+
+CATEGORIES_SAVE_AS = ''
+ARCHIVES_SAVE_AS = ''
+
+TAGS_SAVE_AS = ''
