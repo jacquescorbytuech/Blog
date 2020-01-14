@@ -126,3 +126,24 @@ img {
     margin-top:4rem;
   }
 }
+
+.badge {
+ font-size:10px;
+ padding:3px 8px;
+ border-radius: 5px;
+ color:white;
+}
+
+.badge-writing {
+background:#2e4cff;
+}
+
+.badge-links {
+background:#ffe12e;
+color:#282828;
+}
+
+.article-link {
+  display:block;
+  margin-top:1em;
+}

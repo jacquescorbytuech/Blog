@@ -31,6 +31,11 @@
  {{ translations.translations_for(article) }}
   </header>
   <footer class="post-info">
+    {% if article.category == 'writing'  %}
+    <span class="badge badge-writing">{{ article.category }}</span>
+    {% else %}
+    <span class="badge badge-links">{{ article.category }}</span>
+    {% endif %}
     <small><time class="published" datetime="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </time></small>
@@ -40,8 +45,16 @@
     </time></small>
     {% endif %}
   </footer><!-- /.post-info -->
+  
+  {% if article.link  %}
+  <div>
+    <a href="{{ article.link }}" class="article-link">Go to source &#10230;</a>
+  </div>
+  {% endif %}
+
   <div class="entry-content">
     {{ article.content }}
-  </div><!-- /.entry-content -->
+  </div>
+  <!-- /.entry-content -->
 </section>
 {% endblock %}
