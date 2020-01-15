@@ -37,7 +37,7 @@
         <header id="banner" class="body">
             <a href="{{ SITEURL }}/">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a>
         </header><!-- /#banner -->
-        <nav id="menu"><ul>
+        <nav id="menu">
         {% for title, link in MENUITEMS %}
             <li><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
@@ -48,10 +48,10 @@
         {% endif %}
         {% if DISPLAY_CATEGORIES_ON_MENU %}
           {% for cat, null in categories %}
-            <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            <a href="{{ SITEURL }}/{{ cat.url }}" class="nav{% if cat == category %} active{% endif %}">{{ cat }}</a>
           {% endfor %}
         {% endif %}
-        </ul></nav><!-- /#menu -->
+        </nav><!-- /#menu -->
         {% block content %}
         {% endblock %}
         <footer id="contentinfo" class="body">
