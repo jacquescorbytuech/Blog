@@ -22,10 +22,16 @@ h2 {
   margin: 0.5rem 0 0.2rem 0;
 }
 
+.entry-content h2 {
+  margin-top:2em;
+}
+
 hr {
   box-sizing: content-box; /* 1 */
   height: 0; /* 1 */
   overflow: visible; /* 2 */
+  margin: 3em auto;
+  max-width: 60%;
 }
 
 pre {
@@ -94,6 +100,14 @@ legend {
 
 [hidden] {
   display: none;
+}
+
+blockquote {
+  margin:2em 0;
+  padding:1em;
+  border-left:0.5em #e2e2e2 solid;
+  background:#ececec;
+  text-shadow: 1px 1px #ffffff ;
 }
 
 #index {
