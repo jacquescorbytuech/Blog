@@ -162,6 +162,10 @@ img {
   color: #282828;
 }
 
+.badge-reading {
+  background: #ff2e4c;
+}
+
 .article-link {
   display: block;
   margin-top: 1em;
@@ -186,4 +190,17 @@ img {
 
 .nav:hover, .active {
   text-decoration:underline;
+}
+
+.reading-subheading {
+  margin-top:-0.5em;
+  font-weight:500;
+}
+
+.reading-content {
+  display:flex;
+}
+
+.reading-author {
+  margin-top:0;
 }

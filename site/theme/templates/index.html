@@ -11,6 +11,8 @@
                 <footer class="post-info">
                     {% if article.category == 'writing'  %}
                     <span class="badge badge-writing">{{ article.category }}</span>
+                    {% elif article.category == 'reading'  %}
+                    <span class="badge badge-reading">{{ article.category }}</span>
                     {% else %}
                     <span class="badge badge-links">{{ article.category }}</span>
                     {% endif %}<small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></small>

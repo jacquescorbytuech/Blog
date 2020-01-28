@@ -49,8 +49,8 @@ DISPLAY_PAGES_ON_MENU = False
 
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = ''
-CATEGORY_URL = 'category/{slug}.html'
-CATEGORY_SAVE_AS = 'category/{slug}.html'
+CATEGORY_URL = '{slug}.html'
+CATEGORY_SAVE_AS = '{slug}.html'
 
 AUTHOR_SAVE_AS = ''
 AUTHORS_SAVE_AS = ''
