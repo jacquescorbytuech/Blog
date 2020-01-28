@@ -57,7 +57,7 @@
 
 
 <section id="content" class="body  reading-content">
-  
+
   {# <sidebar>
     <img class="reading-img" alt="{{ article.title }}" src="{{ article.cover }}" />
   </sidebar> #}
@@ -65,7 +65,9 @@
   <article>
   <header>
     <h1 class="entry-title">{{ article.title }}</h1>
+    {% if article.subheading is not none %}
     <h2 class="reading-subheading">{{ article.subheading }}</h2>
+    {% endif %}
     <p class="reading-author">By {{ article.author }}</p>
  {% import 'translations.html' as translations with context %}
  {{ translations.translations_for(article) }}
