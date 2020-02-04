@@ -17,7 +17,7 @@ Rumelt sums up a **good strategy** as the following:
 
 **Bad strategy** on the other hand can be characterised as:
 
-1. Meaningless "fluffy" words that say a lot while simultaneously saying nothing, see also [https://en.wikipedia.org/wiki/New_Thought](https://en.wikipedia.org/wiki/New_Thought)
+1. Meaningless "fluffy" words that say a lot while simultaneously saying nothing, see also [New Thought](https://en.wikipedia.org/wiki/New_Thought)
 2. An inability to adapt to the challenge
 3. Mistaking goals as strategy 
 4. Failing to indentify issues or available opportunities
