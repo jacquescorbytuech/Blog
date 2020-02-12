@@ -5,7 +5,7 @@ Subheading: A Wall Street Revolt
 Author: Michael Lewis
 Book: https://www.goodreads.com/book/show/25235115-flash-boys
 Recommended: True
-Cover: 
+Cover: ../images/covers/flash-boys.jpg
 
 *I wish I'd read this years ago.*
 
