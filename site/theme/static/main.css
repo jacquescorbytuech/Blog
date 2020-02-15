@@ -287,4 +287,7 @@ img {
   .body-reading .post-info {
     justify-content: start;
   }
+  .book-cover{
+    width:auto;
+  }
 }
