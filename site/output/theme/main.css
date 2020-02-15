@@ -169,6 +169,7 @@ img {
 .article-link {
   display: block;
   margin-top: 1em;
+  font-size: 1.2em;
 }
 
 .post-info {
@@ -203,4 +204,17 @@ img {
 
 .reading-author {
   margin-top:0;
+}
+
+.footer {
+  display: flex;
+  margin-top:2em;
+}
+
+.footer a:first-child {
+  margin-left:0;
+}
+
+.footer a {
+  margin-left:1em;
 }
