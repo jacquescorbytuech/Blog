@@ -195,7 +195,8 @@ img {
 }
 
 .book-cover {
-  max-width:22rem;;
+  max-width:22rem;
+  width:100%;
 }
 
 .body-reading article {
