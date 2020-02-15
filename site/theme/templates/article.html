@@ -23,57 +23,28 @@
 
 {% block content %}
 
-{% if article.category == 'links'  %}
-
-<section id="content" class="body">
-  <header>
-    <h1 class="entry-title">{{ article.title }}</h1>
- {% import 'translations.html' as translations with context %}
- {{ translations.translations_for(article) }}
-  </header>
-  <footer class="post-info">
-    <span class="badge badge-links">{{ article.category }}</span>
-    <small><time class="published" datetime="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
-    </time></small>
-    {% if article.modified %}
-    <small><time class="modified" datetime="{{ article.modified.isoformat() }}">
-      {{ article.locale_modified }}
-    </time></small>
-    {% endif %}
-  </footer><!-- /.post-info -->
-
+<section id="content" class="body body-{{ article.category }}">
+  {% if article.cover is defined %}
+  <div class="article-cover">
+  <img class="book-cover" alt="{{ article.title }}" src="{{ article.cover }}" />
+  {% if article.book is defined %}
   <div>
-    <a href="{{ article.link }}" class="article-link">Go to source &#10230;</a>
+    <a href="{{ article.book }}" class="article-link">See on Goodreads &#10230;</a>
   </div>
-
-  <div class="entry-content">
-    {{ article.content }}
-  </div>
-  <!-- /.entry-content -->
-</section>
-
-{% elif article.category == 'reading'  %}
-
-
-<section id="content" class="body  reading-content">
-
-  {# <sidebar>
-    <img class="reading-img" alt="{{ article.title }}" src="{{ article.cover }}" />
-  </sidebar> #}
-
-  <article>
-  <header>
+  {% endif %}
+</div>
+  {% endif %}
+<article>
+  <header class="heading-{{ article.category }}">
     <h1 class="entry-title">{{ article.title }}</h1>
     {% if article.subheading is not none %}
     <h2 class="reading-subheading">{{ article.subheading }}</h2>
     {% endif %}
+    {% if article.category == "reading" %}
     <p class="reading-author">By {{ article.author }}</p>
- {% import 'translations.html' as translations with context %}
- {{ translations.translations_for(article) }}
+    {% endif %}
   </header>
-  <footer class="post-info">
-    <span class="badge badge-reading">{{ article.category }}</span>
+  <div class="post-info">
     <small><time class="published" datetime="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </time></small>
@@ -82,52 +53,19 @@
       {{ article.locale_modified }}
     </time></small>
     {% endif %}
-  </footer><!-- /.post-info -->
-  
-
-  <div>
-    <a href="{{ article.book }}" class="article-link">See on Goodreads &#10230;</a>
   </div>
+
+  {% if article.link is defined %}
+  <div>
+    <a href="{{ article.link }}" class="article-link">Go to source &#10230;</a>
+  </div>
+  {% endif %}
 
   <div class="entry-content">
     {{ article.content }}
   </div>
 </article>
-  <!-- /.entry-content -->
 </section>
-
-
-
-{% else %}
-
-
-<section id="content" class="body">
-  <header>
-    <h1 class="entry-title">{{ article.title }}</h1>
- {% import 'translations.html' as translations with context %}
- {{ translations.translations_for(article) }}
-  </header>
-  <footer class="post-info">
-    <span class="badge badge-writing">{{ article.category }}</span>
-    <small><time class="published" datetime="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
-    </time></small>
-    {% if article.modified %}
-    <small><time class="modified" datetime="{{ article.modified.isoformat() }}">
-      {{ article.locale_modified }}
-    </time></small>
-    {% endif %}
-  </footer><!-- /.post-info -->
-
-  <div class="entry-content">
-    {{ article.content }}
-  </div>
-  <!-- /.entry-content -->
-</section>
-
-{% endif %}
-
-
 
 
 {% endblock %}

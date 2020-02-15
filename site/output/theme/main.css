@@ -111,7 +111,7 @@ blockquote {
 }
 
 #index {
-  max-width: 45rem;
+  max-width: 55rem;
   margin: 0 auto;
   width: 90%;
 }
@@ -139,10 +139,14 @@ img {
   padding: 0;
 }
 
-@media (min-width: 480px) {
-  #banner {
-    margin-top: 4rem;
-  }
+.heading-writing, .heading-links {
+  text-align:center;
+  margin-top:2em;
+}
+
+.heading-reading {
+  text-align:center;
+  margin-top:2em;
 }
 
 .badge {
@@ -174,7 +178,33 @@ img {
 
 .post-info {
  display:flex;
- align-items:center; 
+ align-items:center;
+}
+
+.body {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top:2em;
+  justify-content: center;
+}
+
+.body .post-info {
+  justify-content: center;
+  margin-top:1em;
+}
+
+.book-cover {
+  max-width:22rem;;
+}
+
+.body-reading article {
+  margin-left:0;
+}
+
+.body-links, .body-writing {
+  max-width: 45rem;
+  margin:0 auto;
 }
 
 #menu {
@@ -217,4 +247,43 @@ img {
 
 .footer a {
   margin-left:1em;
+}
+
+.body-writing h1 {
+  font-size:2em;
+}
+
+.article-cover {
+  margin:0 auto;
+}
+
+
+
+@media (min-width: 480px) {
+  #banner {
+    margin-top: 4rem;
+  }
+
+  .body-writing h1 {
+    font-size:3em;
+  }
+}
+
+@media (min-width: 1024px) {
+  .body {
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .body-reading article {
+    margin-left:3rem;
+  }
+  .article-cover {
+    margin: 0;
+  }
+  .heading-reading {
+    text-align:left;
+  }
+  .body-reading .post-info {
+    justify-content: start;
+  }
 }

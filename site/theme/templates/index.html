@@ -3,24 +3,17 @@
 <section id="content">
 {% block content_title %}
 {% endblock %}
-<ol id="post-list">
 {% for article in articles_page.object_list %}
-        <li><article class="hentry">
+<article class="hentry">
                 <header>
                     <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-                <footer class="post-info">
-                    {% if article.category == 'writing'  %}
-                    <span class="badge badge-writing">{{ article.category }}</span>
-                    {% elif article.category == 'reading'  %}
-                    <span class="badge badge-reading">{{ article.category }}</span>
-                    {% else %}
-                    <span class="badge badge-links">{{ article.category }}</span>
-                    {% endif %}<small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></small>
-                </footer>
+                <div class="post-info">
+                    <span class="badge badge-{{ article.category }}">{{ article.category }}</span><small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></small>
+                </div>
                 <!-- /.post-info --><!-- /.entry-content -->
-        </article></li>
+        </article>
 {% endfor %}
-</ol><!-- /#posts-list -->
+<!-- /#posts-list -->
 {% if articles_page.has_other_pages() %}
     {% include 'pagination.html' %}
 {% endif %}
