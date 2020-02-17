@@ -1,4 +1,4 @@
-Title: Cheap Website Personalisation With Google Optimize
+Title: Geofencing Gets Political
 Slug: geofencing-spatial-politics
 Date: 2020-02-17 16:37
 Link: http://www.bldgblog.com/2020/02/the-spatial-politics-of-geofencing/
