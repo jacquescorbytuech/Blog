@@ -21,4 +21,4 @@ I found some of the rules particularly useful:
 
 Some other things I found a little less useful. Knowing about Google Authorship in SERP's was useful in 2014, 6 years ago. It's not of any real relevance now. Of course, Ann couldn't predict the future when this book was published, but *rule 55* does mention "try to avoid anything older than four years, since it's likely to be stale".
 
-Minor quibbles aside, and they are minor, this is a great reference book and a worthwhile purchase for anyone in marketing who wants to overcome their fear of writing.
+Minor quibbles aside, and they are minor, this is a great reference book and a worthwhile purchase if you want to overcome your fear of writing.
