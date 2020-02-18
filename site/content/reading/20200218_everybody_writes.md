@@ -1,6 +1,6 @@
 Title: Everybody Writes
 Slug: everybody-writes
-Date: 2020-02-18 11:58
+Date: 2020-02-18 19:40
 Subheading: Your Go-To Guide to Creating Ridiculously Good Content
 Author: Harvard Business School Press
 Book: https://www.goodreads.com/book/show/20666957-everybody-writes
