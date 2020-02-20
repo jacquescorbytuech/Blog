@@ -2,7 +2,7 @@ Title: Everybody Writes
 Slug: everybody-writes
 Date: 2020-02-18 19:40
 Subheading: Your Go-To Guide to Creating Ridiculously Good Content
-Author: Harvard Business School Press
+Author: Ann Handley
 Book: https://www.goodreads.com/book/show/20666957-everybody-writes
 Recommended: 
 Cover: ../images/covers/everybody-writes.jpg
