@@ -1,6 +1,6 @@
 <div class="subscribe">
     <h4>Subscribe for updates</h4>
-    <form class="subscribe-form" name="email-subscribers" method="POST" data-netlify="true" action="/email-subscription-confirmed">
+    <form class="subscribe-form" name="email-subscribers" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/email-subscription-confirmed">
         <input class="invisible" type="hidden" name="bot-field">
         <input class="invisible" type="hidden" name="form-name" value="email-subscribers">
         <input required="required" type="email" name="email" placeholder="enter your email" />
