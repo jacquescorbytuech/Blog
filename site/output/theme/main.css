@@ -314,6 +314,21 @@ img {
   font-size:0.75rem;
 }
 
+#homepage .published, #category .published {
+  margin-right:1rem;
+}
+
+#homepage .subscribe, #category .subscribe {
+  margin:5rem 0;
+}
+
+#homepage h1 {
+  margin-top:5rem;
+}
+
+.posts-writing, .posts-reading, .posts-links {
+  margin-top:5rem;
+}
 
 @media (min-width: 480px) {
   #banner {

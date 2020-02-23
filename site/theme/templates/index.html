@@ -1,21 +1,58 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="content">
+<section id="homepage">
 {% block content_title %}
 {% endblock %}
-{% for article in articles_page.object_list %}
-<article class="hentry">
-                <header>
-                    <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-                <div class="post-info">
-                    <span class="badge badge-{{ article.category }}">{{ article.category }}</span><small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></small>
-                </div>
-                <!-- /.post-info --><!-- /.entry-content -->
-        </article>
-{% endfor %}
-<!-- /#posts-list -->
-{% if articles_page.has_other_pages() %}
-    {% include 'pagination.html' %}
-{% endif %}
+<h1 class="title">Hi, I'm Jacques</h1>
+<p>I do Marketing Ops and CRM.</p>
+
+{% include 'subscribe.html' %}
+
+<div class="posts">
+	<div class="posts-writing">
+		<h2>Latest writing</h2>
+		{% for article in articles_page.object_list if article.category == 'writing' %}
+		{% if loop.index <= 5 %}
+		<article class="hentry">
+			<p class="entry-title"><small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%d/%m/%Y') }} </time></small><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></p>
+						<!-- /.post-info --><!-- /.entry-content -->
+				</article>
+				{% endif %}
+		{% endfor %}
+		<a href="/writing">Read all writing &#10230;</a>
+	</div>
+
+
+
+	<div class="posts-reading">
+		<h2>Latest reading</h2>
+		{% for article in articles_page.object_list if article.category == 'reading' %}
+		{% if loop.index <= 5 %}
+		<article class="hentry">
+			<p class="entry-title"><small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%d/%m/%Y') }} </time></small><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></p>
+						<!-- /.post-info --><!-- /.entry-content -->
+				</article>
+				{% endif %}
+		{% endfor %}
+		<a href="/reading">See all books &#10230;</a>
+	</div>
+
+
+
+	<div class="posts-links">
+		<h2>Latest links</h2>
+		{% for article in articles_page.object_list if article.category == 'links' %}
+		{% if loop.index <= 5 %}
+		<article class="hentry">
+			<p class="entry-title"><small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%d/%m/%Y') }} </time></small><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></p>
+						<!-- /.post-info --><!-- /.entry-content -->
+				</article>
+				{% endif %}
+		{% endfor %}
+		<a href="/links">See all links &#10230;</a>
+	</div>
+
+</div>
+
 </section><!-- /#content -->
 {% endblock content %}
