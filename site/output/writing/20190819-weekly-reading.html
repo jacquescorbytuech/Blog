@@ -70,6 +70,16 @@
     <p>Cheers,</p>
     <img class="signature" src="../images/jacques.png" />
   </div>
+<div class="subscribe">
+    <h4>Subscribe for updates</h4>
+    <form class="subscribe-form" name="email-subscribers" method="POST" data-netlify="true" action="/email-subscription-confirmed">
+        <input class="invisible" type="hidden" name="bot-field">
+        <input class="invisible" type="hidden" name="form-name" value="email-subscribers">
+        <input required="required" type="email" name="email" placeholder="enter your email" />
+        <button type="submit">Subscribe</button>
+    </form>
+    <p class="small-text">Updates, whenever I've got something valuable to say.</p>
+  </div>  
 </article>
 </section>
 
