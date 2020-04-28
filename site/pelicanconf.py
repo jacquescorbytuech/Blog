@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from distutils.sysconfig import get_python_lib
 
 AUTHOR = 'Jacques Corby-Tuech'
 SITENAME = 'Jacques Corby-Tuech'
@@ -59,3 +60,28 @@ CATEGORIES_SAVE_AS = ''
 ARCHIVES_SAVE_AS = ''
 
 TAGS_SAVE_AS = ''
+
+
+PLUGIN_PATHS = [get_python_lib()]
+PLUGINS = [
+            'pelican_image_process',
+          ]
+
+IMAGE_PROCESS = {
+    'crisp': {'type': 'responsive-image',
+              'srcset': [('1x', ["scale_in 800 600 True"]),
+                         ('2x', ["scale_in 1600 1200 True"]),
+                         ('4x', ["scale_in 3200 2400 True"]),
+                         ],
+               'default': '1x',
+             },
+    'large-photo': {'type': 'responsive-image',
+                    'sizes': '(min-width: 1200px) 800px, (min-width: 992px) 650px, \
+                              (min-width: 768px) 718px, 100vw',
+                    'srcset': [('600w', ["scale_in 600 450 True"]),
+                               ('800w', ["scale_in 800 600 True"]),
+                               ('1600w', ["scale_in 1600 1200 True"]),
+                               ],
+                    'default': '800w',
+                   },
+    }
