@@ -5,7 +5,7 @@ Subheading: Your Go-To Guide to Creating Ridiculously Good Content
 Author: Ann Handley
 Book: https://www.goodreads.com/book/show/20666957-everybody-writes
 Recommended: 
-Cover: ../images/covers/everybody-writes.jpg
+Cover: images/covers/everybody-writes.jpg
 
 Thanks to [Elliot](https://twitter.com/IAmElliot) for the reccomendation on this one!
 

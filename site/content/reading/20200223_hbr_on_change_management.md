@@ -5,7 +5,7 @@ Subheading:
 Author: Harvard Business School Press
 Book: https://www.goodreads.com/book/show/8414509-hbr-s-10-must-reads-on-change-management
 Recommended: 
-Cover: ../images/covers/hbr-10-reads-change-management.jpg
+Cover: images/covers/hbr-10-reads-change-management.jpg
 
 I recently read [HBR's 10 Must Reads on Communication](https://www.jacquescorbytuech.com/reading/hbr-10-reads-on-communication.html), unfortunately this one was rather disappointing in comparison.
 

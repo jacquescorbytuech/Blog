@@ -5,7 +5,7 @@ Subheading:
 Author: Eric Schlosser
 Book: https://www.goodreads.com/book/show/26038028-gods-of-metal
 Recommended: False
-Cover: ../images/covers/gods-of-metal.jpg
+Cover: images/covers/gods-of-metal.jpg
 
 *Gods of Metal* is an extended essay, first appearing in the New Yorker and subsequently expanded for this pocket book which tells the story of a Christian pacifist group calling themselves the Plowshares movement.
 

@@ -5,7 +5,7 @@ Subheading: The History of the CIA
 Author: Tim Weiner
 Book: https://www.goodreads.com/book/show/13118306-legacy-of-ashes
 Recommended: True
-Cover: ../images/covers/legacy-of-ashes.jpg
+Cover: images/covers/legacy-of-ashes.jpg
 
 Since it's founding in September 1947, the CIA has bumbled from disaster to disaster, spreading death and terror around the world.
 

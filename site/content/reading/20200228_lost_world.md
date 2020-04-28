@@ -5,7 +5,7 @@ Subheading:
 Author: Michael Crichton
 Book: https://www.goodreads.com/book/show/11497790-the-lost-world
 Recommended: 
-Cover: ../images/covers/lost-world.jpg
+Cover: images/covers/lost-world.jpg
 
 I read the first Jurassic Park in Morocco a couple years ago and thought it was a perfect holiday read.
 

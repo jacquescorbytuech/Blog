@@ -5,7 +5,7 @@ Subheading: Undoing Democracy
 Author: Michael lewis
 Book: https://www.goodreads.com/book/show/49675425-the-fifth-risk
 Recommended: True
-Cover: ../images/covers/the-fifth-risk.jpg
+Cover: images/covers/the-fifth-risk.jpg
 
 I really enjoyed Michael Lewis' [Flash Boys](https://www.jacquescorbytuech.com/reading/flash-boys.html) which I read a couple months ago so figured I'd give this one a try.
 

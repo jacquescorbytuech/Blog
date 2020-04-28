@@ -5,7 +5,7 @@ Subheading:
 Author: Ryan Wallman
 Book: https://www.goodreads.com/book/show/50173650-delusions-of-brandeur
 Recommended: True
-Cover: ../images/covers/delusions-of-brandeur.jpg
+Cover: images/covers/delusions-of-brandeur.jpg
 
 **Do you feel like modern marketing is full of bullshit?** *Delusions of Brandeur* is the cure to that. In a short (I read it in a couple hours) package, this proves to be a pithy antidote to the overwhelming amounts of shit we're inundated under on a daily basis.
 

@@ -5,7 +5,7 @@ Subheading: The difference and why it matters
 Author: Richard P. Rumelt
 Book: https://www.goodreads.com/book/show/36658033-good-strategy-bad-strategy
 Recommended: True
-Cover: ../images/covers/good-strategy-bad-strategy.jpg
+Cover: images/covers/good-strategy-bad-strategy.jpg
 
 This is one of the better strategy books I've read recently - while there's always some vague allusions and metaphors looking at military history and ancient battles in books of this genre, *Good Strategy/Bad Strategy* is light on those and heavy on what I actually care about, business strategy.
 

@@ -5,7 +5,7 @@ Subheading:
 Author: Guy haley
 Book: https://www.goodreads.com/book/show/48411418-the-lost-and-the-damned
 Recommended: 
-Cover: ../images/covers/lost-and-the-damned.jpg
+Cover: images/covers/lost-and-the-damned.jpg
 
 This is book #2 in the *Siege of Terra* offshoot from the Horus Heresy series.
 

@@ -5,7 +5,7 @@ Subheading: The Biggest Bust
 Author: Michael Lewis
 Book: https://www.goodreads.com/book/show/15872298-boomerang
 Recommended: True
-Cover: ../images/covers/boomerang.jpg
+Cover: images/covers/boomerang.jpg
 
 This is the third book by Michael Lewis I've read this year, after [Flash Boys](https://www.jacquescorbytuech.com/reading/flash-boys.html) and [The Fifth Risk](https://www.jacquescorbytuech.com/reading/the-fifth-risk.html).
 

@@ -5,7 +5,7 @@ Subheading:
 Author: Aaron Dembski-Bowden
 Book: https://www.goodreads.com/book/show/35916964-black-legion
 Recommended: 
-Cover: ../images/covers/black-legion.jpg
+Cover: images/covers/black-legion.jpg
 
 Aaron Dembski-Bowden's one of the better authors writing for Games Workshop's Black Library. Yep, that's as nerdy as it sounds.
 

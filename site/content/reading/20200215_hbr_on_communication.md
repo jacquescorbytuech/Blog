@@ -5,7 +5,7 @@ Subheading:
 Author: Harvard Business School Press
 Book: https://www.goodreads.com/book/show/15824367-hbr-s-10-must-reads-on-communication
 Recommended: 
-Cover: ../images/covers/hbr-10-reads-communication.jpg
+Cover: images/covers/hbr-10-reads-communication.jpg
 
 Harvard Business Review's *10 Must Reads* series highlights ten of the best articles posted on Harvard Business Review on a specific topic. *On Communication* seemed like a fairly interesting one and it didn't entirely disappoint.
 

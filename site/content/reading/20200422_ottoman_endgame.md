@@ -5,7 +5,7 @@ Subheading: War, Revolution and the Making of the Modern Middle East, 1908-1923
 Author: Sean McMeekin
 Book: https://www.goodreads.com/book/show/29777002-the-ottoman-endgame
 Recommended: True
-Cover: ../images/covers/ottoman-endgame.jpg
+Cover: images/covers/ottoman-endgame.jpg
 
 I don't remember learning much (if anything) about the Ottoman Empire in school history lessons, so this book was definitely an interesting read. I guess it's easier to focus on the Western front where you don't have to have an uncomfortable discussion with 13 year olds about the very real human costs of British (not to forget French, Russian and Italian) imperialism.
 

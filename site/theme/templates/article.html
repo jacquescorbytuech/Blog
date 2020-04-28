@@ -26,7 +26,7 @@
 <section id="content" class="body body-{{ article.category }}">
   {% if article.cover is defined %}
   <div class="article-cover">
-  <img class="book-cover image-process-crisp" alt="{{ article.title }}" src="{{ article.cover }}" />
+  <img class="book-cover" alt="{{ article.title }}" src="../{{ article.cover }}" />
   {% if article.book is defined %}
   <div>
     <a href="{{ article.book }}" class="article-link">See on Goodreads &#10230;</a>
