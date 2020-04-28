@@ -86,4 +86,10 @@ IMAGE_PROCESS = {
                                ],
                     'default': '800w',
                    },
+    'signature': {'type': 'responsive-image',
+              'srcset': [('1x', ["scale_in 180 60 True"]),
+                         ('2x', ["scale_in 360 120 True"]),
+                         ],
+               'default': '1x',
+             },
     }
