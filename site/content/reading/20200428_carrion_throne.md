@@ -4,7 +4,7 @@ Date: 2020-04-28 18:38
 Subheading: 
 Author: Chris Wraight
 Book: https://www.goodreads.com/book/show/35071441-the-carrion-throne
-Recommended: True
+Recommended: 
 Cover: images/covers/carrion-throne.jpg
 
 No big deal, just the ~155th Warhammer book I've read* according to Goodreads.
