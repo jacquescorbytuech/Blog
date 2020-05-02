@@ -64,10 +64,10 @@ ARCHIVES_SAVE_AS = ''
 TAGS_SAVE_AS = ''
 
 
-PLUGIN_PATHS = [get_python_lib()]
+PLUGIN_PATHS = ['get_python_lib()',]
 PLUGINS = [
             'pelican_image_process',
-            'sitemap',
+            'extended_sitemap',
           ]
 
 IMAGE_PROCESS = {
@@ -89,16 +89,17 @@ IMAGE_PROCESS = {
                    },
     }
   
-SITEMAP = {
-    "format": "xml",
-    "priorities": {
-        "articles": 0.5,
-        "indexes": 0.5,
-        "pages": 0.5
+EXTENDED_SITEMAP_PLUGIN = {
+    'priorities': {
+        'index': 1.0,
+        'articles': 0.8,
+        'pages': 0.5,
+        'others': 0.4
     },
-    "changefreqs": {
-        "articles": "monthly",
-        "indexes": "daily",
-        "pages": "monthly"
+    'changefrequencies': {
+        'index': 'daily',
+        'articles': 'weekly',
+        'pages': 'monthly',
+        'others': 'monthly',
     }
 }
