@@ -2,7 +2,7 @@ Title: The Lost and the Damned
 Slug: lost-damned
 Date: 2020-03-01 11:46
 Subheading: 
-Author: Guy haley
+BookAuthor: Guy haley
 Book: https://www.goodreads.com/book/show/48411418-the-lost-and-the-damned
 Recommended: 
 Cover: images/covers/lost-and-the-damned.jpg

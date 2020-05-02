@@ -2,7 +2,7 @@ Title: The Lost World
 Slug: lost-world
 Date: 2020-02-28 18:05
 Subheading: 
-Author: Michael Crichton
+BookAuthor: Michael Crichton
 Book: https://www.goodreads.com/book/show/11497790-the-lost-world
 Recommended: 
 Cover: images/covers/lost-world.jpg

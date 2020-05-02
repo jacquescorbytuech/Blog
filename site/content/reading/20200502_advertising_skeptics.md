@@ -2,7 +2,7 @@ Title: Advertising For Skeptics
 Slug: advertising-for-skeptics
 Date: 2020-05-02 18:58
 Subheading: 
-Author: Bob Hoffman
+BookAuthor: Bob Hoffman
 Book: https://www.goodreads.com/book/show/51139948-advertising-for-skeptics
 Recommended: True
 Cover: images/covers/advertising-for-skeptics.jpg

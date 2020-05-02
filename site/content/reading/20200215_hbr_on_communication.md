@@ -2,7 +2,7 @@ Title: HBR's 10 Must Reads on Communication
 Slug: hbr-10-reads-on-communication
 Date: 2020-02-15 11:58
 Subheading: 
-Author: Harvard Business School Press
+BookAuthor: Harvard Business School Press
 Book: https://www.goodreads.com/book/show/15824367-hbr-s-10-must-reads-on-communication
 Recommended: 
 Cover: images/covers/hbr-10-reads-communication.jpg

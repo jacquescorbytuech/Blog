@@ -2,7 +2,7 @@ Title: The Ottoman Endgame
 Slug: ottoman-endgame
 Date: 2020-04-22 16:54
 Subheading: War, Revolution and the Making of the Modern Middle East, 1908-1923
-Author: Sean McMeekin
+BookAuthor: Sean McMeekin
 Book: https://www.goodreads.com/book/show/29777002-the-ottoman-endgame
 Recommended: True
 Cover: images/covers/ottoman-endgame.jpg

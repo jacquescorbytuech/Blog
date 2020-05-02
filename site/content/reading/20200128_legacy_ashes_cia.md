@@ -2,7 +2,7 @@ Title: Legacy of Ashes
 Slug: legacy-ashes-history-cia
 Date: 2020-01-28 18:57
 Subheading: The History of the CIA
-Author: Tim Weiner
+BookAuthor: Tim Weiner
 Book: https://www.goodreads.com/book/show/13118306-legacy-of-ashes
 Recommended: True
 Cover: images/covers/legacy-of-ashes.jpg

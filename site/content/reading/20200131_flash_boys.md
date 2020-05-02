@@ -2,7 +2,7 @@ Title: Flash Boys
 Slug: flash-boys
 Date: 2020-01-31 10:12
 Subheading: A Wall Street Revolt
-Author: Michael Lewis
+BookAuthor: Michael Lewis
 Book: https://www.goodreads.com/book/show/25235115-flash-boys
 Recommended: True
 Cover: images/covers/flash-boys.jpg

@@ -2,7 +2,7 @@ Title: The Fifth Risk
 Slug: the-fifth-risk
 Date: 2020-03-21 14:43
 Subheading: Undoing Democracy
-Author: Michael lewis
+BookAuthor: Michael lewis
 Book: https://www.goodreads.com/book/show/49675425-the-fifth-risk
 Recommended: True
 Cover: images/covers/the-fifth-risk.jpg

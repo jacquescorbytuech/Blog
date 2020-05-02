@@ -2,7 +2,7 @@ Title: Ways of Curating
 Slug: ways-of-curating
 Date: 2020-02-06 09:13
 Subheading: 
-Author: Hans Ulrich Obrist
+BookAuthor: Hans Ulrich Obrist
 Book: https://www.goodreads.com/book/show/24875258-ways-of-curating
 Recommended: True
 Cover: images/covers/ways-of-curating.jpg
