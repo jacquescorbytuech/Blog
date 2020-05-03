@@ -131,7 +131,7 @@ blockquote {
 
 img {
   max-width: 80%;
-  margin: 0 auto;
+  margin: 4em auto;
   display: block;
 }
 
@@ -267,6 +267,7 @@ img {
   width:180px;
   margin-left:-10px;
   margin-top:-2rem;
+  margin-bottom:0;
 }
 
 
