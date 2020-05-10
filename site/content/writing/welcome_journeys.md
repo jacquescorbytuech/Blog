@@ -154,7 +154,7 @@ I guess you could call this the tl;dr of this post, but to summarise, this is th
 
 While this post is ostensibly about building a welcome program, it can apply to any automated program you're looking to build out. The process remains the same, even if the goal changes.
 
-It's important to balance your business interests against the interests of the subscriber. While you might want to aggressively push for a sale right from the get-go it's unlikely that a new subscriber will appreciate that interest. This could damage the email channel in the long-term with poor engagement rates across the board.
+It's important to balance your business interests against the interests of the subscriber. While you might want to aggressively push for a sale right from the get-go it's unlikely that a new subscriber will appreciate that approach. This could damage the email channel in the long-term by reducing engagement rates across the board as people unsubscribe and lose interest in being heavily sold to.
 
 One thing you might want to do is ensure that while a subscriber is in your welcome program they don't receive your regular marketing emails - this helps to ensure that they don't get confused or feel inundated by too many mixed messages.
 
