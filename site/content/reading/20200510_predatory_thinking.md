@@ -1,7 +1,7 @@
 Title: Predatory Thinking
 Slug: predatory-thinking
 Date: 2020-05-10 13:18
-Subheading: 
+Subheading: A Masterclass in Out-Thinking the Competition
 BookAuthor: Dave Trott
 Book: https://www.goodreads.com/book/show/25110596-predatory-thinking
 Recommended:
