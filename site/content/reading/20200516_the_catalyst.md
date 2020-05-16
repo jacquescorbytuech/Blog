@@ -19,4 +19,4 @@ Nevertheless, this wasn't awful by any means. Berger breaks down the actions of 
 
 Worth a read if you enjoyed the books I mentioned previously, but there's nothing life-changing to learn here.
 
-[^Endowment]: Kahneman, D., Knetsch, J.L., Thaler, R.H., 1990. Experimental Tests of the Endowment Effect and the Coase Theorem. Journal of Political Economy 98, 1325–1348. https://doi.org/10.1086/261737
+[^Endowment]: Kahneman, D., Knetsch, J.L., Thaler, R.H., 1990. Experimental Tests of the Endowment Effect and the Coase Theorem. Journal of Political Economy 98, 1325–1348. [https://doi.org/10.1086/261737](https://doi.org/10.1086/261737)
