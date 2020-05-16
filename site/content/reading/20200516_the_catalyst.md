@@ -9,7 +9,7 @@ Cover: images/covers/the-catalyst.jpg
 
 This one was sort of a cross between [Never Split the Difference](https://www.jacquescorbytuech.com/reading/never-split-the-difference.html) and [Thinking Fast and Slow](https://www.jacquescorbytuech.com/reading/thinking-fast-and-slow.html), without being as good as either of those books.
 
-Nevertheless, this wasn't awful by any means. Berger breaks down the actions of a change catalyst through what he calls the REDUCE framework.
+Nevertheless, this wasn't awful by any means. Berger breaks down the actions of a change catalyst through what he calls the **REDUCE** framework.
 
 * **Reactance** - when pushed, people will push back. When trying to persuade change, encourage people by giving them the space to convince themselves.
 * **Endowment** - The classic Endowment Effect[^Endowment]. Catalysts counter this by surfacing the costs of inaction and by showing people that inaction has a cost.
