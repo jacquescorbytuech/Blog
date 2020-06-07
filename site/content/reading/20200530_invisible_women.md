@@ -4,7 +4,7 @@ Date: 2020-05-30 13:22
 Subheading: Exposing Data Bias in a World Designed for Men
 BookAuthor: Caroline Criado Perez
 Book: https://www.goodreads.com/book/show/46158570-invisible-women
-Recommended:
+Recommended: True
 Cover: images/covers/invisible-women.jpg
 
 I'm not sure that I can give adequate voice to just how good *Invisible Women* is.
