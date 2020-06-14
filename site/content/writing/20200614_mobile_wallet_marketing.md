@@ -47,4 +47,4 @@ This is still totally theoretical to me, I'm yet to work on a program that incor
 
 Ever used this channel before? I'd love to know how you found it, give me a shout on Twitter or send me an email.
 
-[^subjectline] It had a very subtle subject line - "YOUR CONFIDENTIAL PASS".
+[^subjectline]: It had a very subtle subject line - "YOUR CONFIDENTIAL PASS".
