@@ -21,8 +21,9 @@ Like me, you were probably raised on the idea that the stock market was rational
 
 You might recognise that name, Mercer. Robert Mercer was a key employee at Rentec and made hundreds of millions from the performance of the employee-only Medallion Fund. Millions that he subsequently used to fund Breitbart News, Cambridge Analytica, Brexit, Trump and more.
 
-According to Bloomberg[^Bloomberg] the Medallion Fund has averaged annualised returns (after fees) of ~70% since 1988. Assuming a single $1,000 deposit in 1988, with that rate of return and no subsequent deposits an investor would now have ~$23,679,115,947.
+According to Bloomberg[^Bloomberg] the Medallion Fund has averaged annualised returns (after fees) of ~70% since 1988. Assuming a single $1,000 deposit in 1988, with that rate of return and no subsequent deposits an investor would now have ~$23,679,115,947. For comparisons sake, in the UK right now you can expect a return *up to* 1.4%[^Savings] for a savings accounts.
 
 With the recent rise of the [Flash Boys](https://www.jacquescorbytuech.com/reading/flash-boys), it's clear the market is in the grip of machine based trading, where that leaves the casual investor like you and me remains an open question.
 
 [^Bloomberg]: [The Unsolved Mystery of the Medallion Fund’s Success](https://www.bloomberg.com/news/articles/2019-11-12/the-unsolved-mystery-of-the-medallion-fund-s-success)
+[^Savings]: [Top Savings Accounts](https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/)
