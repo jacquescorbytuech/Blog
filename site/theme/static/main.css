@@ -6,6 +6,8 @@ html {
 
 body {
   margin: 0;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 fieldset {
@@ -383,7 +385,6 @@ code {
 
 pre {
   white-space: pre-wrap;
-  word-wrap: break-word;
 }
 
 .highlight .hll { background-color: #ffffcc }
