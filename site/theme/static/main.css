@@ -385,10 +385,11 @@ code {
 
 pre {
   white-space: pre-wrap;
+  word-break: break-all;
 }
 
 .highlight .hll { background-color: #ffffcc }
-.highlight  { background: #f8f8f8; max-width: 80%; margin: 4em auto;}
+.highlight  { background: #f8f8f8; max-width: 80%; margin: 2em 0; word-break: break-all;}
 .highlight .c { color: #408080; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #FF0000 } /* Error */
 .highlight .k { color: #008000; font-weight: bold } /* Keyword */
