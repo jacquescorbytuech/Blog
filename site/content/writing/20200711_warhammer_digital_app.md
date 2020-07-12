@@ -50,16 +50,16 @@ A quick look at their website shows that they're starting to integrate Selligent
 
 ```html
 <script>
-        var trackdata = trackdata || [];
-                        
-        (function (d, s, id) {
-            var js, sjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//games-workshop.slgnt.eu/optiext/webtracker.dll";
-            sjs.parentNode.insertBefore(js, sjs);
-        }(document, 'script', 'webtracker'));
-    </script>
+    var trackdata = trackdata || [];
+                    
+    (function (d, s, id) {
+        var js, sjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//games-workshop.slgnt.eu/optiext/webtracker.dll";
+        sjs.parentNode.insertBefore(js, sjs);
+    }(document, 'script', 'webtracker'));
+</script>
 ```
 
 Selligent will also allow them to use push and in-app messaging and more importantly for a business like Games Workshop, will allow them to use location based messaging based on an app users proximity to a retail store.
