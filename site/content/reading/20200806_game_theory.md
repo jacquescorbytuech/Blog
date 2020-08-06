@@ -1,6 +1,6 @@
 Title: Game Theory
 Slug: game-theory
-Date: 2020-09-06 09:13
+Date: 2020-08-06 09:13
 Subheading: A Very Short Introduction
 BookAuthor: Ken Binmore
 Book: https://www.goodreads.com/book/show/770989.Game_Theory
