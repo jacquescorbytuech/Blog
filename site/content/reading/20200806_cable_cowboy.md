@@ -1,4 +1,4 @@
-Title: Cable cowboy
+Title: Cable Cowboy
 Slug: cable-cowboy
 Date: 2020-08-06 09:29
 Subheading: John Malone and the Rise of the Modern Cable Business
