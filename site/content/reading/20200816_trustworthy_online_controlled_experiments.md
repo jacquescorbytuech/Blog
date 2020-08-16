@@ -21,7 +21,7 @@ Kohavi, Tang and Xu have worked at the biggest tech companies in the world (Micr
 
 *Trustworthy Online Controlled Experiments* distills everything you could want to know about testing, it's free from buzzwords and free from the usual bullshit you find in a lot of similar material, taking a more scholarly approach to the subject.
 
-While the book aims to be useful to people working at Google scale companies, there's a lot to learn even if you're working on significantly smaller programs. From understanding how you should go about collecting data, why you should A/A test[^1], how to properly evaluate whether a test was successful or not or how to properly feed institutional insights back into the company.
+While the book aims to be useful to people working at Google scale companies, there's a lot to learn even if you're working on significantly smaller programs. From understanding how you should go about collecting data, why you should A/A test[^1], how to properly evaluate whether a test was successful or not, ethical considerations when conducting a test or how to properly feed institutional insights back into the company.
 
 I think this is a book I'll be reading and re-reading for many years to come.
 
