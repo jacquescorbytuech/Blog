@@ -47,7 +47,7 @@
           {% endfor %}
         {% endif %}
         {% if DISPLAY_CATEGORIES_ON_MENU %}
-          {% for cat, null in categories %}
+          {% for cat, null in categories|reverse %}
             <a href="{{ SITEURL }}/{{ cat.url }}" class="nav{% if cat == category %} active{% endif %}">{{ cat }}</a>
           {% endfor %}
         {% endif %}

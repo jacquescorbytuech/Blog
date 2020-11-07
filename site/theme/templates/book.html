@@ -45,9 +45,7 @@
     {% if article.subheading is not none %}
     <h2 class="reading-subheading">{{ article.subheading }}</h2>
     {% endif %}
-    {% if article.category == "reading" %}
-    <p class="reading-author">By {{ article.bookauthor }}</p>
-    {% endif %}
+    <p class="reading-author">By {{ article.bookauthor }}{% if article.recommended == "True" %} ⚡{% endif %}</p>
   </header>
   <div class="post-info">
     <small><time class="published" datetime="{{ article.date.isoformat() }}">

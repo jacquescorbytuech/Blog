@@ -9,7 +9,7 @@
 
     {% for article in articles_page.object_list %}
     <article class="hentry">
-        <p class="entry-title"><small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%d/%m/%Y') }} </time></small><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>{% if article.recommended == "True" %} ⭐{% endif %}</p>
+        <p class="entry-title"><small><time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%d/%m/%Y') }} </time></small><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>{% if article.recommended == "True" %} ⚡{% endif %}</p>
     </article>
     {% endfor %}
     
