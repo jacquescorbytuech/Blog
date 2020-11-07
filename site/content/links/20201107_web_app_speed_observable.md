@@ -1,5 +1,5 @@
 Title: SaaS Prototyping with Observable, Firebase and Stripe
-Slug: ed-hardy-tattooing
+Slug: saas-prototype-observable-hq-stripe-firebase
 Date: 2020-11-07 23:05
 Link: https://observablehq.com/@tomlarkworthy/saas-tutorial
 
