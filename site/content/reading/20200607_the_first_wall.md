@@ -2,8 +2,10 @@ Title: The First Wall
 Slug: the-first-wall
 Date: 2020-06-07 14:17
 Subheading: 
+Template: book
 BookAuthor: Gav Thorpe 
 Book: https://www.goodreads.com/book/show/51911484-the-first-wall
+Bookshop: https://uk.bookshop.org/a/2625/9781789991772
 Recommended:
 Cover: images/covers/the-first-wall.jpg
 

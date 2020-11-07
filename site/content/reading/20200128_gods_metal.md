@@ -2,8 +2,10 @@ Title: Gods of Metal
 Slug: gods-metal
 Date: 2020-01-19 12:00
 Subheading: 
+Template: book
 BookAuthor: Eric Schlosser
 Book: https://www.goodreads.com/book/show/26038028-gods-of-metal
+Bookshop: https://uk.bookshop.org/a/2625/9780141982267
 Recommended: False
 Cover: images/covers/gods-of-metal.jpg
 

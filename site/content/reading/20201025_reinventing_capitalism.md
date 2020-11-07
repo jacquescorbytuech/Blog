@@ -2,8 +2,10 @@ Title: Reinventing Capitalism in the Age of Big Data
 Slug: reinventing-capitalism-in-the-age-of-big-data
 Date: 2020-10-25 12:46
 Subheading: 
+Template: book
 BookAuthor: Viktor Mayer-Schonberger, Thomas Ramge
 Book: https://www.goodreads.com/book/show/38650929-reinventing-capitalism-in-the-age-of-big-data
+Bookshop: https://uk.bookshop.org/a/2625/9781473656529
 Recommended: 
 Cover: images/covers/reinventing-capitalism-in-the-age-of-big-data.jpg
 

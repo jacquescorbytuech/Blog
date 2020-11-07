@@ -2,8 +2,10 @@ Title: Invisible Women
 Slug: invisible-women
 Date: 2020-05-30 13:22
 Subheading: Exposing Data Bias in a World Designed for Men
+Template: book
 BookAuthor: Caroline Criado Perez
 Book: https://www.goodreads.com/book/show/46158570-invisible-women
+Bookshop: https://uk.bookshop.org/a/2625/9781784706289
 Recommended: True
 Cover: images/covers/invisible-women.jpg
 

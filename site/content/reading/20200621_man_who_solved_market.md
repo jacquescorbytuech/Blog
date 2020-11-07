@@ -2,8 +2,10 @@ Title: The Man Who Solved the Market
 Slug: the-man-who-solved-the-market
 Date: 2020-06-21 14:10
 Subheading: How Jim Simons Launched the Quant Revolution
+Template: book
 BookAuthor: Gregory Zuckerman
 Book: https://www.goodreads.com/book/show/49022189-the-man-who-solved-the-market
+Bookshop: https://uk.bookshop.org/a/2625/9780241309735
 Recommended: True
 Cover: images/covers/the-man-who-solved-the-market.jpg
 

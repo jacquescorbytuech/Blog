@@ -2,8 +2,10 @@ Title: Never Split the Difference
 Slug: never-split-the-difference
 Date: 2020-04-29 15:56
 Subheading: Negotiating as if Your Life Depended on It
+Template: book
 BookAuthor: Chris Voss
 Book: https://www.goodreads.com/book/show/29233865-never-split-the-difference
+Bookshop: https://uk.bookshop.org/a/2625/9781847941497
 Recommended: True
 Cover: images/covers/never-split-the-difference.jpg
 

@@ -2,8 +2,10 @@ Title: Maths on the Back of an Envelope
 Slug: maths-back-of-envelope
 Date: 2020-06-18 09:37
 Subheading: Clever ways to (roughly) calculate anything
+Template: book
 BookAuthor: Rob Eastaway
 Book: https://www.goodreads.com/book/show/51015789-maths-on-the-back-of-an-envelope
+Bookshop: https://uk.bookshop.org/a/2625/9780008324582
 Recommended:
 Cover: images/covers/maths-back-of-envelope.jpg
 

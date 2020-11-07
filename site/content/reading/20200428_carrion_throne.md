@@ -2,8 +2,10 @@ Title: The Carrion Throne
 Slug: carrion-throne
 Date: 2020-04-28 18:38
 Subheading: 
+Template: book
 BookAuthor: Chris Wraight
 Book: https://www.goodreads.com/book/show/35071441-the-carrion-throne
+Bookshop: https://uk.bookshop.org/a/2625/9781784966911
 Recommended: 
 Cover: images/covers/carrion-throne.jpg
 

@@ -2,8 +2,10 @@ Title: HBR's 10 Must Reads on Change Management
 Slug: hbr-10-reads-on-change-management
 Date: 2020-02-23 11:30
 Subheading: 
+Template: book
 BookAuthor: Harvard Business School Press
 Book: https://www.goodreads.com/book/show/8414509-hbr-s-10-must-reads-on-change-management
+Bookshop: https://uk.bookshop.org/a/2625/9781422158005
 Recommended: 
 Cover: images/covers/hbr-10-reads-change-management.jpg
 

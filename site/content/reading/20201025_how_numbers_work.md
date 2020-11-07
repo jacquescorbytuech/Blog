@@ -2,8 +2,10 @@ Title: How Numbers Work
 Slug: how-numbers-work
 Date: 2020-10-25 12:12
 Subheading: Discover the Strange and Beautiful World of Mathematics
+Template: book
 BookAuthor: New Scientist
 Book: https://www.goodreads.com/book/show/39334339-how-numbers-work
+Bookshop: https://uk.bookshop.org/a/2625/9781473670358
 Recommended: 
 Cover: images/covers/how-numbers-work.jpg
 

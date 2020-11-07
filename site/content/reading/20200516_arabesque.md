@@ -2,8 +2,10 @@ Title: The Arabesque
 Slug: the-arabesque-an-introduction
 Date: 2020-05-16 13:06
 Subheading: An Introduction
+Template: book
 BookAuthor: Heba Nayel Barakat
 Book: https://www.goodreads.com/book/show/53316956-the-arabesque
+Bookshop: 
 Recommended:
 Cover: images/covers/the-arabesque-an-introduction.jpg
 

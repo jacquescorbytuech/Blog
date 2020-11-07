@@ -2,8 +2,10 @@ Title: Statistics without Tears
 Slug: statistics-without-tears
 Date: 2020-07-24 11:05
 Subheading: An Introduction for Non-Mathematicians
+Template: book
 BookAuthor: Derek Rowntree
 Book: https://www.goodreads.com/book/show/36863652-statistics-without-tears
+Bookshop: https://uk.bookshop.org/a/2625/9780141987491
 Recommended: 
 Cover: images/covers/statistics-without-tears.jpg
 

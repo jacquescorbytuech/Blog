@@ -2,8 +2,10 @@ Title: Barbarians at the Gate
 Slug: barbarians-at-the-gate
 Date: 2020-07-04 13:15
 Subheading: The Fall of RJR Nabisco
+Template: book
 BookAuthor: Bryan Burrough
 Book: https://www.goodreads.com/book/show/40268935-barbarians-at-the-gate
+Bookshop: https://uk.bookshop.org/a/2625/9780099545835
 Recommended: True
 Cover: images/covers/barbarians-at-the-gate.jpg
 

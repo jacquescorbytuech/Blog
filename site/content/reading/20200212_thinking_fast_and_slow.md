@@ -2,8 +2,10 @@ Title: Thinking Fast and Slow
 Slug: thinking-fast-and-slow
 Date: 2020-02-12 17:51
 Subheading: 
+Template: book
 BookAuthor: Daniel Kahneman
 Book: https://www.goodreads.com/book/show/14062004-thinking-fast-and-slow
+Bookshop: https://uk.bookshop.org/a/2625/9780141033570
 Recommended: True
 Cover: images/covers/thinking-fast-and-slow.jpg
 

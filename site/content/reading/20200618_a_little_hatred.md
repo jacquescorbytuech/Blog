@@ -2,8 +2,10 @@ Title: A Little Hatred
 Slug: a-little-hatred
 Date: 2020-06-18 11:54
 Subheading: 
+Template: book
 BookAuthor: Joe Abercrombie
 Book: https://www.goodreads.com/book/show/43786788-a-little-hatred
+Bookshop: https://uk.bookshop.org/a/2625/9780575095885
 Recommended:
 Cover: images/covers/a-little-hatred.jpg
 

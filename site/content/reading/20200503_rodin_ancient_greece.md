@@ -2,8 +2,10 @@ Title: Rodin and the Art of Ancient Greece
 Slug: rodin-art-ancient-greece
 Date: 2020-05-03 12:20
 Subheading: 
+Template: book
 BookAuthor: Celeste Farge, Benedicte Garnier, Ian Jenkins
 Book: https://www.goodreads.com/book/show/36349752-rodin-and-the-art-of-ancient-greece
+Bookshop: https://uk.bookshop.org/a/2625/9780500480304
 Recommended:
 Cover: images/covers/rodin-art-ancient-greece.jpg
 

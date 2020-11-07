@@ -2,8 +2,10 @@ Title: Trustworthy Online Controlled Experiments
 Slug: trustworthy-online-controlled-experiments
 Date: 2020-08-16 15:18
 Subheading: A Practical Guide to A/B Testing
+Template: book
 BookAuthor: Ron Kohavi, Diane Tang, Ya Xu
 Book: https://www.goodreads.com/book/show/51635906-trustworthy-online-controlled-experiments
+Bookshop: https://uk.bookshop.org/a/2625/9781108724265
 Recommended: True
 Cover: images/covers/trustworthy-online-controlled-experiments.jpg
 

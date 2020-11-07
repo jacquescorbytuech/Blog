@@ -2,8 +2,10 @@ Title: Sons of the Selenar
 Slug: sons-of-the-selenar
 Date: 2020-08-06 11:06
 Subheading: 
+Template: book
 BookAuthor: Graham McNeill
 Book: https://www.goodreads.com/book/show/52385692-sons-of-the-selenar
+Bookshop: https://uk.bookshop.org/a/2625/9781789991024
 Recommended: 
 Cover: images/covers/sons-of-the-selenar.jpg
 

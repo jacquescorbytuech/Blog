@@ -2,8 +2,10 @@ Title: Black Legion
 Slug: black-legion
 Date: 2020-03-21 15:04
 Subheading: 
+Template: book
 BookAuthor: Aaron Dembski-Bowden
 Book: https://www.goodreads.com/book/show/35916964-black-legion
+Bookshop: https://uk.bookshop.org/a/2625/9781784967536
 Recommended: 
 Cover: images/covers/black-legion.jpg
 

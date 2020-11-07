@@ -2,8 +2,10 @@ Title: Narconomics
 Slug: narconomics
 Date: 2020-08-06 10:19
 Subheading: How To Run a Drug Cartel
+Template: book
 BookAuthor: Tom Wainwright
 Book: https://www.goodreads.com/book/show/30141406-narconomics
+Bookshop: https://uk.bookshop.org/a/2625/9781785030420
 Recommended: 
 Cover: images/covers/narconomics.jpg
 

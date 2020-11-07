@@ -2,8 +2,10 @@ Title: The Language Effect
 Slug: the-language-effect
 Date: 2020-05-04 19:22
 Subheading: Why AI-Powered Copywriting is a marketer's (new) best friend
+Template: book
 BookAuthor: Parry Malm
 Book: https://www.goodreads.com/book/show/51872281-the-language-effect
+Bookshop: 
 Recommended:
 Cover: images/covers/the-language-effect.jpg
 

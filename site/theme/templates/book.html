@@ -24,9 +24,30 @@
 {% block content %}
 
 <section id="content" class="body body-{{ article.category }}">
+  {% if article.cover is defined %}
+  <div class="article-cover">
+  <img class="book-cover image-process-crisp" alt="{{ article.title }}" src="{{ SITEURL }}/{{ article.cover }}" />
+  {% if article.bookshop is defined %}
+  <div>
+    <a href="{{ article.bookshop }}" class="article-link">Buy a copy &#10230;</a>
+  </div>
+  {% endif %}
+  {% if article.book is defined %}
+  <div>
+    <a href="{{ article.book }}" class="article-link">See on Goodreads &#10230;</a>
+  </div>
+  {% endif %}
+</div>
+  {% endif %}
 <article>
   <header class="heading-{{ article.category }}">
     <h1 class="entry-title">{{ article.title }}</h1>
+    {% if article.subheading is not none %}
+    <h2 class="reading-subheading">{{ article.subheading }}</h2>
+    {% endif %}
+    {% if article.category == "reading" %}
+    <p class="reading-author">By {{ article.bookauthor }}</p>
+    {% endif %}
   </header>
   <div class="post-info">
     <small><time class="published" datetime="{{ article.date.isoformat() }}">

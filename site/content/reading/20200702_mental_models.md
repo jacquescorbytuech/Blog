@@ -2,8 +2,10 @@ Title: The Great Mental Models
 Slug: the-great-mental-models
 Date: 2020-07-02 11:21
 Subheading: General Thinking Concepts
+Template: book
 BookAuthor: Shane Parrish
 Book: https://www.goodreads.com/book/show/44245196-the-great-mental-models
+Bookshop: 
 Recommended: 
 Cover: images/covers/the-great-mental-models.jpg
 

@@ -2,8 +2,10 @@ Title: The Catalyst
 Slug: the-catalyst
 Date: 2020-05-16 17:35
 Subheading: How to Change Anyone's Mind
+Template: book
 BookAuthor: Jonah Berger
 Book: https://www.goodreads.com/book/show/50815803-the-catalyst
+Bookshop: https://uk.bookshop.org/a/2625/9781471193774
 Recommended:
 Cover: images/covers/the-catalyst.jpg
 

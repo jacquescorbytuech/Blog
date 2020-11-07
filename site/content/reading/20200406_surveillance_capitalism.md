@@ -2,8 +2,10 @@ Title: The Age of Surveillance Capitalism
 Slug: the-age-of-surveillance-capitalism
 Date: 2020-04-06 16:14
 Subheading: The Fight for a Human Future at the New Frontier of Power
+Template: book
 BookAuthor: Shoshana Zuboff
 Book: https://www.goodreads.com/book/show/45439510-the-age-of-surveillance-capitalism
+Bookshop: https://uk.bookshop.org/a/2625/9781781256855
 Recommended: True
 Cover: images/covers/the-age-of-surveillance-capitalism.jpg
 

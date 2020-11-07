@@ -2,8 +2,10 @@ Title: Barbarians at the Wall
 Slug: barbarians-at-the-wall
 Date: 2020-09-27 17:09
 Subheading: The First Nomadic Empire and the Making of China
+Template: book
 BookAuthor: John Man
 Book: https://www.goodreads.com/book/show/51371513-barbarians-at-the-wall
+Bookshop: https://uk.bookshop.org/a/2625/9780552174916
 Recommended: True
 Cover: images/covers/barbarians-at-the-wall.jpg
 

@@ -2,8 +2,10 @@ Title: Saturnine
 Slug: saturnine
 Date: 2020-07-24 16:04
 Subheading: 
+Template: book
 BookAuthor: Dan Abnett
 Book: https://www.goodreads.com/book/show/49090040-saturnine
+Bookshop: https://uk.bookshop.org/a/2625/9781789993080
 Recommended: 
 Cover: images/covers/saturnine.jpg
 

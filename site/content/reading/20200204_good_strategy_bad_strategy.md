@@ -2,8 +2,10 @@ Title: Good Strategy/Bad Strategy
 Slug: good-strategy-bad-strategy
 Date: 2020-02-04 08:35
 Subheading: The difference and why it matters
+Template: book
 BookAuthor: Richard P. Rumelt
 Book: https://www.goodreads.com/book/show/36658033-good-strategy-bad-strategy
+Bookshop: https://uk.bookshop.org/a/2625/9781781256176
 Recommended: True
 Cover: images/covers/good-strategy-bad-strategy.jpg
 

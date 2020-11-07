@@ -2,8 +2,10 @@ Title: Freakonomics
 Slug: freakonomics
 Date: 2020-06-07 13:56
 Subheading: A Rogue Economist Explores the Hidden Side of Everything
+Template: book
 BookAuthor: Steven D. Levitt, Stephen J. Dubner
 Book: https://www.goodreads.com/book/show/52154262-freakonomics
+Bookshop: https://uk.bookshop.org/a/2625/9780061956270
 Recommended:
 Cover: images/covers/freakonomics.jpg
 

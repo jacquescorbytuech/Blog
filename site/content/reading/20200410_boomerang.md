@@ -2,8 +2,10 @@ Title: Boomerang
 Slug: boomerang
 Date: 2020-04-10 13:37
 Subheading: The Biggest Bust
+Template: book
 BookAuthor: Michael Lewis
 Book: https://www.goodreads.com/book/show/15872298-boomerang
+Bookshop: https://uk.bookshop.org/a/2625/9780241955024
 Recommended: True
 Cover: images/covers/boomerang.jpg
 

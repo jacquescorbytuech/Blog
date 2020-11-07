@@ -2,8 +2,10 @@ Title: The Undoing Project
 Slug: the-undoing-project
 Date: 2020-10-03 11:10
 Subheading: A Friendship that Changed the World
+Template: book
 BookAuthor: Michael Lewis
 Book: https://www.goodreads.com/book/show/35568170-the-undoing-project
+Bookshop: https://uk.bookshop.org/a/2625/9780141983042
 Recommended: 
 Cover: images/covers/the-undoing-project.jpg
 

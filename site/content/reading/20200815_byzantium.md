@@ -2,8 +2,10 @@ Title: Byzantium
 Slug: byzantium
 Date: 2020-08-15 15:19
 Subheading: The Surprising Life of a Medieval Empire
+Template: book
 BookAuthor: Judith Herrin
 Book: https://www.goodreads.com/book/show/11936615-byzantium
+Bookshop: https://uk.bookshop.org/a/2625/9780141031026
 Recommended: True
 Cover: images/covers/byzantium.jpg
 

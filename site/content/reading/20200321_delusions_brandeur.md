@@ -2,8 +2,10 @@ Title: Delusions Of Brandeur
 Slug: delusions-of-brandeur
 Date: 2020-03-21 15:39
 Subheading: 
+Template: book
 BookAuthor: Ryan Wallman
 Book: https://www.goodreads.com/book/show/50173650-delusions-of-brandeur
+Bookshop: 
 Recommended: True
 Cover: images/covers/delusions-of-brandeur.jpg
 

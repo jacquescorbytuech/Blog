@@ -2,8 +2,10 @@ Title: Cable Cowboy
 Slug: cable-cowboy
 Date: 2020-08-06 09:29
 Subheading: John Malone and the Rise of the Modern Cable Business
+Template: book
 BookAuthor: Mark Robichaux
 Book: https://www.goodreads.com/book/show/679418.Cable_Cowboy
+Bookshop: https://uk.bookshop.org/a/2625/9780471706373
 Recommended: True
 Cover: images/covers/cable-cowboy.jpg
 

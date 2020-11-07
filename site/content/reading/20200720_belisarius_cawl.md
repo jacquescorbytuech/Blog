@@ -2,8 +2,10 @@ Title: Belisarius Cawl
 Slug: belisarius-cawl-the-great-work
 Date: 2020-07-20 14:15
 Subheading: The Great Work
+Template: book
 BookAuthor: Guy Haley
 Book: https://www.goodreads.com/book/show/51849107-belisarius-cawl
+Bookshop: https://uk.bookshop.org/a/2625/9781789990584
 Recommended: 
 Cover: images/covers/belisarius-cawl-the-great-work.jpg
 
