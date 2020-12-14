@@ -34,6 +34,7 @@ I bought a $9 jingle from Envato to act as an opening track. I've not got much m
 Okay so now I've recorded and edited a podcast. I need to put it online and distribute it.
 
 I'm still not 100% on this one. After looking at a bunch of options I narrowed it to wanting this feature-set:
+
 * Cheap[^2], ideally under a tenner a month
 * Allows me to upload 80+ MB recordings (ie an hour of audio)
 * decent embeddable player I can use on my own site
