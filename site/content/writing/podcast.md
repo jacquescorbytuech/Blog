@@ -1,6 +1,6 @@
 Title: Starting a Podcast
 Slug: starting-a-podcast
-Date: 2020-12-13 17:40
+Date: 2020-12-14 17:40
 
 So I started a [podcast](https://www.mql.fm/). And actually, I think this is Elliot's fault because I really enjoyed making an appearance on [emailtalk](https://www.emailtalk.fm/episodes/06-privacy-round-table-w-dylan-smith-jacques-corby-tuech-jay-oram). Or maybe I'm just a bit vain and ended up liking the sound of my own voice too much. I guess time will tell.
 
