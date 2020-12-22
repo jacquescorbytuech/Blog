@@ -24,7 +24,7 @@ With many of us needing to continue to work from home, and with employers adapti
 
 We all need to spend time improving the quality of our non-verbal communication. In that scenario, taking up a writing habit can only be a good thing, and building a personal research library has to be encouraged to provoke the Thinking and Writing Cycle.
 
-If you're a marketer like me, I would highly recommend spending some time getting comfortable with an RSS reader like Feedly and subscribing [to](https://statmodeling.stat.columbia.edu/) [great](https://cxl.com/) [websites](https://wordtothewise.com/). I also highly recommend keeping tabs on the following journals.
+If you're a marketer like me, I would highly recommend spending some time getting comfortable with an RSS reader like Feedly and subscribing [to](https://statmodeling.stat.columbia.edu/) [great](https://cxl.com/blog) [websites](https://wordtothewise.com/blog). I also highly recommend keeping tabs on the following journals.
 
 * [Journal of Marketing Research](https://journals.sagepub.com/loi/mrja?ai=2b4&mi=ehikzz&af=R)
 * [Journal of Interactive Marketing](https://www.sciencedirect.com/journal/journal-of-interactive-marketing)
