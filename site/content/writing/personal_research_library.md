@@ -1,5 +1,5 @@
 Title: Building a Personal Research Library
-Slug: buildin-personal-research-library
+Slug: building-personal-research-library
 Date: 2020-12-22 13:56
 
 In an excellent post by Steph Smith, titled [Writing is Thinking: Learning to Write with Confidence](https://blog.stephsmith.io/learning-to-write-with-confidence/), she describes what she calls the Thinking and Writing Cycle as follows:
