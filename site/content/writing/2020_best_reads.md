@@ -1,5 +1,5 @@
-Title: My Best Reads of 2020
-Slug: 2020-best-reads
+Title: My Favourite Books of 2020
+Slug: 2020-favourite-books
 Date: 2021-01-01 11:12
 
 2020 was a good year for reading, what with being stuck inside for the overwhelming majority of it.
