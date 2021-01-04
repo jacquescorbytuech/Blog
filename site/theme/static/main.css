@@ -341,10 +341,6 @@ code {
   font-size: 0.85em;
 }
 
-.hentry {
-  margin-left: 3em;
-}
-
 @media (min-width: 480px) {
   #banner {
     margin-top: 4rem;
