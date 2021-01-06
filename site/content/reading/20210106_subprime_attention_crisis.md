@@ -10,7 +10,7 @@ Recommended: True
 Language: English
 Cover: images/covers/subprime-attention-crisis.jpg
 
-This is a short book, but it doesn't mince it's words and lays a compelling case that digital programattic advertising is in a cataclysmic bubble.
+This is a short book, but it doesn't mince it's words and lays a compelling case that digital programmatic advertising is in a cataclysmic bubble.
 
 For better or worse, the modern internet was built off the back of advertising. We rely on advertising subsidised services every day and a violent bursting of the bubble could well cause serious collatoral damage.
 
