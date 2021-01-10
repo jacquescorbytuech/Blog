@@ -65,7 +65,7 @@ What you'll need to do is manually enter the ASIN, you can find this on the prod
 
 [![Finding an Amazon ASIN](../images/post-images/Amazon-ASIN.png)](../images/post-images/Amazon-ASIN.png)
 
-Copy this ID, return to Calibre, select your book again and click `Edit metadata -> Edit metadata individually`. In the Ids form field, type "amazon:" followed by the ASIN. In my case this will look like `amazon:B08CY23588`.
+Copy this ID, return to Calibre, select your book again and click `Edit metadata -> Edit metadata individually`. In the Ids form field, type "amazon:" followed by the ASIN. In my case this will look like `amazon:B07NY9GPYY`.
 
 [![Manually fixing metadata](../images/post-images/Calibre-4.png)](../images/post-images/Calibre-4.png)
 
