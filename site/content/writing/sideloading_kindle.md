@@ -55,7 +55,7 @@ Enjoy your new book!
 
 ---
 
-## If an Error Occurs
+## If an Error Occurs<a name="if-an-error-occurs"></a>
 
 [![Calibre metadata error](../images/post-images/Calibre-3.png)](../images/post-images/Calibre-3.png)
 
