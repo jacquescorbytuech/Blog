@@ -8,7 +8,7 @@ Book: https://www.goodreads.com/book/show/18361355-r-flexions-sur-la-violence
 Bookshop: https://uk.bookshop.org/a/2625/9782917260746
 Recommended: 
 Language: French
-Cover: images/covers/weapons-of-math-destruction.jpg
+Cover: images/covers/reflexions-sur-la-violence.jpg
 
 I'm trying to read more books in French this year, so I've started with Réflexions sur la violence (In English, Reflections on Violence) by Georges Sorel, a French historian, political theorist, journalist and more.
 
