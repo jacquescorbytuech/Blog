@@ -10,7 +10,7 @@ Recommended: True
 Language: English
 Cover: images/covers/the-death-of-the-artist.jpg
 
-Believe it or not I graduated university with an art degree. Okay, so it was the-death-of-the-artist as opposed to Fine Art, Art History or something more traditional, but an art degree nevertheless. I realised, probably during my second year that art wasn't the career path I wanted, but it remains a more than passing interest of mine. I like to think I support artists by buying photos, buying books, getting tattooed, etc.
+Believe it or not I graduated university with an art degree. Okay, so it was Digital Art as opposed to Fine Art, Art History or something more traditional, but an art degree nevertheless. I realised, probably during my second year that art wasn't the career path I wanted, but it remains a more than passing interest of mine. I like to think I support artists by buying photos, buying books, getting tattooed, etc.
 
 *The Death of the Artist* is a really interesting read. Art has simultaneously never been so accessible and so poor in quality. We've all been told we can write a book, or we can produce a song. You just need to buy a new Mac, or pay for some classes. It's so easy, *anyone can do it*. But that's not true. And we're paying for it with tens of millions of hours of mediocre music on Spotify, hundreds of thousands of books that are barely worth reading on Kindle and endless reruns and remakes of staid movies.
 
