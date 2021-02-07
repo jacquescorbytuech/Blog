@@ -19,4 +19,5 @@ It doesn't have to be that way, but first, we need to get people paying for art 
 Absolutely worth reading.
 
 [^1]: The money you pay for Spotify doesn't go to the artists you listen to, it [goes to the popular artists](https://www.theringer.com/tech/2019/1/16/18184314/spotify-music-streaming-service-royalty-payout-model) on Spotify in general.
+
 [2^]: Unless you're already a multi-millionaire.
