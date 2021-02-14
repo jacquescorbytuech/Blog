@@ -3,7 +3,7 @@ Slug: what-tech-calls-thinking
 Date: 2021-02-14 11:56
 Subheading: An Inquiry Into the Intellectual Bedrock of Silicon Valley
 Template: book
-BookAuthor: William Deresiewicz
+BookAuthor: Adrian Daub
 Book: https://www.goodreads.com/book/show/50403471-what-tech-calls-thinking
 Bookshop: 
 Recommended: 
