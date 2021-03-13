@@ -10,7 +10,7 @@ These artworks are infinitely reproducible and therefore hard to value, if anyon
 
 This is the question many artists must ask themselves. Some choose to get around this problem by selling their work as physical media. As prints on high quality paper, tshirts, mugs, whatever. This introduces artificial scarcity to the work and by limiting access to the original digital file the artist is able to control access to the work. Of course, there's nothing stopping someone from scanning a print and selling copies of the work in turn if there's sufficiently high demand.
 
-[![Generative artwork by Anders Hoff](../images/post-images/anders-hoff-inconvergent.png)](https://inconvergent.net/2018/impossible-architecture/)
+[![Generative artwork by Anders Hoff](../images/post-images/anders-hoff-inconvergent.jpg)](https://inconvergent.net/2018/impossible-architecture/)
 
 Some others take this further, [Anders Hoff](https://inconvergent.net/), whose work is pictured above creates generative artworks reminiscent of digital art pioneer [Manfred Mohr](https://en.wikipedia.org/wiki/Manfred_Mohr). These works are then translated into one of-a-kind physical media through an Axidraw device, which physically draws the digital work onto paper using a pen or brush.
 
@@ -21,7 +21,7 @@ Others, like Davide Quayola go further yet. Inspired by unfinished rennaisance s
 > “In every block of marble I see a statue as plain as though it stood before me, shaped, and perfect in attitude and action. I have only to hew away the rough walls that imprison the lovely apparition to reveal it to the other eyes as mine see it. The best artist has that thought alone which is contained within the marble shell; the sculptor’s hand can only break the spell to free the figures slumbering in the stone. The true work of art is but a shadow of the divine perfection."
 > ~ Michelangelo (1501) ~
 
-[![Sculpture Factory by Davide Quayola](../images/post-images/davide-quayola-sculpture-factory)](https://quayola.com/work/series/sculpture-factory.php)
+[![Sculpture Factory by Davide Quayola](../images/post-images/davide-quayola-sculpture-factory.jpg)](https://quayola.com/work/series/sculpture-factory.php)
 
 This collaboration resulted in a digital algorithm, the outputs of which were curated by Quayola to then produce a number of 3D printed sculptures. Ultimately this work would further evolve from that point, creating a Sculpture Factory, an assembly line of unfinished physical artifacts, based on digital code.
 
@@ -29,7 +29,7 @@ This collaboration resulted in a digital algorithm, the outputs of which were cu
 
 In a similar vein, generative artist [Robbie Barrat](https://robbiebarrat.github.io/)[^1] uses his technical development skills to train AI and machine learning models, the output of which he curates in a series of works. In a recent collaboration with ACNE, Barrat created a [menswear capsule collection](https://www.vogue.com/fashion-shows/fall-2020-menswear/acne-studios) using AI to generate the clothing design.
 
-[![ACNE x Robbie Barrat](../images/post-images/robbie-barrat-acne)](../images/post-images/robbie-barrat-acne)
+[![ACNE x Robbie Barrat](../images/post-images/robbie-barrat-acne.jpg)](../images/post-images/robbie-barrat-acne.jpg)
 
 One thing these three digital artists have in common is that they've produced physical goods to be sold as art. Whether it's "handmade" prints, unique sculptures or a piece of clothing. These are all things that can be tangibly experienced and owned.
 
