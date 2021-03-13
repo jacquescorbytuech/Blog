@@ -57,7 +57,7 @@ Without adequate governance by marketplaces, NFT's will quickly become a poison 
 
 Fraud has always been present in the art world, but never before has it been so easy to commit fraud at this scale and with this much potential reward. Marketplaces are failing in their duty to protect artists and their clients, letting fraudsters run amok on their platforms.
 
-Blockchains are pivoting towards a [proof of stake](https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3) model instead of a proof of work model, this will drastically reduce carbon emissions but their is still no clear timeline in sight for Ethereum, the biggest blockchain for NFT's.
+Blockchains are pivoting towards a [proof of stake](https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3) model instead of a proof of work model, this will drastically reduce carbon emissions but there is still no clear timeline in sight for Ethereum, the biggest blockchain for NFT's.
 
 It's clear that artists need to find a way to sell digital artworks in a way which is rewarding both to themselves and to people looking to collect or experience these artworks, but it appears clear that as it stands, NFT's are a failed experiment.
 
