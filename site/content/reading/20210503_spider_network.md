@@ -1,6 +1,6 @@
 Title: The Spider Network
 Slug: the-spider-network
-Date: 2021-05-03 12:36
+Date: 2021-05-03 12:45
 Subheading: The Wild Story of a Maths Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History
 Template: book
 BookAuthor: David Enrich
