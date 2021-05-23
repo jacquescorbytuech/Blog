@@ -6,7 +6,7 @@ Template: book
 BookAuthor: Niall Ferguson
 Book: https://www.goodreads.com/book/show/37119714-the-square-and-the-tower
 Bookshop: 
-Recommended: True
+Recommended: False
 Language: English
 Cover: images/covers/the-square-and-the-tower.jpg
 
