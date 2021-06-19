@@ -6,7 +6,7 @@ Template: book
 BookAuthor: Chris Wraight
 Book: https://www.goodreads.com/book/show/49090039-bloodlines
 Bookshop: 
-Recommended: True
+Recommended:
 Language: English
 Cover: images/covers/bloodlines.jpg
 
