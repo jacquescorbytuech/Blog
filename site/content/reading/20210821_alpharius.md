@@ -6,7 +6,7 @@ Template: book
 BookAuthor: Mike Brooks
 Book: https://www.goodreads.com/book/show/57147054-alpharius
 Bookshop: 
-Recommended: True
+Recommended: 
 Language: English
 Cover: images/covers/alpharius.jpg
 
