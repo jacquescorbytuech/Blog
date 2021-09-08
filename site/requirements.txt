@@ -13,7 +13,7 @@ mccabe==0.6.1
 pelican==4.2.0
 pelican-extended-sitemap==1.2.3
 pelican-image-process==1.3.0
-Pillow==8.1.1
+Pillow==8.3.2
 pipupgrade==1.6.5
 Pygments==2.7.4
 pylint==2.3.1
