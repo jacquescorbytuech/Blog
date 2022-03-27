@@ -1,5 +1,5 @@
 Title: How AdTech Works
-Slug: gow-adtech-works
+Slug: how-adtech-works
 Date: 2022-03-27 15:44
 Link: https://vimeo.com/670735163
 
