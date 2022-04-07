@@ -67,16 +67,19 @@ I'm excited to see where and how this changes the way marketers fundamentally op
 
 If this is something you're interested in, I highly recommend the following
 
-Newsletters:
+Newsletters
+
 * https://benn.substack.com/
 * https://sarahsnewsletter.substack.com/
 * https://substack.com/profile/64081583-david-jayatillake
 * https://arpitc.substack.com/
 
-Podcasts:
+Podcasts
+
 * https://roundup.getdbt.com/
 
-Blogs:
+Blogs
+
 * https://airbyte.com/blog
 * https://blog.getcensus.com/
 * https://hightouch.io/blog/
