@@ -92,6 +92,6 @@ Blogs
 [^census]: Census recently raised [$60 million](https://blog.getcensus.com/series-b-the-future-of-operational-analytics/) for their series B funding round
 [^hightouch]: Hightouch recently raised [$40 million](https://hightouch.io/blog/series-b/) for their series B funding round
 [^dbt]: dbt recently raised [$222 million](https://blog.getdbt.com/next-layer-of-the-modern-data-stack/) for their series D funding round 
-[^airbyte]: Airbytre recently raised [$150 million](https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data) for their series B funding round 
+[^airbyte]: Airbyte recently raised [$150 million](https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data) for their series B funding round 
 [^stack]: If you know of any more, please let me know!
 [^segmentation]: Both [Census](https://blog.getcensus.com/census-segments-build-audiences-without-sql/) and [Hightouch](https://hightouch.io/audiences/) now offer visual audience builders as part of their rETL offering, allowing marketers to build complex segments without needing to know SQL. 
