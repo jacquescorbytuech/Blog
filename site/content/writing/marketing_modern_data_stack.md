@@ -20,7 +20,7 @@ The email marketers amongst us, for example, will be familiar with the concept o
 
 In short, you need data, lots of it and it needs to be tightly integrated across the entire customer lifecycle.
 
-**But the landscape is changing.**
+## The landscape is changing
 
 In 2020, the venture capital firm Andreessen Horowitz published an article called [Emerging Architectures for Modern Data Infrastructure](https://future.a16z.com/emerging-architectures-for-modern-data-infrastructure-2020/)[^2021] in which they outlined the explosive growth within the data infrastructure market.
 
@@ -69,20 +69,20 @@ If this is something you're interested in, I highly recommend the following
 
 Newsletters
 
-* https://benn.substack.com/
-* https://sarahsnewsletter.substack.com/
-* https://substack.com/profile/64081583-david-jayatillake
-* https://arpitc.substack.com/
+* [https://benn.substack.com/](https://benn.substack.com/)
+* [https://sarahsnewsletter.substack.com/](https://sarahsnewsletter.substack.com/)
+* [https://substack.com/profile/64081583-david-jayatillake](https://substack.com/profile/64081583-david-jayatillake)
+* [https://arpitc.substack.com/](https://arpitc.substack.com/)
 
 Podcasts
 
-* https://roundup.getdbt.com/
+* [https://roundup.getdbt.com/](https://roundup.getdbt.com/)
 
 Blogs
 
-* https://airbyte.com/blog
-* https://blog.getcensus.com/
-* https://hightouch.io/blog/
+* [https://airbyte.com/blog](https://airbyte.com/blog)
+* [https://blog.getcensus.com/](https://blog.getcensus.com/)
+* [https://hightouch.io/blog/](https://hightouch.io/blog/)
 
 
 [^mike]: I'd also like to shoutout Mike Seville, CDO at Paymentsense/Dojo who really helped me on the path towards thinking more hoslitically about the role of data in the work I do.
