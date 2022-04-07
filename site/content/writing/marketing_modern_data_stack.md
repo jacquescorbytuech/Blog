@@ -87,11 +87,11 @@ Blogs
 
 [^mike]: I'd also like to shoutout Mike Seville, CDO at Paymentsense/Dojo who really helped me on the path towards thinking more hoslitically about the role of data in the work I do.
 [^acronym]: There's probably an acronym, I just don't know it.
-[^2021]: Now updated for 2021 https://future.a16z.com/emerging-architectures-modern-data-infrastructure/
-[^snowflake]: The Cloud warehouse Snowflake saw their shares double at their IPO in late 2020 https://edition.cnn.com/2020/09/16/investing/snowflake-ipo/index.html
-[^census]: Census recently raised $60 million for their series B funding round https://blog.getcensus.com/series-b-the-future-of-operational-analytics/
-[^hightouch]: Hightouch recently raised $40 million for their series B funding round https://hightouch.io/blog/series-b/
-[^dbt]: dbt recently raised $222 million for their series D funding round https://blog.getdbt.com/next-layer-of-the-modern-data-stack/
-[^airbyte]: Airbytre recently raised $150 million for their series B funding round https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data
+[^2021]: [Now updated for 2021](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/) 
+[^snowflake]: The Cloud warehouse [Snowflake saw their shares double](https://edition.cnn.com/2020/09/16/investing/snowflake-ipo/index.html) at their IPO in late 2020 
+[^census]: Census recently raised [$60 million](https://blog.getcensus.com/series-b-the-future-of-operational-analytics/) for their series B funding round
+[^hightouch]: Hightouch recently raised [$40 million](https://hightouch.io/blog/series-b/) for their series B funding round
+[^dbt]: dbt recently raised [$222 million](https://blog.getdbt.com/next-layer-of-the-modern-data-stack/) for their series D funding round 
+[^airbyte]: Airbytre recently raised [$150 million](https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data) for their series B funding round 
 [^stack]: If you know of any more, please let me know!
 [^segmentation]: Both [Census](https://blog.getcensus.com/census-segments-build-audiences-without-sql/) and [Hightouch](https://hightouch.io/audiences/) now offer visual audience builders as part of their rETL offering, allowing marketers to build complex segments without needing to know SQL. 
