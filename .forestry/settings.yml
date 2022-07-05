@@ -9,7 +9,7 @@ sections:
   label: Links
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: site/content/reading
   label: Reading
