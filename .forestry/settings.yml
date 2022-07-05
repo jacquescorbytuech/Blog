@@ -15,7 +15,7 @@ sections:
   label: Writing
   create: documents
   match: "**/*"
-upload_dir: uploads
+upload_dir: site/content/images
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
