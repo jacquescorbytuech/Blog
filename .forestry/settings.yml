@@ -21,6 +21,8 @@ sections:
   label: Writing
   create: documents
   match: "**/*"
+  templates:
+  - writing
 upload_dir: site/content/images
 public_path: "/uploads"
 front_matter_path: ''
