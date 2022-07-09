@@ -1,0 +1,33 @@
+{% extends "_includes/default.njk" %}
+
+{% block content %}
+
+<section class="max-w-4xl ">
+<article>
+  <header class="text-center">
+    <h1 class="leading-normal text-6xl font-bold ">{{ title }}</h1>
+  </header>
+  <div class="text-sm text-center mt-5 mb-5">
+    <time class="published" datetime="">
+      {{ date }}
+    </time>
+  </div>
+
+  {% if article.link is defined %}
+  <div>
+    <a href="{{ article.link }}" class="article-link">Go to source &#10230;</a>
+  </div>
+  {% endif %}
+
+  <div class="mt-10 prose-lg">
+    {{ content | safe }}
+    <p>Cheers,</p>
+    <img class="signature"  alt="signature" src="{{ SITEURL }}/images/jacques.png" />
+  </div>
+  {% include 'subscribe.njk' %}
+  
+</article>
+</section>
+
+
+{% endblock %}
