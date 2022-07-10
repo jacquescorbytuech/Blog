@@ -1,0 +1,24 @@
+---
+permalink: /writing/
+---
+
+{% extends "default.njk" %}
+
+{% block title %}Writing{% endblock %}
+
+{% block content %}
+
+<section class="flex flex-col items-center justify-center">
+<article class="max-w-4xl">
+    {% include 'subscribe.njk' %}
+
+  <div class="mt-10 content category">
+    {% set postslist = collections.writing %}
+    {% include 'postslist.njk' %}
+  </div>
+  
+</article>
+</section>
+
+
+{% endblock %}

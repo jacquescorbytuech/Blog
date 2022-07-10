@@ -18,12 +18,12 @@
     @apply text-xl mt-8 mb-8 leading-normal
 }
 
-.content h1 {
-    @apply text-6xl mt-3 mb-2 font-bold leading-normal
-}
-
 .content h2 {
     @apply text-3xl mt-16 mb-4 font-bold
+}
+
+.content h3 {
+    @apply text-2xl mt-16 mb-4 font-bold
 }
 
 .content hr {
@@ -57,9 +57,13 @@
 
 
 .content ol {
-    @apply list-decimal text-xl ml-8
+    @apply list-decimal text-xl ml-8 leading-8
 }
 
 .content ul {
     @apply list-disc text-xl ml-12 leading-8
+}
+
+.category ol {
+    @apply list-none ml-0
 }

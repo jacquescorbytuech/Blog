@@ -1,10 +1,9 @@
 const htmlmin = require('html-minifier')
 
+const { DateTime } = require("luxon");
 const now = String(Date.now())
-
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 
@@ -32,16 +31,30 @@ module.exports = function (eleventyConfig) {
     return now
   })
 
-  eleventyConfig.addCollection("test", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("_posts/writing/*.md");
+  eleventyConfig.addFilter("readableDate", dateObj => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+  });
+
+  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+  });
+
+  function filterTagList(tags) {
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+  }
+
+  eleventyConfig.addFilter("filterTagList", filterTagList)
+
+  eleventyConfig.addCollection("writing", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("src/_posts/writing/*.md");
   });
 
   eleventyConfig.addCollection("reading", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("_posts/reading/*.md");
+    return collectionApi.getFilteredByGlob("src/_posts/reading/*.md");
   });
   
   eleventyConfig.addCollection("links", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("_posts/links/*.md");
+    return collectionApi.getFilteredByGlob("src/_posts/links/*.md");
   });
 
   eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
@@ -66,7 +79,7 @@ module.exports = function (eleventyConfig) {
       input: "src",
       output: "_site",
     },
-    templateFormats: [ "md", "njk", ],
+    templateFormats: [ "md", "njk", "html", ],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",

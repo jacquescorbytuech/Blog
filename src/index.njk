@@ -7,4 +7,23 @@
     <h1 class="text-4xl font-bold">Hi, I'm Jacques</h1>
     <p class="text-xl">I do Marketing Ops and CRM</p>
   </div>
+
+<ul>
+{%- for writing in collections.writing | reverse -%}
+  <li><a href ="{{ writing.url }}">{{ writing.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
+<ul>
+{%- for reading in collections.reading | reverse -%}
+  <li><a href ="{{ reading.url }}">{{ reading.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
+<ul>
+{%- for links in collections.links.slice (0, 5) | reverse -%}
+  <li><a href ="{{ links.url }}">{{ links.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
 {% endblock %}
