@@ -1,6 +1,6 @@
 ---
 title: Bloomberg Ad Spending
-permalink: bloomberg-ad-spending
+permalink: links/bloomberg-ad-spending/
 date: 2020-02-24
 link: https://www.washingtonpost.com/graphics/2020/politics/bloomberg-ad-spending-scale/
 ---

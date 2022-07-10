@@ -1,6 +1,6 @@
 ---
 title: Weapons of Math Destruction
-permalink: weapons-of-math-destruction
+permalink: reading/weapons-of-math-destruction/
 date: 2021-01-11
 subheading: How Big Data Increases Inequality and Threatens Democracy
 template: book

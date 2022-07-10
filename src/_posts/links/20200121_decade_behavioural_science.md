@@ -1,6 +1,6 @@
 ---
 title: The Next Decade of Behavioural Science
-permalink: next-decade-behavioural-science
+permalink: links/next-decade-behavioural-science/
 date: 2020-01-21
 link: https://behavioralscientist.org/imagining-the-next-decade-future-of-behavioral-science
 ---

@@ -1,6 +1,6 @@
 ---
 title: Inside Mark Zuckerberg's Lost Notebook
-permalink: inside-zuckerberg-lost-notebook
+permalink: links/inside-zuckerberg-lost-notebook/
 date: 2020-02-13
 link: https://www.wired.com/story/facebook-mark-zuckerberg-lost-notebook/
 ---

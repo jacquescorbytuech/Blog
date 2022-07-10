@@ -1,6 +1,6 @@
 ---
 title: The End of the Trident Era
-permalink: trident-engine-end
+permalink: links/trident-engine-end/
 date: 2020-01-30
 link: https://schepp.dev/posts/today-the-trident-era-ends/
 ---

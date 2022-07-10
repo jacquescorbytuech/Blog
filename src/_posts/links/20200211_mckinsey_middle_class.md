@@ -1,6 +1,6 @@
 ---
 title: How McKinsey Destroyed the Middle Class
-permalink: how-mckinsey-destroyed-the-middle-class
+permalink: links/how-mckinsey-destroyed-the-middle-class/
 date: 2020-02-11
 link: https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/
 ---

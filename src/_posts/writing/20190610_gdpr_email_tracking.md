@@ -1,6 +1,6 @@
 ---
 title: Dear Email Industry, We've Got a GDPR Problem
-permalink: gdpr-email-tracking
+permalink: writing/gdpr-email-tracking/
 date: 2019-06-10
 summary: Time to stop burying our heads in the sand.
 ---

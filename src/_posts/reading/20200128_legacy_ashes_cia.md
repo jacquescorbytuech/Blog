@@ -1,6 +1,6 @@
 ---
 title: Legacy of Ashes
-permalink: legacy-ashes-history-cia
+permalink: reading/legacy-ashes-history-cia/
 date: 2020-01-28
 subheading: The History of the CIA
 template: book

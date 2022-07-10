@@ -1,6 +1,6 @@
 ---
 title: Subprime Attention Crisis
-permalink: subprime-attention-crisis
+permalink: reading/subprime-attention-crisis/
 date: 2021-01-06
 subheading: Advertising and the Time Bomb at the Heart of the Internet
 template: book

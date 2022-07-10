@@ -1,6 +1,6 @@
 ---
 title: UI Components for Communication
-permalink: 20200114-ui-components-communication
+permalink: links/20200114-ui-components-communication/
 date: 2020-01-14
 link: https://medium.com/@adamshriki/choosing-the-right-ui-component-for-communication-with-your-users-523499c39490
 ---

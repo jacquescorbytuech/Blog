@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20200106-weekly-reading
+permalink: writing/20200106-weekly-reading/
 date: 2020-01-12
 ---
 

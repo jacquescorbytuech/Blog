@@ -1,7 +1,6 @@
 ---
----
 title: NFT's Aren't the Answer to the IRL Problems of Digital Art
-permalink: writing/irl-problem-digital-art-nft/
+permalink: writing/writing/irl-problem-digital-art-nft/
 date: 2021-03-13
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Death of the Artist
-permalink: the-death-of-the-artist
+permalink: reading/the-death-of-the-artist/
 date: 2021-02-07
 subheading: How Creators are Struggling to Survive in the Age of Billionaires and Big Tech
 template: book

@@ -1,6 +1,6 @@
 ---
 title: Cheap Website Personalisation With Google Optimize
-permalink: google-optimize-personalisation
+permalink: links/google-optimize-personalisation/
 date: 2020-02-17
 link: https://cxl.com/blog/optimize-tag-manager-personalization/
 ---

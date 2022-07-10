@@ -1,6 +1,6 @@
 ---
 title: Don't Throw Data Governance Out With the Bathwater
-permalink: retl-cdp-data-activation-governance
+permalink: writing/retl-cdp-data-activation-governance/
 date: 2022-04-23
 ---
 

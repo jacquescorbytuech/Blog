@@ -1,6 +1,6 @@
 ---
 title: Invisible Women
-permalink: invisible-women
+permalink: reading/invisible-women/
 date: 2020-05-30
 subheading: Exposing Data Bias in a World Designed for Men
 template: book

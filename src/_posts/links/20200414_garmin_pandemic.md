@@ -1,6 +1,6 @@
 ---
 title: Exercising Through the Pandemic
-permalink: garmin-covid19-exercise
+permalink: links/garmin-covid19-exercise/
 date: 2020-04-14
 link: https://www.garmin.com/en-US/blog/general/the-effect-of-the-global-pandemic-on-active-lifestyles/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tough Mudder
-permalink: tough-mudder
+permalink: writing/tough-mudder/
 date: 2019-05-06
 summary: Spoiler alert, it was tough.
 ---

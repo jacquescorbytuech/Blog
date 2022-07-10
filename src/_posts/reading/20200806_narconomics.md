@@ -1,6 +1,6 @@
 ---
 title: Narconomics
-permalink: narconomics
+permalink: reading/narconomics/
 date: 2020-08-06
 subheading: How To Run a Drug Cartel
 template: book

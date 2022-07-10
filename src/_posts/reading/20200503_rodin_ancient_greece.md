@@ -1,6 +1,6 @@
 ---
 title: Rodin and the Art of Ancient Greece
-permalink: rodin-art-ancient-greece
+permalink: reading/rodin-art-ancient-greece/
 date: 2020-05-03
 subheading: 
 template: book

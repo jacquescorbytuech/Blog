@@ -1,6 +1,6 @@
 ---
 title: The Price of Inequality
-permalink: the-price-of-inequality
+permalink: reading/the-price-of-inequality/
 date: 2021-12-04
 subheading: 
 template: book

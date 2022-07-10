@@ -1,6 +1,6 @@
 ---
 title: Tristes Tropiques
-permalink: tristes-tropiques
+permalink: reading/tristes-tropiques/
 date: 2020-12-31
 subheading: 
 template: book

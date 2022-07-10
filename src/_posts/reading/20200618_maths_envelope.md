@@ -1,6 +1,6 @@
 ---
 title: Maths on the Back of an Envelope
-permalink: maths-back-of-envelope
+permalink: reading/maths-back-of-envelope/
 date: 2020-06-18
 subheading: Clever ways to (roughly) calculate anything
 template: book

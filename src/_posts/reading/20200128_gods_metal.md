@@ -1,6 +1,6 @@
 ---
 title: Gods of Metal
-permalink: gods-metal
+permalink: reading/gods-metal/
 date: 2020-01-19
 subheading: 
 template: book

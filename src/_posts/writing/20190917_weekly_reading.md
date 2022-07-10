@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190909-weekly-reading
+permalink: writing/20190909-weekly-reading/
 date: 2019-09-17
 summary: Better late than never?
 ---

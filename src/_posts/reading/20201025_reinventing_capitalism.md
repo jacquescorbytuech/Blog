@@ -1,6 +1,6 @@
 ---
 title: Reinventing Capitalism in the Age of Big Data
-permalink: reinventing-capitalism-in-the-age-of-big-data
+permalink: reading/reinventing-capitalism-in-the-age-of-big-data/
 date: 2020-10-25
 subheading: 
 template: book

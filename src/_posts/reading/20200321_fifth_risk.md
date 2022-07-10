@@ -1,6 +1,6 @@
 ---
 title: The Fifth Risk
-permalink: the-fifth-risk
+permalink: reading/the-fifth-risk/
 date: 2020-03-21
 subheading: Undoing Democracy
 template: book

@@ -1,6 +1,6 @@
 ---
 title: Microsoft Editor, an Alternative to Grammarly's Keylogger?
-permalink: microsoft-editor-grammarly-keylogger
+permalink: writing/microsoft-editor-grammarly-keylogger/
 date: 2020-05-03
 ---
 

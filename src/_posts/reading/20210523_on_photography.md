@@ -1,6 +1,6 @@
 ---
 title: On Photography
-permalink: on-photography
+permalink: reading/on-photography/
 date: 2021-05-23
 subheading: 
 template: book

@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20191007-weekly-reading
+permalink: writing/20191007-weekly-reading/
 date: 2019-10-13
 summary: Who could've seen this coming?
 ---

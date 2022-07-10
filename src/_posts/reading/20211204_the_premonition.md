@@ -1,6 +1,6 @@
 ---
 title: The Premonition
-permalink: the-premonition
+permalink: reading/the-premonition/
 date: 2021-12-04
 subheading: A Pandemic Story
 template: book

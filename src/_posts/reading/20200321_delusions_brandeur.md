@@ -1,6 +1,6 @@
 ---
 title: Delusions Of Brandeur
-permalink: delusions-of-brandeur
+permalink: reading/delusions-of-brandeur/
 date: 2020-03-21
 subheading: 
 template: book

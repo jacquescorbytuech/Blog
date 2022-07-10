@@ -1,6 +1,6 @@
 ---
 title: The Laundromat
-permalink: the-laundromat
+permalink: reading/the-laundromat/
 date: 2021-12-31
 subheading: Inside the Panama Papers Investigation of Illicit Money Networks and the Global Elite
 template: book

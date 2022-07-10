@@ -1,6 +1,6 @@
 ---
 title: The Boundless Sea
-permalink: the-boundless-sea
+permalink: reading/the-boundless-sea/
 date: 2021-04-06
 subheading: A Human History of the Oceans
 template: book

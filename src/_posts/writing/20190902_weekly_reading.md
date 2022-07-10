@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190826-weekly-reading
+permalink: writing/20190826-weekly-reading/
 date: 2019-09-02
 summary: A day late but who's counting anyway?
 ---

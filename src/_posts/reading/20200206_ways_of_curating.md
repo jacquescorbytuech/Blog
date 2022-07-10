@@ -1,6 +1,6 @@
 ---
 title: Ways of Curating
-permalink: ways-of-curating
+permalink: reading/ways-of-curating/
 date: 2020-02-06
 subheading: 
 template: book

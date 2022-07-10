@@ -1,6 +1,6 @@
 ---
 title: Building a Personal Research Library
-permalink: building-personal-research-library
+permalink: writing/building-personal-research-library/
 date: 2020-12-22
 ---
 

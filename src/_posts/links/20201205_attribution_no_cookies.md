@@ -1,6 +1,6 @@
 ---
 title: Attribution Without Cookies
-permalink: attribution-without-cookies
+permalink: links/attribution-without-cookies/
 date: 2020-12-05
 link: https://www.analyticshour.io/2020/12/01/155-attribution-without-cookies-with-joe-sutherland/
 ---

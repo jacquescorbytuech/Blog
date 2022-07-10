@@ -1,6 +1,6 @@
 ---
 title: The Spider Network
-permalink: the-spider-network
+permalink: reading/the-spider-network/
 date: 2021-05-03
 subheading: The Wild Story of a Maths Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History
 template: book

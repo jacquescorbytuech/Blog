@@ -1,6 +1,6 @@
 ---
 title: Advertising For Skeptics
-permalink: advertising-for-skeptics
+permalink: reading/advertising-for-skeptics/
 date: 2020-05-02
 subheading: 
 template: book

@@ -1,6 +1,6 @@
 ---
 title: The A/B Testing Paradox
-permalink: ab-testing-paradox
+permalink: links/ab-testing-paradox/
 date: 2020-01-28
 link: https://matthewstrom.com/writing/ab-testing-paradox/
 ---

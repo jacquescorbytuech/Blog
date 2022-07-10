@@ -1,6 +1,6 @@
 ---
 title: Zoom - Surveillance by Design
-permalink: zoom-surveillance-by-design
+permalink: links/zoom-surveillance-by-design/
 date: 2020-03-29
 link: https://blogs.harvard.edu/doc/2020/03/27/zoom/
 ---

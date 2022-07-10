@@ -1,6 +1,6 @@
 ---
 title: What are "toast" messages?
-permalink: toast-messages
+permalink: links/toast-messages/
 date: 2020-03-26
 link: https://adrianroselli.com/2020/01/defining-toast-messages.html
 ---

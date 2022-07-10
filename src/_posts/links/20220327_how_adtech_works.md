@@ -1,6 +1,6 @@
 ---
 title: How AdTech Works
-permalink: how-adtech-works
+permalink: links/how-adtech-works/
 date: 2022-03-27
 link: https://vimeo.com/670735163
 ---

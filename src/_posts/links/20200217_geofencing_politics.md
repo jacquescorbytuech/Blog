@@ -1,6 +1,6 @@
 ---
 title: Geofencing Gets Political
-permalink: geofencing-spatial-politics
+permalink: links/geofencing-spatial-politics/
 date: 2020-02-17
 link: http://www.bldgblog.com/2020/02/the-spatial-politics-of-geofencing/
 ---

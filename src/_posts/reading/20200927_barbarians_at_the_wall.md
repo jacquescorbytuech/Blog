@@ -1,6 +1,6 @@
 ---
 title: Barbarians at the Wall
-permalink: barbarians-at-the-wall
+permalink: reading/barbarians-at-the-wall/
 date: 2020-09-27
 subheading: The First Nomadic Empire and the Making of China
 template: book

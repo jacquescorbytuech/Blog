@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190930-weekly-reading
+permalink: writing/20190930-weekly-reading/
 date: 2019-10-06
 summary: Pardon the hiatus
 ---

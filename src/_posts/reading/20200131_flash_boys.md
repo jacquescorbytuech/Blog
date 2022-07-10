@@ -1,6 +1,6 @@
 ---
 title: Flash Boys
-permalink: flash-boys
+permalink: reading/flash-boys/
 date: 2020-01-31
 subheading: A Wall Street Revolt
 template: book

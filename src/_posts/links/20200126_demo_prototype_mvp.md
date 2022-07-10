@@ -1,6 +1,6 @@
 ---
 title: Demos, Prototypes and MVPs
-permalink: demo-prototype-mvp
+permalink: links/demo-prototype-mvp/
 date: 2020-01-26
 link: https://jacobian.org/2020/jan/16/demos-prototypes-mvps/
 ---

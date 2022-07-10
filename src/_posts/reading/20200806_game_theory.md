@@ -1,6 +1,6 @@
 ---
 title: Game Theory
-permalink: game-theory
+permalink: reading/game-theory/
 date: 2020-08-06
 subheading: A Very Short Introduction
 template: book

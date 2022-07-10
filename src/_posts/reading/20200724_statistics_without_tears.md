@@ -1,6 +1,6 @@
 ---
 title: Statistics without Tears
-permalink: statistics-without-tears
+permalink: reading/statistics-without-tears/
 date: 2020-07-24
 subheading: An Introduction for Non-Mathematicians
 template: book

@@ -1,6 +1,6 @@
 ---
 title: Thinking in Bets
-permalink: thinking-in-bets
+permalink: reading/thinking-in-bets/
 date: 2021-04-11
 subheading: Making Smarter Decisions When You Don't Have All the Facts
 template: book

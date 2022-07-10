@@ -1,6 +1,6 @@
 ---
 title: Marketing and the Modern Data Stack
-permalink: marketing-modern-data-stack
+permalink: writing/marketing-modern-data-stack/
 date: 2022-04-07
 ---
 

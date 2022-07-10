@@ -1,6 +1,6 @@
 ---
 title: Post GDPR Dark Patterns - A Study of Cookie Consent Notices
-permalink: gdpr-dark-patterns-cookie-consent-study
+permalink: links/gdpr-dark-patterns-cookie-consent-study/
 date: 2020-02-22
 link: https://arxiv.org/abs/2001.02479
 ---

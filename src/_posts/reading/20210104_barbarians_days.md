@@ -1,6 +1,6 @@
 ---
 title: Barbarian Days
-permalink: barbarian-days
+permalink: reading/barbarian-days/
 date: 2021-01-04
 subheading: A Surfing Life
 template: book

@@ -1,6 +1,6 @@
 ---
 title: Email Resources
-permalink: email-resources
+permalink: links/email-resources/
 date: 2021-05-08
 link: https://emailresourc.es/
 ---

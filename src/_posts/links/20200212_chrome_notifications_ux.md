@@ -1,6 +1,6 @@
 ---
 title: How Users Engage With Chrome Push Notification Prompts
-permalink: chrome-push-notifications-prompts
+permalink: links/chrome-push-notifications-prompts/
 date: 2020-02-12
 link: https://dev.to/chromiumdev/yestifications-exploring-how-users-engage-with-notification-prompts-in-the-chrome-ux-report-4h7c
 ---

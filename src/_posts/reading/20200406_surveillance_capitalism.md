@@ -1,6 +1,6 @@
 ---
 title: The Age of Surveillance Capitalism
-permalink: the-age-of-surveillance-capitalism
+permalink: reading/the-age-of-surveillance-capitalism/
 date: 2020-04-06
 subheading: The Fight for a Human Future at the New Frontier of Power
 template: book

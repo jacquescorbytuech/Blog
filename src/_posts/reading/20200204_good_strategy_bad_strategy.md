@@ -1,6 +1,6 @@
 ---
 title: Good Strategy/Bad Strategy
-permalink: good-strategy-bad-strategy
+permalink: reading/good-strategy-bad-strategy/
 date: 2020-02-04
 subheading: The difference and why it matters
 template: book

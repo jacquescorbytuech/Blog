@@ -1,6 +1,6 @@
 ---
 title: What do NFT's Mean for Digital Art?
-permalink: nfts-digital-art
+permalink: links/nfts-digital-art/
 date: 2021-03-05
 link: https://rhizome.org/editorial/2021/mar/03/another-new-world/
 ---

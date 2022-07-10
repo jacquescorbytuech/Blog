@@ -1,6 +1,6 @@
 ---
 title: Classical Menswear Meets Tattooing
-permalink: classical-menswear-tattooing
+permalink: links/classical-menswear-tattooing/
 date: 2020-05-11
 link: https://www.permanentstyle.com/2019/09/my-tattoo.html
 ---

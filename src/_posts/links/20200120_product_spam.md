@@ -1,6 +1,6 @@
 ---
 title: Spam Won't Save Your Product
-permalink: 20200120-spam-wont-save-your-product
+permalink: links/20200120-spam-wont-save-your-product/
 date: 2020-01-20
 link: https://productcoalition.com/if-your-product-is-truly-useful-you-can-skip-the-part-where-you-constantly-spam-your-customers-ae98b651c05c
 ---

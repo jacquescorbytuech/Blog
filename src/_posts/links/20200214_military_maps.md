@@ -1,6 +1,6 @@
 ---
 title: Military Maps
-permalink: military-maps
+permalink: links/military-maps/
 date: 2020-02-14
 link: https://militarymaps.rct.uk/
 ---

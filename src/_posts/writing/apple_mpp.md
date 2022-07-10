@@ -1,6 +1,6 @@
 ---
 title: An Email Marketer's Take on Apple Mail Privacy Protection
-permalink: email-marketers-take-apple-mail-privacy-protection
+permalink: writing/email-marketers-take-apple-mail-privacy-protection/
 date: 2021-06-10
 ---
 

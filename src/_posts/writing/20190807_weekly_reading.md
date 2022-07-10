@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190805-weekly-reading
+permalink: writing/20190805-weekly-reading/
 date: 2019-08-07
 summary: Some things you should read this week.
 ---

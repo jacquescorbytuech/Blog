@@ -1,6 +1,6 @@
 ---
 title: Starting a Podcast
-permalink: starting-a-podcast
+permalink: writing/starting-a-podcast/
 date: 2020-12-14
 ---
 

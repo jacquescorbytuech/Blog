@@ -1,6 +1,6 @@
 ---
 title: Byzantium
-permalink: byzantium
+permalink: reading/byzantium/
 date: 2020-08-15
 subheading: The Surprising Life of a Medieval Empire
 template: book

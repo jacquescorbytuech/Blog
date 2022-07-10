@@ -1,6 +1,6 @@
 ---
 title: Cable Cowboy
-permalink: cable-cowboy
+permalink: reading/cable-cowboy/
 date: 2020-08-06
 subheading: John Malone and the Rise of the Modern Cable Business
 template: book

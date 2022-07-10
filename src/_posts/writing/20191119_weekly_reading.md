@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20191111-weekly-reading
+permalink: writing/20191111-weekly-reading/
 date: 2019-11-19
 ---
 

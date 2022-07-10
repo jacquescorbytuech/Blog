@@ -1,6 +1,6 @@
 ---
 title: How Basecamp use Basecamp
-permalink: basecamp-use-basecamp
+permalink: links/basecamp-use-basecamp/
 date: 2020-06-11
 link: https://fullstackradio.com/episodes/141
 ---

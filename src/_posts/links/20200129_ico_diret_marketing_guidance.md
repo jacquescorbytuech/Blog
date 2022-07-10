@@ -1,6 +1,6 @@
 ---
 title: ICO Direct Marketing Consultation
-permalink: ico-direct-marketing-consultation
+permalink: links/ico-direct-marketing-consultation/
 date: 2020-01-29
 link: https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-consultation-on-the-draft-direct-marketing-code-of-practice
 ---

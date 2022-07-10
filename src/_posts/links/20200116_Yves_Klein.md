@@ -1,6 +1,6 @@
 ---
 title: Yves Klein and the Void
-permalink: 20200116-yves-klein-void
+permalink: links/20200116-yves-klein-void/
 date: 2020-01-16
 link: https://www.artsy.net/article/artsy-editorial-yves-klein-tricked-iconic-photograph
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saying Goodbye to the Landing Page
-permalink: goodbye-landing-pages
+permalink: links/goodbye-landing-pages/
 date: 2020-01-20
 link: https://uxdesign.cc/the-new-landing-page-is-to-have-no-landing-page-at-all-bb57ca1548f1
 ---

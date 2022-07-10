@@ -1,6 +1,6 @@
 ---
 title: The Language Effect
-permalink: the-language-effect
+permalink: reading/the-language-effect/
 date: 2020-05-04
 subheading: Why AI-Powered Copywriting is a marketer's (new) best friend
 template: book

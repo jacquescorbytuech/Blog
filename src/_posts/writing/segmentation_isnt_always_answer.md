@@ -1,6 +1,6 @@
 ---
 title: Why segmentation isn't always the answer
-permalink: why-segmentation-isnt-always-the-answer
+permalink: writing/why-segmentation-isnt-always-the-answer/
 date: 2020-05-09
 ---
 

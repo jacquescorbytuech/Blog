@@ -1,6 +1,6 @@
 ---
 title: Big Tech Digital Consent
-permalink: big-tech-digital-consent
+permalink: links/big-tech-digital-consent/
 date: 2020-04-15
 link: https://epub.wu.ac.at/7523/
 ---

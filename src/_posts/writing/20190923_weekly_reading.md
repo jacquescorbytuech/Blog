@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190916-weekly-reading
+permalink: writing/20190916-weekly-reading/
 date: 2019-09-23
 summary: 14 links from the past
 ---

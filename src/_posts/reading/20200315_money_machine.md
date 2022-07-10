@@ -1,6 +1,6 @@
 ---
 title: The Money Machine
-permalink: the-money-machine
+permalink: reading/the-money-machine/
 date: 2020-03-15
 subheading: How the City Works
 template: book

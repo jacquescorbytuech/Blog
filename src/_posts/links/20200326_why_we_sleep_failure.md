@@ -1,6 +1,6 @@
 ---
 title: Bad Science - Why We Sleep
-permalink: bad-science-why-we-sleep
+permalink: links/bad-science-why-we-sleep/
 date: 2020-03-27
 link: https://statmodeling.stat.columbia.edu/2020/03/24/why-we-sleep-a-tale-of-institutional-failure/
 ---

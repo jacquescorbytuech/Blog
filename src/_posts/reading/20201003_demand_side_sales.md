@@ -1,6 +1,6 @@
 ---
 title: Demand-Side Sales 101
-permalink: demand-side-sales-101
+permalink: reading/demand-side-sales-101/
 date: 2020-10-03
 subheading: Stop Selling and Help Your Customers Make Progress
 template: book

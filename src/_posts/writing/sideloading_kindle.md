@@ -1,6 +1,6 @@
 ---
 title: Sideloading Books on Kindle with Goodreads Integration
-permalink: sideloading-books-kindle-goodreads-integration
+permalink: writing/sideloading-books-kindle-goodreads-integration/
 date: 2021-01-10
 ---
 

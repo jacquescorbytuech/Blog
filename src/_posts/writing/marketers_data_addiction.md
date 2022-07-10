@@ -1,6 +1,6 @@
 ---
 title: Marketers are Addicted to Bad Data
-permalink: marketers-addicted-bad-data
+permalink: writing/marketers-addicted-bad-data/
 date: 2020-11-07
 ---
 

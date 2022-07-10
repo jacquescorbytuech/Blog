@@ -1,6 +1,6 @@
 ---
 title: My Favourite Books of 2020
-permalink: 2020-favourite-books
+permalink: writing/2020-favourite-books/
 date: 2021-01-01
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Réflexions sur la violence
-permalink: reflexions-sur-la-violence
+permalink: reading/reflexions-sur-la-violence/
 date: 2021-01-24
 subheading: 
 template: book

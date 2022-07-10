@@ -1,6 +1,6 @@
 ---
 title: What Tech Calls Thinking
-permalink: what-tech-calls-thinking
+permalink: reading/what-tech-calls-thinking/
 date: 2021-02-14
 subheading: An Inquiry Into the Intellectual Bedrock of Silicon Valley
 template: book

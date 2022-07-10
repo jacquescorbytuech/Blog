@@ -1,6 +1,6 @@
 ---
 title: You're a Lab-Rat for Big Tech
-permalink: youre-lab-rat-big-tech
+permalink: links/youre-lab-rat-big-tech/
 date: 2020-02-25
 link: https://www.newyorker.com/magazine/2020/03/02/big-tech-is-testing-you
 ---

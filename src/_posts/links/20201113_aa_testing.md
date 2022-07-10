@@ -1,6 +1,6 @@
 ---
 title: Do Less, Convert More
-permalink: aa-testing
+permalink: links/aa-testing/
 date: 2020-11-13
 link: https://kadavy.net/blog/posts/aa-testing/
 ---

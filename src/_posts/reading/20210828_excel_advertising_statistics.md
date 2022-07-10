@@ -1,6 +1,6 @@
 ---
 title: Excel 2019 for Advertising Statistics
-permalink: excel-2019-for-advertising-statistics
+permalink: reading/excel-2019-for-advertising-statistics/
 date: 2021-08-28
 subheading: A Guide to Solving Practical Problems
 template: book

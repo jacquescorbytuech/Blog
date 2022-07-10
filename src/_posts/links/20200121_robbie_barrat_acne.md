@@ -1,6 +1,6 @@
 ---
 title: ACNE  X Robbie Barrat A/W20
-permalink: acne-x-robbie-barrat-aw20
+permalink: links/acne-x-robbie-barrat-aw20/
 date: 2020-01-21
 link: https://www.vogue.com/fashion-shows/fall-2020-menswear/acne-studios
 ---

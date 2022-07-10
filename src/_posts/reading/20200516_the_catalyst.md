@@ -1,6 +1,6 @@
 ---
 title: The Catalyst
-permalink: the-catalyst
+permalink: reading/the-catalyst/
 date: 2020-05-16
 subheading: How to Change Anyone's Mind
 template: book

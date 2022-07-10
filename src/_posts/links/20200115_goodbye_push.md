@@ -1,6 +1,6 @@
 ---
 title: 2015-2020 RIP Browser Push Notifications
-permalink: 20200115-goodbye-browser-push-notifications
+permalink: links/20200115-goodbye-browser-push-notifications/
 date: 2020-01-15
 link: https://blog.mozilla.org/firefox/block-notification-requests/
 ---

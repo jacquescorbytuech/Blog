@@ -1,6 +1,6 @@
 ---
 title: What Value Does an Artist Have?
-permalink: what-value-does-an-artist-have
+permalink: writing/what-value-does-an-artist-have/
 date: 2021-01-18
 ---
 

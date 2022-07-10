@@ -1,6 +1,6 @@
 ---
 title: SaaS Prototyping with Observable, Firebase and Stripe
-permalink: saas-prototype-observable-hq-stripe-firebase
+permalink: links/saas-prototype-observable-hq-stripe-firebase/
 date: 2020-11-07
 link: https://observablehq.com/@tomlarkworthy/saas-tutorial
 ---

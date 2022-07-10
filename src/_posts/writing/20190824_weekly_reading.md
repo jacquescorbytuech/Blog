@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190819-weekly-reading
+permalink: writing/20190819-weekly-reading/
 date: 2019-08-24
 summary: Something to do this bank holiday weekend!
 ---

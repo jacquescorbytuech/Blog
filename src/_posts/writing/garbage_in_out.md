@@ -1,6 +1,6 @@
 ---
 title: Garbage In, Garbage Out
-permalink: garbage-in-garbage-out
+permalink: writing/garbage-in-garbage-out/
 date: 2020-11-28
 ---
 

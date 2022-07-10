@@ -1,6 +1,6 @@
 ---
 title: Thinking Fast and Slow
-permalink: thinking-fast-and-slow
+permalink: reading/thinking-fast-and-slow/
 date: 2020-02-12
 subheading: 
 template: book

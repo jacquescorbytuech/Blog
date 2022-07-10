@@ -1,6 +1,6 @@
 ---
 title: Barbarians at the Gate
-permalink: barbarians-at-the-gate
+permalink: reading/barbarians-at-the-gate/
 date: 2020-07-04
 subheading: The Fall of RJR Nabisco
 template: book

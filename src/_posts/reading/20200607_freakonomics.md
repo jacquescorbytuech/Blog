@@ -1,6 +1,6 @@
 ---
 title: Freakonomics
-permalink: freakonomics
+permalink: reading/freakonomics/
 date: 2020-06-07
 subheading: A Rogue Economist Explores the Hidden Side of Everything
 template: book

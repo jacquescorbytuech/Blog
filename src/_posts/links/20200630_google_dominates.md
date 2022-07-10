@@ -1,6 +1,6 @@
 ---
 title: Why Google Dominates Advertising Markets
-permalink: why-google-dominates-advertising
+permalink: links/why-google-dominates-advertising/
 date: 2020-06-30
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3500919
 ---

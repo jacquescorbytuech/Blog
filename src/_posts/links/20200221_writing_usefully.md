@@ -1,6 +1,6 @@
 ---
 title: Writing Usefully
-permalink: writing-usefully
+permalink: links/writing-usefully/
 date: 2020-02-21
 link: http://www.paulgraham.com/useful.html
 ---

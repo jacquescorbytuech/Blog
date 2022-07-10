@@ -1,6 +1,6 @@
 ---
 title: The Man Who Solved the Market
-permalink: the-man-who-solved-the-market
+permalink: reading/the-man-who-solved-the-market/
 date: 2020-06-21
 subheading: How Jim Simons Launched the Quant Revolution
 template: book

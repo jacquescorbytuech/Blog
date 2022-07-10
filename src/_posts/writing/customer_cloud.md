@@ -1,6 +1,6 @@
 ---
 title: The Customer Cloud I Want
-permalink: the-customer-cloud-i-want
+permalink: writing/the-customer-cloud-i-want/
 date: 2022-05-14
 ---
 

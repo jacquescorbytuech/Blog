@@ -1,6 +1,6 @@
 ---
 title: Mobile Wallet Marketing
-permalink: mobile-wallet-marketing
+permalink: writing/mobile-wallet-marketing/
 date: 2020-06-14
 ---
 

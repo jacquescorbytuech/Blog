@@ -1,6 +1,6 @@
 ---
 title: Scenes From Prehistoric Life
-permalink: scenes-from-prehistoric-life
+permalink: reading/scenes-from-prehistoric-life/
 date: 2021-12-31
 subheading: From the Ice Age to the Coming of the Romans
 template: book

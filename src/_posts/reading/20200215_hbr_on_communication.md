@@ -1,6 +1,6 @@
 ---
 title: HBR's 10 Must Reads on Communication
-permalink: hbr-10-reads-on-communication
+permalink: reading/hbr-10-reads-on-communication/
 date: 2020-02-15
 subheading: 
 template: book

@@ -1,6 +1,6 @@
 ---
 title: Unruly Waters
-permalink: unruly-waters
+permalink: reading/unruly-waters/
 date: 2021-05-23
 subheading: How Mountain Rivers and Monsoons Have Shaped South Asia's History
 template: book

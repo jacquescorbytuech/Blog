@@ -1,6 +1,6 @@
 ---
 title: Boomerang
-permalink: boomerang
+permalink: reading/boomerang/
 date: 2020-04-10
 subheading: The Biggest Bust
 template: book

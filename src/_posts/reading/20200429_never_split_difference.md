@@ -1,6 +1,6 @@
 ---
 title: Never Split the Difference
-permalink: never-split-the-difference
+permalink: reading/never-split-the-difference/
 date: 2020-04-29
 subheading: Negotiating as if Your Life Depended on It
 template: book

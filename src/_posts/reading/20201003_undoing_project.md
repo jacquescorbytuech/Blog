@@ -1,6 +1,6 @@
 ---
 title: The Undoing Project
-permalink: the-undoing-project
+permalink: reading/the-undoing-project/
 date: 2020-10-03
 subheading: A Friendship that Changed the World
 template: book

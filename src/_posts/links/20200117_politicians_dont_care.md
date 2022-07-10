@@ -1,6 +1,6 @@
 ---
 title: Politicians Don't Actually Care What Voters Want
-permalink: 20200117-politicians-dont-care
+permalink: links/20200117-politicians-dont-care/
 date: 2020-01-17
 link: https://statmodeling.stat.columbia.edu/2020/01/16/is-it-accurate-to-say-politicians-dont-actually-care-what-voters-want/
 ---

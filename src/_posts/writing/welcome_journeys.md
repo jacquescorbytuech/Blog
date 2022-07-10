@@ -1,6 +1,6 @@
 ---
 title: How to Build a Welcome Program
-permalink: how-to-build-welcome-program
+permalink: writing/how-to-build-welcome-program/
 date: 2020-05-10
 ---
 

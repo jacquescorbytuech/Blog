@@ -1,6 +1,6 @@
 ---
 title: The Future of Technology and Marketing
-permalink: future-technology-marketing
+permalink: links/future-technology-marketing/
 date: 2020-02-13
 link: https://link.springer.com/article/10.1007/s11747-019-00711-4
 ---

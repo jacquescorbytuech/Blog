@@ -1,6 +1,6 @@
 ---
 title: The problem of CryptoArt
-permalink: problem-cryptoart-emissions
+permalink: links/problem-cryptoart-emissions/
 date: 2021-02-21
 link: https://joanielemercier.com/the-problem-of-cryptoart/
 ---

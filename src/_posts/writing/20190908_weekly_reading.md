@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190902-weekly-reading
+permalink: writing/20190902-weekly-reading/
 date: 2019-09-08
 summary: Far indeed is this from the way.
 ---

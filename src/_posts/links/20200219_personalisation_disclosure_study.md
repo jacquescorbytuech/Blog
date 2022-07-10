@@ -1,6 +1,6 @@
 ---
 title: Self Disclosure and the Monetary Value of Clear Privacy Policies
-permalink: self-disclosure-personalisation-effectiveness
+permalink: links/self-disclosure-personalisation-effectiveness/
 date: 2020-02-19
 link: https://www.sciencedirect.com/science/article/abs/pii/S0148296320301004
 ---

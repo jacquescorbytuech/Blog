@@ -1,6 +1,6 @@
 ---
 title: How Numbers Work
-permalink: how-numbers-work
+permalink: reading/how-numbers-work/
 date: 2020-10-25
 subheading: Discover the Strange and Beautiful World of Mathematics
 template: book

@@ -1,6 +1,6 @@
 ---
 title: Angry White Men
-permalink: angry-white-men
+permalink: writing/angry-white-men/
 date: 2019-08-06
 summary: What are we to do with all the angry young white men?
 ---

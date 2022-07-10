@@ -1,6 +1,6 @@
 ---
 title: How Much Does Our Language Determine Behaviour?
-permalink: does-language-determine-behaviour
+permalink: links/does-language-determine-behaviour/
 date: 2020-02-05
 link: https://behavioralscientist.org/language-dont-believe-a-word-sapir-whorf-hypothesis/
 ---

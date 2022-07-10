@@ -1,6 +1,6 @@
 ---
 title: The Chartmaker Directory
-permalink: chartmaker-directory
+permalink: links/chartmaker-directory/
 date: 2020-02-18
 link: http://chartmaker.visualisingdata.com/
 ---

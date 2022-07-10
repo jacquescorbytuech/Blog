@@ -1,6 +1,6 @@
 ---
 title: The Signal and the Noise
-permalink: the-signal-and-the-noise
+permalink: reading/the-signal-and-the-noise/
 date: 2021-06-19
 subheading: The Art and Science of Prediction
 template: book

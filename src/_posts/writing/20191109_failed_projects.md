@@ -1,6 +1,6 @@
 ---
 title: A Long List of Failed Projects
-permalink: failed-projects
+permalink: writing/failed-projects/
 date: 2019-11-09
 ---
 

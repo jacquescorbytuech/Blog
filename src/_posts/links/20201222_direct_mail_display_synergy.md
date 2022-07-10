@@ -1,6 +1,6 @@
 ---
 title: Do Offline and Online Go Hand in Hand? Cross-Channel and Synergy Effects of Direct Mailing and Display Advertising
-permalink: display-advertising-direct-mail-synergy
+permalink: links/display-advertising-direct-mail-synergy/
 date: 2020-12-22
 link: https://www.sciencedirect.com/science/article/pii/S0167811620301002
 ---

@@ -1,6 +1,6 @@
 ---
 title: Martechbase
-permalink: martechbase
+permalink: links/martechbase/
 date: 2020-02-12
 link: https://martechbase.com/
 ---

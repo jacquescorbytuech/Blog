@@ -1,6 +1,6 @@
 ---
 title: OKR's, YouTube and the Danger of Unintended Consequences
-permalink: okr-youtube-unintended-consequences
+permalink: writing/okr-youtube-unintended-consequences/
 date: 2020-01-22
 ---
 

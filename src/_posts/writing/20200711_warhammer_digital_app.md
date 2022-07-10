@@ -1,6 +1,6 @@
 ---
 title: Warhammer 40k Digital Strategy and Opportunities
-permalink: warhammer-digital-app-opportunities-strategy
+permalink: writing/warhammer-digital-app-opportunities-strategy/
 date: 2020-07-11
 ---
 

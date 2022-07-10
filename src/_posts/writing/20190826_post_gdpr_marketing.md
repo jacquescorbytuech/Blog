@@ -1,6 +1,6 @@
 ---
 title: Digital Marketing in the Age of the GDPR
-permalink: digital-marketing-post-gdpr
+permalink: writing/digital-marketing-post-gdpr/
 date: 2019-08-26
 summary: Houston, we have a problem.
 ---

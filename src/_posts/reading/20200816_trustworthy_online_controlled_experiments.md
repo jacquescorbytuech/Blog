@@ -1,6 +1,6 @@
 ---
 title: Trustworthy Online Controlled Experiments
-permalink: trustworthy-online-controlled-experiments
+permalink: reading/trustworthy-online-controlled-experiments/
 date: 2020-08-16
 subheading: A Practical Guide to A/B Testing
 template: book

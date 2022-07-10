@@ -1,6 +1,6 @@
 ---
 title: The Ottoman Endgame
-permalink: ottoman-endgame
+permalink: reading/ottoman-endgame/
 date: 2020-04-22
 subheading: War, Revolution and the Making of the Modern Middle East, 1908-1923
 template: book

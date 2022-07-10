@@ -1,6 +1,6 @@
 ---
 title: Hound of the Sea
-permalink: hound-of-the-sea
+permalink: reading/hound-of-the-sea/
 date: 2021-02-14
 subheading: Wild Man. Wild Waves. Wild Wisdom
 template: book

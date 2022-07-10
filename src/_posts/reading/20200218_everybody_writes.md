@@ -1,6 +1,6 @@
 ---
 title: Everybody Writes
-permalink: everybody-writes
+permalink: reading/everybody-writes/
 date: 2020-02-18
 subheading: Your Go-To Guide to Creating Ridiculously Good Content
 template: book

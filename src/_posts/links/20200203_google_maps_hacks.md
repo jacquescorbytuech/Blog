@@ -1,6 +1,6 @@
 ---
 title: Google Maps Hack
-permalink: google-maps-hack
+permalink: links/google-maps-hack/
 date: 2020-02-03
 link: http://www.simonweckert.com/googlemapshacks.html
 ---

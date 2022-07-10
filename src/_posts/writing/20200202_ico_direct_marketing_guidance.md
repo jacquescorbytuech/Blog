@@ -1,6 +1,6 @@
 ---
 title: Some Thoughts on the New ICO Direct Marketing Guidance
-permalink: ico-direct-marketing-guidance-thoughts
+permalink: writing/ico-direct-marketing-guidance-thoughts/
 date: 2020-02-02
 ---
 

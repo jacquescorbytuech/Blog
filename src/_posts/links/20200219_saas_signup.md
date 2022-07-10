@@ -1,6 +1,6 @@
 ---
 title: Friction in SaaS Signup Flows
-permalink: saas-signup-friction
+permalink: links/saas-signup-friction/
 date: 2020-02-19
 link: https://cxl.com/blog/saas-signup-flows/
 ---

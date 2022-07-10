@@ -1,6 +1,6 @@
 ---
 title: The Arabesque
-permalink: the-arabesque-an-introduction
+permalink: reading/the-arabesque-an-introduction/
 date: 2020-05-16
 subheading: An Introduction
 template: book

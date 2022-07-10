@@ -1,6 +1,6 @@
 ---
 title: HBR's 10 Must Reads on Change Management
-permalink: hbr-10-reads-on-change-management
+permalink: reading/hbr-10-reads-on-change-management/
 date: 2020-02-23
 subheading: 
 template: book

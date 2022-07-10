@@ -1,6 +1,6 @@
 ---
 title: Predatory Thinking
-permalink: predatory-thinking
+permalink: reading/predatory-thinking/
 date: 2020-05-10
 subheading: A Masterclass in Out-Thinking the Competition
 template: book

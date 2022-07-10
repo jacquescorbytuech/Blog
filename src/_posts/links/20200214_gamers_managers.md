@@ -1,6 +1,6 @@
 ---
 title: Good gamers, good managers?
-permalink: good-gamers-good-managers-civilization
+permalink: links/good-gamers-good-managers-civilization/
 date: 2020-02-14
 link: https://link.springer.com/article/10.1007/s11846-020-00378-0
 ---

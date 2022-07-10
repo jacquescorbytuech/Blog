@@ -1,6 +1,6 @@
 ---
 title: The Square and the Tower
-permalink: the-square-and-the-tower
+permalink: reading/the-square-and-the-tower/
 date: 2021-05-03
 subheading: Networks, Hierarchies and the Struggle for Global Power
 template: book

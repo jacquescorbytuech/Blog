@@ -1,6 +1,6 @@
 ---
 title: The Great Mental Models
-permalink: the-great-mental-models
+permalink: reading/the-great-mental-models/
 date: 2020-07-02
 subheading: General Thinking Concepts
 template: book

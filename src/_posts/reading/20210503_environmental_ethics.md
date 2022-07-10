@@ -1,6 +1,6 @@
 ---
 title: Exploring Environmental Ethics
-permalink: exploring-environmental-ethics
+permalink: reading/exploring-environmental-ethics/
 date: 2021-05-03
 subheading: An Introduction
 template: book

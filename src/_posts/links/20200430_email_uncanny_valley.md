@@ -1,6 +1,6 @@
 ---
 title: Plain Text email and the Uncanny Valley
-permalink: plain-text-uncanny-valley
+permalink: links/plain-text-uncanny-valley/
 date: 2020-04-30
 link: https://www.gosquared.com/blog/uncanny-valley-email
 ---

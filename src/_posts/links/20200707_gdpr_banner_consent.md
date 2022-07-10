@@ -1,6 +1,6 @@
 ---
 title: Only 9% of Site Visitors Consent to Marketing Tracking
-permalink: gdpr-9-percent-opt-in-to-tracking
+permalink: links/gdpr-9-percent-opt-in-to-tracking/
 date: 2020-07-07
 link: https://markosaric.com/gdpr-consent/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hello World
-permalink: hello-world
+permalink: writing/hello-world/
 date: 2019-05-06
 summary: Is this a blog? I think it might just be.
 ---

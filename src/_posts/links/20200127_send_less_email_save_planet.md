@@ -1,6 +1,6 @@
 ---
 title: Save the Planet, Send Less Email
-permalink: save-planet-send-less-email
+permalink: links/save-planet-send-less-email/
 date: 2020-01-27
 link: https://www.bloomberg.com/news/articles/2020-01-25/cutting-back-on-sending-emails-could-help-fight-global-warming
 ---

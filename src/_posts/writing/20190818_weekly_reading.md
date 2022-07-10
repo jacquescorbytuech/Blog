@@ -1,6 +1,6 @@
 ---
 title: Weekly Reading
-permalink: 20190812-weekly-reading
+permalink: writing/20190812-weekly-reading/
 date: 2019-08-18
 summary: I finally finished The Inheritance of Rome!
 ---
