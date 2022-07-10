@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+}
+
+@layer utilities {
+
+}
+
+/* Markdown content styling */
+
+.content p {
+    @apply text-xl mt-8 mb-8 leading-normal
+}
+
+.content h1 {
+    @apply text-6xl mt-3 mb-2 font-bold leading-normal
+}
+
+.content h2 {
+    @apply text-3xl mt-16 mb-4 font-bold
+}
+
+.content hr {
+    @apply max-w-2xl mt-16 mb-16 ml-auto mr-auto
+}
+
+.content b, strong {
+    @apply font-bold
+}
+
+.content a {
+    @apply underline decoration-sky-600 hover:decoration-4
+}
+
+.content a:visited {
+    @apply decoration-purple-500
+}
+
+.content blockquote {
+    @apply bg-gray-100 border-l-8 p-6 mt-8
+}
+
+.content blockquote p {
+    @apply first:mt-0 last:mb-0 drop-shadow-[1px_1px_rgba(255,255,255,1)]
+}
+
+.content img {
+    @apply max-w-3xl mb-20 mt-20 ml-auto mr-auto 
+}
+
+
+
+.footnotes ol {
+    @apply list-decimal text-xl ml-8
+}

@@ -5,11 +5,28 @@ const now = String(Date.now())
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
+const markdownIt = require("markdown-it");
+const markdownItFootnote = require("markdown-it-footnote");
+
+
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addWatchTarget('./styles/tailwind.config.js')
-  eleventyConfig.addWatchTarget('./styles/tailwind.css')
+  eleventyConfig.addWatchTarget('styles/tailwind.config.js')
+  eleventyConfig.addWatchTarget('styles/tailwind.css')
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addWatchTarget("images");
+
+  let options = {
+    html: true,
+    breaks: true,
+    linkify: true
+  };
+
+  let markdownLibrary = markdownIt(options).use(markdownItFootnote);
+
+  eleventyConfig.setLibrary("md", markdownLibrary);
 
   eleventyConfig.addShortcode('version', function () {
     return now
@@ -43,5 +60,16 @@ module.exports = function (eleventyConfig) {
 
     return content
   })
+
+  return {
+    dir: {
+      input: "src",
+      output: "_site",
+    },
+    templateFormats: [ "md", "njk", ],
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
+  };
 
 }

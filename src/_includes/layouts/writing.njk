@@ -1,11 +1,11 @@
-{% extends "_includes/default.njk" %}
+{% extends "default.njk" %}
 
 {% block content %}
 
 <section class="max-w-4xl ">
 <article>
   <header class="text-center">
-    <h1 class="leading-normal text-6xl font-bold ">{{ title }}</h1>
+    <h1>{{ title }}</h1>
   </header>
   <div class="text-sm text-center mt-5 mb-5">
     <time class="published" datetime="">
@@ -19,7 +19,7 @@
   </div>
   {% endif %}
 
-  <div class="mt-10 prose-lg">
+  <div class="mt-10">
     {{ content | safe }}
     <p>Cheers,</p>
     <img class="signature"  alt="signature" src="{{ SITEURL }}/images/jacques.png" />
