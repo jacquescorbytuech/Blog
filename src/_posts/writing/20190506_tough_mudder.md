@@ -1,7 +1,9 @@
-Title: Tough Mudder
-Slug: tough-mudder
-Date: 2019-05-06 20:27
-Summary: Spoiler alert, it was tough.
+---
+title: Tough Mudder
+permalink: tough-mudder
+date: 2019-05-06
+summary: Spoiler alert, it was tough.
+---
 
 Last Saturday I attended the London West Tough Mudder event with a great group of colleagues from Paymentsense, and, well, it was fucking freezing 🥶.
 

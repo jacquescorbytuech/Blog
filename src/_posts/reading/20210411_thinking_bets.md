@@ -1,14 +1,16 @@
-Title: Thinking in Bets
-Slug: thinking-in-bets
-Date: 2021-04-11 11:27
-Subheading: Making Smarter Decisions When You Don't Have All the Facts
-Template: book
-BookAuthor: Annie Duke
-Book: https://www.goodreads.com/book/show/41430923-thinking-in-bets
-Bookshop: 
-Recommended: True
-Language: English
-Cover: images/covers/thinking-in-bets.jpg
+---
+title: Thinking in Bets
+permalink: thinking-in-bets
+date: 2021-04-11
+subheading: Making Smarter Decisions When You Don't Have All the Facts
+template: book
+bookauthor: Annie Duke
+book: https://www.goodreads.com/book/show/41430923-thinking-in-bets
+bookshop: 
+recommended: True
+language: English
+cover: images/covers/thinking-in-bets.jpg
+---
 
 I really enjoyed this one, it made me think a lot about how I approach problems in my personal and professional life and how I engage with other people.
 

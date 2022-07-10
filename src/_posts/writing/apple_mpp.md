@@ -1,6 +1,8 @@
-Title: An Email Marketer's Take on Apple Mail Privacy Protection
-Slug: email-marketers-take-apple-mail-privacy-protection
-Date: 2021-06-10 17:56
+---
+title: An Email Marketer's Take on Apple Mail Privacy Protection
+permalink: email-marketers-take-apple-mail-privacy-protection
+date: 2021-06-10
+---
 
 At their WWDC21 event on Monday, Apple announced a host of new privacy changes coming to iOS15, not least of which is [Mail Privacy Protection](https://developer.apple.com/videos/play/wwdc2021-10085/?time=708), billed as a way to protect privacy for users reading their emails.
 

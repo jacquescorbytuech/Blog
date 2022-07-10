@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20191007-weekly-reading
-Date: 2019-10-13 11:59
-Summary: Who could've seen this coming?
+---
+title: Weekly Reading
+permalink: 20191007-weekly-reading
+date: 2019-10-13
+summary: Who could've seen this coming?
+---
 
 Given this week's [rolling blackouts](https://www.nytimes.com/2019/10/12/business/pge-california-outage.html) affecting millions of people in California courtesy of PG&E,   it's a fortuitous time to have been reading about Enron, but I've been doing just that.
 

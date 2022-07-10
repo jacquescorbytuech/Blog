@@ -1,13 +1,15 @@
-Title: Statistics without Tears
-Slug: statistics-without-tears
-Date: 2020-07-24 11:05
-Subheading: An Introduction for Non-Mathematicians
-Template: book
-BookAuthor: Derek Rowntree
-Book: https://www.goodreads.com/book/show/36863652-statistics-without-tears
-Bookshop: https://uk.bookshop.org/a/2625/9780141987491
-Recommended: 
-Cover: images/covers/statistics-without-tears.jpg
+---
+title: Statistics without Tears
+permalink: statistics-without-tears
+date: 2020-07-24
+subheading: An Introduction for Non-Mathematicians
+template: book
+bookauthor: Derek Rowntree
+book: https://www.goodreads.com/book/show/36863652-statistics-without-tears
+bookshop: https://uk.bookshop.org/a/2625/9780141987491
+recommended: 
+cover: images/covers/statistics-without-tears.jpg
+---
 
 I forgotten more GCSE and AS level stats than I care to mention so starting again from the ground up felt like the right thing to do.
 

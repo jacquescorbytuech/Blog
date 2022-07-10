@@ -1,13 +1,15 @@
-Title: The Undoing Project
-Slug: the-undoing-project
-Date: 2020-10-03 11:10
-Subheading: A Friendship that Changed the World
-Template: book
-BookAuthor: Michael Lewis
-Book: https://www.goodreads.com/book/show/35568170-the-undoing-project
-Bookshop: https://uk.bookshop.org/a/2625/9780141983042
-Recommended: 
-Cover: images/covers/the-undoing-project.jpg
+---
+title: The Undoing Project
+permalink: the-undoing-project
+date: 2020-10-03
+subheading: A Friendship that Changed the World
+template: book
+bookauthor: Michael Lewis
+book: https://www.goodreads.com/book/show/35568170-the-undoing-project
+bookshop: https://uk.bookshop.org/a/2625/9780141983042
+recommended: 
+cover: images/covers/the-undoing-project.jpg
+---
 
 Michael Lewis is an exceptional storyteller and *The Undoing Project* is no exception. This is a deftly written story about how an exceptional collaboration and friendship sprung between Daniel Kahneman and Amos Tversky. Two psychologists who changed the world with their discoveries on human decision making.
 

@@ -1,6 +1,7 @@
 ---
-Title: Email Subscription Confirmed 🎉
-Slug: email-subscription-confirmed
+---
+title: Email Subscription Confirmed 🎉
+permalink: email-subscription-confirmed
 ---
 
 Thanks!

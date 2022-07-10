@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190909-weekly-reading
-Date: 2019-09-17 19:23
-Summary: Better late than never?
+---
+title: Weekly Reading
+permalink: 20190909-weekly-reading
+date: 2019-09-17
+summary: Better late than never?
+---
 
 This week's been pretty productive on the book reading front, I quickly worked my way through Orwell's [Why I Write](https://www.goodreads.com/book/show/24104049-why-i-write) which was fascinating, albeit the British stereotyping quickly became tiresome. I found it interesting to compare Orwell's views on British and European values and the rise of fascism across Europe - things that worryingly have been on the rise in recent years.
 

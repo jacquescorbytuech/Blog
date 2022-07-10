@@ -1,14 +1,16 @@
-Title: The Price of Inequality
-Slug: the-price-of-inequality
-Date: 2021-12-04 18:08
-Subheading: 
-Template: book
-BookAuthor: Joseph E. Stiglitz
-Book: https://www.goodreads.com/book/show/17625214-the-price-of-inequality
-Bookshop: 
-Recommended: True
-Language: English
-Cover: images/covers/the-price-of-inequality.jpg
+---
+title: The Price of Inequality
+permalink: the-price-of-inequality
+date: 2021-12-04
+subheading: 
+template: book
+bookauthor: Joseph E. Stiglitz
+book: https://www.goodreads.com/book/show/17625214-the-price-of-inequality
+bookshop: 
+recommended: True
+language: English
+cover: images/covers/the-price-of-inequality.jpg
+---
 
 Stiglitz sets a compelling narrative in The *Price of Inequality*, that is, the world is becoming increasingly economically unequal.
 

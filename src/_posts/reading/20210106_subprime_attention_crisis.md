@@ -1,14 +1,16 @@
-Title: Subprime Attention Crisis
-Slug: subprime-attention-crisis
-Date: 2021-01-06 19:10
-Subheading: Advertising and the Time Bomb at the Heart of the Internet
-Template: book
-BookAuthor: Tim Hwang
-Book: https://www.goodreads.com/book/show/50403486-subprime-attention-crisis
-Bookshop: https://www.bookdepository.com/search/Subprime-Attention-Crisis-Tim-Hwang/9780374538651
-Recommended: True
-Language: English
-Cover: images/covers/subprime-attention-crisis.jpg
+---
+title: Subprime Attention Crisis
+permalink: subprime-attention-crisis
+date: 2021-01-06
+subheading: Advertising and the Time Bomb at the Heart of the Internet
+template: book
+bookauthor: Tim Hwang
+book: https://www.goodreads.com/book/show/50403486-subprime-attention-crisis
+bookshop: https://www.bookdepository.com/search/Subprime-Attention-Crisis-Tim-Hwang/9780374538651
+recommended: True
+language: English
+cover: images/covers/subprime-attention-crisis.jpg
+---
 
 This is a short book, but it doesn't mince it's words and lays a compelling case that digital programmatic advertising is in a cataclysmic bubble.
 

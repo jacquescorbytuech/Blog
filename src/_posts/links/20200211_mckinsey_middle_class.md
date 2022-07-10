@@ -1,7 +1,9 @@
-Title: How McKinsey Destroyed the Middle Class
-Slug: how-mckinsey-destroyed-the-middle-class
-Date: 2020-02-11 13:22
-Link: https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/
+---
+title: How McKinsey Destroyed the Middle Class
+permalink: how-mckinsey-destroyed-the-middle-class
+date: 2020-02-11
+link: https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/
+---
 
 The loss of the middle class should concern all of us, with Mckinsey and their ilk (Bain and BCG) responsible for decimating the middle class workforce while simultaneously creating more demand for their own services.
 

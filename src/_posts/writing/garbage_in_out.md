@@ -1,6 +1,8 @@
-Title: Garbage In, Garbage Out
-Slug: garbage-in-garbage-out
-Date: 2020-11-28 17:40
+---
+title: Garbage In, Garbage Out
+permalink: garbage-in-garbage-out
+date: 2020-11-28
+---
 
 It recently surfaced in a story by [AdExchanger](https://www.adexchanger.com/platforms/facebook-conversion-lift-measurement-issue-goes-undetected-for-12-months/) and [The Wall Street Journal](https://www.wsj.com/articles/facebooks-latest-error-shakes-advertisers-confidence-11606346927) that Facebook had, for ***a year***, been feeding incorrect data to advertisers paying to display adverts across Facebook's network using their lift conversion tool.
 

@@ -1,14 +1,16 @@
-Title: The Boundless Sea
-Slug: the-boundless-sea
-Date: 2021-04-06 13:32
-Subheading: A Human History of the Oceans
-Template: book
-BookAuthor: David Abulafia
-Book: https://www.goodreads.com/book/show/50364445-the-boundless-sea
-Bookshop: 
-Recommended: True
-Language: English
-Cover: images/covers/the-boundless-sea.jpg
+---
+title: The Boundless Sea
+permalink: the-boundless-sea
+date: 2021-04-06
+subheading: A Human History of the Oceans
+template: book
+bookauthor: David Abulafia
+book: https://www.goodreads.com/book/show/50364445-the-boundless-sea
+bookshop: 
+recommended: True
+language: English
+cover: images/covers/the-boundless-sea.jpg
+---
 
 *The Boundless Sea* is about the human history of the oceans. It's a story of human migration, trade, war, empire and more spanning thousands of years across the entire globe.
 

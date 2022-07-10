@@ -1,7 +1,9 @@
-Title: Classical Menswear Meets Tattooing
-Slug: classical-menswear-tattooing
-Date: 2020-05-11 16:13
-Link: https://www.permanentstyle.com/2019/09/my-tattoo.html
+---
+title: Classical Menswear Meets Tattooing
+permalink: classical-menswear-tattooing
+date: 2020-05-11
+link: https://www.permanentstyle.com/2019/09/my-tattoo.html
+---
 
 I've been an occasional reader of Simon Crompton's blog [Permanent Style](https://www.permanentstyle.com/) for many years now and always find his take on luxury clothing fascinating.
 

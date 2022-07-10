@@ -1,11 +1,13 @@
-Title: Zoom - Surveillance by Design
-Slug: zoom-surveillance-by-design
-Date: 2020-03-29 12:28
-Link: https://blogs.harvard.edu/doc/2020/03/27/zoom/
+---
+title: Zoom - Surveillance by Design
+permalink: zoom-surveillance-by-design
+date: 2020-03-29
+link: https://blogs.harvard.edu/doc/2020/03/27/zoom/
+---
 
 Much has already been written about Zoom's meteoric rise as large parts of the world voluntarily quarantine themselves to help combat the spread of COVID-19. A meteoric rise that's all too easy to spot as their share price rises where everyone else's has fallen.
 
-![Zoom share price graph showing large increase in last 6 months](../images/post-images/Zoom.png)
+![Zoom share price graph showing large increase in last 6 months](../../images/post-images/Zoom.png)
 
 As the quarantine continues however, concerns have started to emerge around Zoom's heavy handed privacy policy and their data exfilatration to numerous adtech partners.
 

@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190930-weekly-reading
-Date: 2019-10-06 14:33
-Summary: Pardon the hiatus
+---
+title: Weekly Reading
+permalink: 20190930-weekly-reading
+date: 2019-10-06
+summary: Pardon the hiatus
+---
 
 I'm back, hot off the heels of a week spent in Morocco. It was my second time there (following a trip last year) and I'm already thinking about when I can get there again next year, [I  need more rugs](https://twitter.com/iamacyborg/status/1180803522113216512)!
 

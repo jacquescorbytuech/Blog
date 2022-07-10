@@ -1,7 +1,9 @@
-Title: Angry White Men
-Slug: angry-white-men
-Date: 2019-08-06 21:39
-Summary: What are we to do with all the angry young white men? 
+---
+title: Angry White Men
+permalink: angry-white-men
+date: 2019-08-06
+summary: What are we to do with all the angry young white men?
+---
 
 On May 1st, 1994, Ayrton Senna crashed and died during the San Marino Grand Prix. I recall watching the race with my dad in our sitting room in France, he was home from the hospital after a heavy bout of chemo and the loss of one of his heroes bought him to tears. A few months later, in December, he died too.
 

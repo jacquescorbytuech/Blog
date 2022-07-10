@@ -1,14 +1,16 @@
-Title: The Spider Network
-Slug: the-spider-network
-Date: 2021-05-03 12:45
-Subheading: The Wild Story of a Maths Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History
-Template: book
-BookAuthor: David Enrich
-Book: https://www.goodreads.com/book/show/34229320-the-spider-network
-Bookshop: 
-Recommended: True
-Language: English
-Cover: images/covers/the-spider-network.jpg
+---
+title: The Spider Network
+permalink: the-spider-network
+date: 2021-05-03
+subheading: The Wild Story of a Maths Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History
+template: book
+bookauthor: David Enrich
+book: https://www.goodreads.com/book/show/34229320-the-spider-network
+bookshop: 
+recommended: True
+language: English
+cover: images/covers/the-spider-network.jpg
+---
 
 I recall hearing about Libor in the news a decade ago but not really understanding what it was or why it was significant. David Enrich does a fantastic job of making this story accessible to a layman like myself while explaining the complex web of relationships that lay at the heart of the scandal.
 

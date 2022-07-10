@@ -1,7 +1,9 @@
-Title: Dear Email Industry, We've Got a GDPR Problem
-Slug: gdpr-email-tracking
-Date: 2019-06-10 13:37
-Summary: Time to stop burying our heads in the sand.
+---
+title: Dear Email Industry, We've Got a GDPR Problem
+permalink: gdpr-email-tracking
+date: 2019-06-10
+summary: Time to stop burying our heads in the sand.
+---
 
 **The email industry's got a GDPR problem.**
 

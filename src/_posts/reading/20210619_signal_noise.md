@@ -1,14 +1,16 @@
-Title: The Signal and the Noise
-Slug: the-signal-and-the-noise
-Date: 2021-06-19 13:44
-Subheading: The Art and Science of Prediction
-Template: book
-BookAuthor: Nate Silver
-Book: https://www.goodreads.com/book/show/17874847-the-signal-and-the-noise
-Bookshop: 
-Recommended: True
-Language: English
-Cover: images/covers/the-signal-and-the-noise.jpg
+---
+title: The Signal and the Noise
+permalink: the-signal-and-the-noise
+date: 2021-06-19
+subheading: The Art and Science of Prediction
+template: book
+bookauthor: Nate Silver
+book: https://www.goodreads.com/book/show/17874847-the-signal-and-the-noise
+bookshop: 
+recommended: True
+language: English
+cover: images/covers/the-signal-and-the-noise.jpg
+---
 
 You probably know about Nate Silver from his work on [FiveThirtyEight](https://fivethirtyeight.com/), the popular polling analysis website.
 

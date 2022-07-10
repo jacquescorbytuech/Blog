@@ -1,13 +1,15 @@
-Title: Freakonomics
-Slug: freakonomics
-Date: 2020-06-07 13:56
-Subheading: A Rogue Economist Explores the Hidden Side of Everything
-Template: book
-BookAuthor: Steven D. Levitt, Stephen J. Dubner
-Book: https://www.goodreads.com/book/show/52154262-freakonomics
-Bookshop: https://uk.bookshop.org/a/2625/9780061956270
+---
+title: Freakonomics
+permalink: freakonomics
+date: 2020-06-07
+subheading: A Rogue Economist Explores the Hidden Side of Everything
+template: book
+bookauthor: Steven D. Levitt, Stephen J. Dubner
+book: https://www.goodreads.com/book/show/52154262-freakonomics
+bookshop: https://uk.bookshop.org/a/2625/9780061956270
 Recommended:
-Cover: images/covers/freakonomics.jpg
+cover: images/covers/freakonomics.jpg
+---
 
 Freakonomics was an interesting book to read, albeit not a life altering one as the blurb would have you believe.
 

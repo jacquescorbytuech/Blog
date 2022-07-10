@@ -1,6 +1,8 @@
-Title: Some Thoughts on the New ICO Direct Marketing Guidance
-Slug: ico-direct-marketing-guidance-thoughts
-Date: 2020-02-02 19:14
+---
+title: Some Thoughts on the New ICO Direct Marketing Guidance
+permalink: ico-direct-marketing-guidance-thoughts
+date: 2020-02-02
+---
 
 The ICO recently published a draft code for consultation of their direct marketing code of practice, which provides some great insights into how the ICO believe GDPR and PECR should be applied with relation to Direct Marketing.
 

@@ -1,13 +1,15 @@
-Title: Cable Cowboy
-Slug: cable-cowboy
-Date: 2020-08-06 09:29
-Subheading: John Malone and the Rise of the Modern Cable Business
-Template: book
-BookAuthor: Mark Robichaux
-Book: https://www.goodreads.com/book/show/679418.Cable_Cowboy
-Bookshop: https://uk.bookshop.org/a/2625/9780471706373
-Recommended: True
-Cover: images/covers/cable-cowboy.jpg
+---
+title: Cable Cowboy
+permalink: cable-cowboy
+date: 2020-08-06
+subheading: John Malone and the Rise of the Modern Cable Business
+template: book
+bookauthor: Mark Robichaux
+book: https://www.goodreads.com/book/show/679418.Cable_Cowboy
+bookshop: https://uk.bookshop.org/a/2625/9780471706373
+recommended: True
+cover: images/covers/cable-cowboy.jpg
+---
 
 I discovered this title after listening to [a podcast with Stripe's Patrick Collison](https://www.stitcher.com/podcast/invest-like-the-best/e/71161348) where it was mentioned.
 

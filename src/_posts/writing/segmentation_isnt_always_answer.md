@@ -1,6 +1,8 @@
-Title: Why segmentation isn't always the answer
-Slug: why-segmentation-isnt-always-the-answer
-Date: 2020-05-09 22:57
+---
+title: Why segmentation isn't always the answer
+permalink: why-segmentation-isnt-always-the-answer
+date: 2020-05-09
+---
 
 *I originally wrote this in 2017 on another site I ran, before I let it die. Oops. I was recently able to recover this article so I'm posting it again for posterity's sake.*
 

@@ -1,7 +1,9 @@
-Title: Good gamers, good managers?
-Slug: good-gamers-good-managers-civilization
-Date: 2020-02-14 14:17
-Link: https://link.springer.com/article/10.1007/s11846-020-00378-0
+---
+title: Good gamers, good managers?
+permalink: good-gamers-good-managers-civilization
+date: 2020-02-14
+link: https://link.springer.com/article/10.1007/s11846-020-00378-0
+---
 
 An interesting study from the Review of Managerial Science which looks at gaming performance and it's potential correlation with real world problem solving performance.
 

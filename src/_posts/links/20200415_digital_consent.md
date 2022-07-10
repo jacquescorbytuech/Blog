@@ -1,7 +1,9 @@
-Title: Big Tech Digital Consent
-Slug: big-tech-digital-consent
-Date: 2020-04-15 16:23
-Link: https://epub.wu.ac.at/7523/
+---
+title: Big Tech Digital Consent
+permalink: big-tech-digital-consent
+date: 2020-04-15
+link: https://epub.wu.ac.at/7523/
+---
 
 Now that we've had the GDPR for a while, studies are starting to emerge around digital consent mechanisms used across the web.
 

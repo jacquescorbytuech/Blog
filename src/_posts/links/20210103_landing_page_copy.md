@@ -1,7 +1,9 @@
-Title: Writing Copy for Landing Pages
-Slug: writing-copy-landing-pages
-Date: 2021-01-03 15:43
-Link: https://stripe.com/gb/atlas/guides/landing-page-copy
+---
+title: Writing Copy for Landing Pages
+permalink: writing-copy-landing-pages
+date: 2021-01-03
+link: https://stripe.com/gb/atlas/guides/landing-page-copy
+---
 
 A great guide from the folks at Stripe for effective landing page copy.
 

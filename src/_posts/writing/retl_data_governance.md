@@ -1,6 +1,8 @@
-Title: Don't Throw Data Governance Out With the Bathwater
-Slug: retl-cdp-data-activation-governance
-Date: 2022-04-23 15:28
+---
+title: Don't Throw Data Governance Out With the Bathwater
+permalink: retl-cdp-data-activation-governance
+date: 2022-04-23
+---
 
 A post by the folks over at Hightouch[^hightouch] caught my eye yesterday.
 

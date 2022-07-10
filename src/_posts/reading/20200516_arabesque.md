@@ -1,13 +1,15 @@
-Title: The Arabesque
-Slug: the-arabesque-an-introduction
-Date: 2020-05-16 13:06
-Subheading: An Introduction
-Template: book
-BookAuthor: Heba Nayel Barakat
-Book: https://www.goodreads.com/book/show/53316956-the-arabesque
-Bookshop: 
+---
+title: The Arabesque
+permalink: the-arabesque-an-introduction
+date: 2020-05-16
+subheading: An Introduction
+template: book
+bookauthor: Heba Nayel Barakat
+book: https://www.goodreads.com/book/show/53316956-the-arabesque
+bookshop: 
 Recommended:
-Cover: images/covers/the-arabesque-an-introduction.jpg
+cover: images/covers/the-arabesque-an-introduction.jpg
+---
 
 This is a fantastic art history book if you're interested in learning more about arabesque patterns and the evolution of Islamic art in general.
 

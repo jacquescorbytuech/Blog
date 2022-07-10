@@ -1,7 +1,9 @@
-Title: SaaS Prototyping with Observable, Firebase and Stripe
-Slug: saas-prototype-observable-hq-stripe-firebase
-Date: 2020-11-07 23:05
-Link: https://observablehq.com/@tomlarkworthy/saas-tutorial
+---
+title: SaaS Prototyping with Observable, Firebase and Stripe
+permalink: saas-prototype-observable-hq-stripe-firebase
+date: 2020-11-07
+link: https://observablehq.com/@tomlarkworthy/saas-tutorial
+---
 
 Observable is a super handy data visualisation notebook, but it can be used for a lot more than that, as this post demonstrates.
 

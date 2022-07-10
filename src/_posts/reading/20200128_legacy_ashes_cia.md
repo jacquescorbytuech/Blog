@@ -1,13 +1,15 @@
-Title: Legacy of Ashes
-Slug: legacy-ashes-history-cia
-Date: 2020-01-28 18:57
-Subheading: The History of the CIA
-Template: book
-BookAuthor: Tim Weiner
-Book: https://www.goodreads.com/book/show/13118306-legacy-of-ashes
-Bookshop: https://uk.bookshop.org/a/2625/9780241956236
-Recommended: True
-Cover: images/covers/legacy-of-ashes.jpg
+---
+title: Legacy of Ashes
+permalink: legacy-ashes-history-cia
+date: 2020-01-28
+subheading: The History of the CIA
+template: book
+bookauthor: Tim Weiner
+book: https://www.goodreads.com/book/show/13118306-legacy-of-ashes
+bookshop: https://uk.bookshop.org/a/2625/9780241956236
+recommended: True
+cover: images/covers/legacy-of-ashes.jpg
+---
 
 Since it's founding in September 1947, the CIA has bumbled from disaster to disaster, spreading death and terror around the world.
 

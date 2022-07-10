@@ -1,6 +1,8 @@
-Title: Marketing and the Modern Data Stack
-Slug: marketing-modern-data-stack
-Date: 2022-04-07 13:08
+---
+title: Marketing and the Modern Data Stack
+permalink: marketing-modern-data-stack
+date: 2022-04-07
+---
 
 *There is a huge transformation happening in the data space.*
 
@@ -26,7 +28,7 @@ In 2020, the venture capital firm Andreessen Horowitz published an article calle
 
 > In fact, many of today’s fastest growing infrastructure startups build products to manage data. These systems enable data-driven decision making (analytic systems) and drive data-powered products, including with machine learning (operational systems). They range from the pipes that carry data, to storage solutions that house data, to SQL engines that analyze data, to dashboards that make data easy to understand – from data science and machine learning libraries, to automated data pipelines, to data catalogs, and beyond.
 
-[![A unified data infrastructure architecture](../images/post-images/Data-Report-Martin-Inline-Graphics-R7-06-1.webp)](../images/post-images/Data-Report-Martin-Inline-Graphics-R7-06-1.webp)
+[![A unified data infrastructure architecture](../../images/post-images/Data-Report-Martin-Inline-Graphics-R7-06-1.webp)](../../images/post-images/Data-Report-Martin-Inline-Graphics-R7-06-1.webp)
 
 Image by a16z.
 
@@ -34,7 +36,7 @@ This proved to be a rather prophetic take and we're increasingly seeing consolid
 
 > Second, as companies become operationally dependent on data, vertically integrated data products create another problem: Data is segregated by tool and function. Product reporting lives in one place; sales in another; marketing in another. Like being able to go to BevMo ... and buy any beer you want, it’s nice to go to one place for all the data you need. And unlike beer at BevMo, data’s often best consumed when blended with other data 
 
-[![The horizontal data stack](../images/post-images/horizontal-data-stack.jpeg)](../images/post-images/horizontal-data-stack.jpeg)
+[![The horizontal data stack](../../images/post-images/horizontal-data-stack.jpeg)](../../images/post-images/horizontal-data-stack.jpeg)
 
 Image by Benn.
 

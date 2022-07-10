@@ -1,7 +1,9 @@
-Title: How Users Engage With Chrome Push Notification Prompts
-Slug: chrome-push-notifications-prompts
-Date: 2020-02-12 15:42
-Link: https://dev.to/chromiumdev/yestifications-exploring-how-users-engage-with-notification-prompts-in-the-chrome-ux-report-4h7c
+---
+title: How Users Engage With Chrome Push Notification Prompts
+permalink: chrome-push-notifications-prompts
+date: 2020-02-12
+link: https://dev.to/chromiumdev/yestifications-exploring-how-users-engage-with-notification-prompts-in-the-chrome-ux-report-4h7c
+---
 
 I've [previously mentioned](https://www.jacquescorbytuech.com/links/20200115-goodbye-browser-push-notifications.html) my love of desktop browser notifications 🙃.
 

@@ -1,7 +1,9 @@
-Title: Demos, Prototypes and MVPs
-Slug: demo-prototype-mvp
-Date: 2020-01-26 18:15
-Link: https://jacobian.org/2020/jan/16/demos-prototypes-mvps/
+---
+title: Demos, Prototypes and MVPs
+permalink: demo-prototype-mvp
+date: 2020-01-26
+link: https://jacobian.org/2020/jan/16/demos-prototypes-mvps/
+---
 
 It's not always clear what people mean when they talk about demos, prototypes or MVPs.
 

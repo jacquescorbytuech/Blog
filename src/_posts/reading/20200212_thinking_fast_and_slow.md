@@ -1,13 +1,15 @@
-Title: Thinking Fast and Slow
-Slug: thinking-fast-and-slow
-Date: 2020-02-12 17:51
-Subheading: 
-Template: book
-BookAuthor: Daniel Kahneman
-Book: https://www.goodreads.com/book/show/14062004-thinking-fast-and-slow
-Bookshop: https://uk.bookshop.org/a/2625/9780141033570
-Recommended: True
-Cover: images/covers/thinking-fast-and-slow.jpg
+---
+title: Thinking Fast and Slow
+permalink: thinking-fast-and-slow
+date: 2020-02-12
+subheading: 
+template: book
+bookauthor: Daniel Kahneman
+book: https://www.goodreads.com/book/show/14062004-thinking-fast-and-slow
+bookshop: https://uk.bookshop.org/a/2625/9780141033570
+recommended: True
+cover: images/covers/thinking-fast-and-slow.jpg
+---
 
 Anchoring, Priming, the Halo Effect, Loss Aversion, the Endowment Effect; if you work in marketing, these are likely all concepts you've heard about and have some degree of familiarity with, but how do they work and why?
 

@@ -1,13 +1,15 @@
-Title: Barbarians at the Wall
-Slug: barbarians-at-the-wall
-Date: 2020-09-27 17:09
-Subheading: The First Nomadic Empire and the Making of China
-Template: book
-BookAuthor: John Man
-Book: https://www.goodreads.com/book/show/51371513-barbarians-at-the-wall
-Bookshop: https://uk.bookshop.org/a/2625/9780552174916
-Recommended: True
-Cover: images/covers/barbarians-at-the-wall.jpg
+---
+title: Barbarians at the Wall
+permalink: barbarians-at-the-wall
+date: 2020-09-27
+subheading: The First Nomadic Empire and the Making of China
+template: book
+bookauthor: John Man
+book: https://www.goodreads.com/book/show/51371513-barbarians-at-the-wall
+bookshop: https://uk.bookshop.org/a/2625/9780552174916
+recommended: True
+cover: images/covers/barbarians-at-the-wall.jpg
+---
 
 I've got a bad habit of reading a lot of Euro-centric history so wanted to step outside of my normal comfort zone a little with this one.
 

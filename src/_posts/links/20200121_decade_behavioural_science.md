@@ -1,7 +1,9 @@
-Title: The Next Decade of Behavioural Science
-Slug: next-decade-behavioural-science
-Date: 2020-01-21 10:56
-Link: https://behavioralscientist.org/imagining-the-next-decade-future-of-behavioral-science
+---
+title: The Next Decade of Behavioural Science
+permalink: next-decade-behavioural-science
+date: 2020-01-21
+link: https://behavioralscientist.org/imagining-the-next-decade-future-of-behavioral-science
+---
 
 I recently finished Richard Thaler's excellent [Misbehaving](https://www.goodreads.com/book/show/29757912-misbehaving) which left me with a hankering for more on behavioural economics, psychology and more.
 

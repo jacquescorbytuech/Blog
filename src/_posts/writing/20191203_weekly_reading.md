@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191125-weekly-reading
-Date: 2019-12-03 18:43
+---
+title: Weekly Reading
+permalink: 20191125-weekly-reading
+date: 2019-12-03
+---
 
 I'm still slowly plodding through Peter Wilson's [The Holy Roman Empire: A Thousand Years of Europe's History](https://www.goodreads.com/book/show/31456148-the-holy-roman-empire). More to come later.
 

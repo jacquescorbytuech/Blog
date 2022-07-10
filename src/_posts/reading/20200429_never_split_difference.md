@@ -1,13 +1,15 @@
-Title: Never Split the Difference
-Slug: never-split-the-difference
-Date: 2020-04-29 15:56
-Subheading: Negotiating as if Your Life Depended on It
-Template: book
-BookAuthor: Chris Voss
-Book: https://www.goodreads.com/book/show/29233865-never-split-the-difference
-Bookshop: https://uk.bookshop.org/a/2625/9781847941497
-Recommended: True
-Cover: images/covers/never-split-the-difference.jpg
+---
+title: Never Split the Difference
+permalink: never-split-the-difference
+date: 2020-04-29
+subheading: Negotiating as if Your Life Depended on It
+template: book
+bookauthor: Chris Voss
+book: https://www.goodreads.com/book/show/29233865-never-split-the-difference
+bookshop: https://uk.bookshop.org/a/2625/9781847941497
+recommended: True
+cover: images/covers/never-split-the-difference.jpg
+---
 
 I don't have a ton of experience when it comes to negotiation so I think I came away from this one having learnt a few things.
 

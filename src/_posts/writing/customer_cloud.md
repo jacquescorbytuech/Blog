@@ -1,6 +1,8 @@
-Title: The Customer Cloud I Want
-Slug: the-customer-cloud-i-want
-Date: 2022-05-14 18:07
+---
+title: The Customer Cloud I Want
+permalink: the-customer-cloud-i-want
+date: 2022-05-14
+---
 
 There's a lot of crossover in the capabilities tools customer facing teams use to communicate with customers.
 
@@ -12,7 +14,7 @@ I'll get into why that's a problem in a minute.
 
 If you think holistically about what these platforms can do, it tends to break down into the following layers.
 
-[![The layers of the customer cloud](../images/post-images/Unbundled-Customer-Cloud.png)](../images/post-images/Unbundled-Customer-Cloud.png)
+[![The layers of the customer cloud](../../images/post-images/Unbundled-Customer-Cloud.png)](../../images/post-images/Unbundled-Customer-Cloud.png)
 
 1. Data Collection
 2. Customer View

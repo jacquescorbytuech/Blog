@@ -1,13 +1,15 @@
-Title: Advertising For Skeptics
-Slug: advertising-for-skeptics
-Date: 2020-05-02 18:58
-Subheading: 
-Template: book
-BookAuthor: Bob Hoffman
-Book: https://www.goodreads.com/book/show/51139948-advertising-for-skeptics
-Bookshop: 
-Recommended: True
-Cover: images/covers/advertising-for-skeptics.jpg
+---
+title: Advertising For Skeptics
+permalink: advertising-for-skeptics
+date: 2020-05-02
+subheading: 
+template: book
+bookauthor: Bob Hoffman
+book: https://www.goodreads.com/book/show/51139948-advertising-for-skeptics
+bookshop: 
+recommended: True
+cover: images/covers/advertising-for-skeptics.jpg
+---
 
 If you're not familiar with Bob Hoffman, he's built a brand as [The Ad Contrarian](https://twitter.com/adcontrarian) - which should tell you everything you need to know about why I enjoyed this book.
 

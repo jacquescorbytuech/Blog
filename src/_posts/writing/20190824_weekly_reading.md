@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190819-weekly-reading
-Date: 2019-08-24 11:59
-Summary: Something to do this bank holiday weekend!
+---
+title: Weekly Reading
+permalink: 20190819-weekly-reading
+date: 2019-08-24
+summary: Something to do this bank holiday weekend!
+---
 
 Henry Kissinger's [On China](https://www.goodreads.com/book/show/14799927-on-china) was a fascinating read. Deeply insightful and provided some real perspective on the Communist Party of China and how confucianism still leads and influences modern policy in the country. Kissinger is entirely too easy on Mao and the millions of deaths he caused as a result of his policies and the political upheaval that he lead - but I certainly learnt a lot about the history of the country and *why* some of the diplomatic policies were the way that they were. A hugely fascinating read if you want to understand what's going on in the world right now and how we got there.
 

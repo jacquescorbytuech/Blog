@@ -1,13 +1,15 @@
-Title: How Numbers Work
-Slug: how-numbers-work
-Date: 2020-10-25 12:12
-Subheading: Discover the Strange and Beautiful World of Mathematics
-Template: book
-BookAuthor: New Scientist
-Book: https://www.goodreads.com/book/show/39334339-how-numbers-work
-Bookshop: https://uk.bookshop.org/a/2625/9781473670358
-Recommended: 
-Cover: images/covers/how-numbers-work.jpg
+---
+title: How Numbers Work
+permalink: how-numbers-work
+date: 2020-10-25
+subheading: Discover the Strange and Beautiful World of Mathematics
+template: book
+bookauthor: New Scientist
+book: https://www.goodreads.com/book/show/39334339-how-numbers-work
+bookshop: https://uk.bookshop.org/a/2625/9781473670358
+recommended: 
+cover: images/covers/how-numbers-work.jpg
+---
 
 Pretty much exactly what it says on the cover. *How Numbers Work* is an interesting look at the history mathematical rules and some of the special numbers used
 in modern mathematics such as zero, pi, e and infinity.

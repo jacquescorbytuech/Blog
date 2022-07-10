@@ -1,14 +1,16 @@
-Title: Barbarian Days
-Slug: barbarian-days
-Date: 2021-01-04 11:35
-Subheading: A Surfing Life
-Template: book
-BookAuthor: William Finnegan
-Book: https://www.goodreads.com/book/show/30320038-barbarian-days
-Bookshop: https://uk.bookshop.org/a/2625/9781472151414
-Recommended: True
-Language: English
-Cover: images/covers/barbarian-days.jpg
+---
+title: Barbarian Days
+permalink: barbarian-days
+date: 2021-01-04
+subheading: A Surfing Life
+template: book
+bookauthor: William Finnegan
+book: https://www.goodreads.com/book/show/30320038-barbarian-days
+bookshop: https://uk.bookshop.org/a/2625/9781472151414
+recommended: True
+language: English
+cover: images/covers/barbarian-days.jpg
+---
 
 I really, really enjoyed *Barbarian Days*. William Finnegan has lived the sort of life that many people can only dream about. He's regularly surfed 10+ft waves for well over 40 years, travelled the world working hand to mouth and has experienced more in a lifetime than many of us will ever do and see.
 

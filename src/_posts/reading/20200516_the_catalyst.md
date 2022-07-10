@@ -1,13 +1,15 @@
-Title: The Catalyst
-Slug: the-catalyst
-Date: 2020-05-16 17:35
-Subheading: How to Change Anyone's Mind
-Template: book
-BookAuthor: Jonah Berger
-Book: https://www.goodreads.com/book/show/50815803-the-catalyst
-Bookshop: https://uk.bookshop.org/a/2625/9781471193774
+---
+title: The Catalyst
+permalink: the-catalyst
+date: 2020-05-16
+subheading: How to Change Anyone's Mind
+template: book
+bookauthor: Jonah Berger
+book: https://www.goodreads.com/book/show/50815803-the-catalyst
+bookshop: https://uk.bookshop.org/a/2625/9781471193774
 Recommended:
-Cover: images/covers/the-catalyst.jpg
+cover: images/covers/the-catalyst.jpg
+---
 
 This one was sort of a cross between [Never Split the Difference](https://www.jacquescorbytuech.com/reading/never-split-the-difference.html) and [Thinking Fast and Slow](https://www.jacquescorbytuech.com/reading/thinking-fast-and-slow.html), without being as good as either of those books.
 

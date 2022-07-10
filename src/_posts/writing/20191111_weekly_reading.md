@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191104-weekly-reading
-Date: 2019-11-11 17:53
+---
+title: Weekly Reading
+permalink: 20191104-weekly-reading
+date: 2019-11-11
+---
 
 I finally got around to finishing [Traction](https://www.goodreads.com/book/show/25768015-traction) by Gabriel Weinberg and Justin Mares last week, and I wasn't super impressed. The central premise is an interesting one, quickly iterate on various marketing channels until you find one that can help you move the needle for customer acquisition, and then focus all your efforts on that. The primary problem is that so much of the channel specific tactics are now wildly out of date, particularly when it comes to digital.
 

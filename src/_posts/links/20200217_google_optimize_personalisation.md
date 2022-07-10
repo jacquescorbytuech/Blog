@@ -1,7 +1,9 @@
-Title: Cheap Website Personalisation With Google Optimize
-Slug: google-optimize-personalisation
-Date: 2020-02-17 13:16
-Link: https://cxl.com/blog/optimize-tag-manager-personalization/
+---
+title: Cheap Website Personalisation With Google Optimize
+permalink: google-optimize-personalisation
+date: 2020-02-17
+link: https://cxl.com/blog/optimize-tag-manager-personalization/
+---
 
 Did you know you can use Google Optimize to personalise your website?
 

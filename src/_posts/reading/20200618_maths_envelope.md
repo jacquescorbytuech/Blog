@@ -1,13 +1,15 @@
-Title: Maths on the Back of an Envelope
-Slug: maths-back-of-envelope
-Date: 2020-06-18 09:37
-Subheading: Clever ways to (roughly) calculate anything
-Template: book
-BookAuthor: Rob Eastaway
-Book: https://www.goodreads.com/book/show/51015789-maths-on-the-back-of-an-envelope
-Bookshop: https://uk.bookshop.org/a/2625/9780008324582
+---
+title: Maths on the Back of an Envelope
+permalink: maths-back-of-envelope
+date: 2020-06-18
+subheading: Clever ways to (roughly) calculate anything
+template: book
+bookauthor: Rob Eastaway
+book: https://www.goodreads.com/book/show/51015789-maths-on-the-back-of-an-envelope
+bookshop: https://uk.bookshop.org/a/2625/9780008324582
 Recommended:
-Cover: images/covers/maths-back-of-envelope.jpg
+cover: images/covers/maths-back-of-envelope.jpg
+---
 
 I've forgotten more high school maths than I care to admit so this was a great little refresher.
 

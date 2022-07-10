@@ -1,7 +1,9 @@
-Title: What do NFT's Mean for Digital Art?
-Slug: nfts-digital-art
-Date: 2021-03-05 11:53
-Link: https://rhizome.org/editorial/2021/mar/03/another-new-world/
+---
+title: What do NFT's Mean for Digital Art?
+permalink: nfts-digital-art
+date: 2021-03-05
+link: https://rhizome.org/editorial/2021/mar/03/another-new-world/
+---
 
 NFT's have been a hot topic in the art space ever since [CryptoKitties](https://www.cryptokitties.co/) popularised the concept in 2017, but as usual, there's more than meets the eye on the topic.
 

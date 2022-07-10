@@ -1,6 +1,8 @@
-Title: How to Build a Welcome Program
-Slug: how-to-build-welcome-program
-Date: 2020-05-10 13:57
+---
+title: How to Build a Welcome Program
+permalink: how-to-build-welcome-program
+date: 2020-05-10
+---
 
 Some collected thoughts on welcome programs.
 
@@ -54,7 +56,7 @@ While subscriber growth is outside the scope of this article, some common tactic
 
 Below you can see an example of an incentivised email subscription on [Sigma Sports](https://www.sigmasports.com/).
 
-[![Email subcription box](../images/post-images/sigmasports_signup.png)](../images/post-images/sigmasports_signup.png)
+[![Email subcription box](../../images/post-images/sigmasports_signup.png)](../../images/post-images/sigmasports_signup.png)
 
 *At this stage I also wanted to show you the welcome email that came from that subscription box, but more than 24 hours later and I've still not received it.* 🤦‍♂️
 
@@ -82,13 +84,13 @@ At my most recent workplace, we noticed that there was a high level of customer 
 
 You might also see an opportunity to learn more about the subscriber in question. Mr Porter do this exceptionally well with an email in their welcome program designed to learn more about your favourite brands.
 
-[![Mr Porter Email, Who are your favourite designers?](../images/post-images/MrPorter_Email.png)](../images/post-images/MrPorter_Email.png)
+[![Mr Porter Email, Who are your favourite designers?](../../images/post-images/MrPorter_Email.png)](../../images/post-images/MrPorter_Email.png)
 
 You could also use this opportunity to learn the customer's size, style preferences and more. This information can prove to be invaluable later when your customer shifts from your welcome program to your traditional marketing program.
 
 If you're feeling adventurous you can also use the opportunity to build an immediate rapport with your new subscriber by inviting them to reply if they have any questions about your product or reply. It's a fantastic way to break through stale automated messaging and bring a real personal touch.
 
-[![Baremetrics welcome email](../images/post-images/Baremetrics.png)](../images/post-images/Baremetrics.png)
+[![Baremetrics welcome email](../../images/post-images/Baremetrics.png)](../../images/post-images/Baremetrics.png)
 
 ### Teasing out the key messaging
 
@@ -102,12 +104,12 @@ For any subsequent emails (or SMS, push, DM, whatever) you might be putting toge
 
 Your emails don't need to be copy intensive, video content not only tends to have a high click rate[^eSpares] but lends itself particularly well to certain types of communication. Use these emails as an opportunity to experiment with your content.
 
-[![Platforma onboarding email](../images/post-images/how-to-use-platforma-in-figma.png)](../images/post-images/how-to-use-platforma-in-figma.png)
+[![Platforma onboarding email](../../images/post-images/how-to-use-platforma-in-figma.png)](../../images/post-images/how-to-use-platforma-in-figma.png)
 Image taken from Really Good Emails.[^Platforma]
 
 If you're struggling with the tone of voice you should use in your copy the image below showcases copywriter Eugene Schwartz' Five Levels of Awareness model. Eugene Schwartz was a legendary direct mail copywriter and the author of multiple books, including the highly regarded Breakthrough Advertising[^breakthrough].
 
-[![Schwartz awareness scale](../images/post-images/Schwartz-Awareness-Scale.png)](../images/post-images/Schwartz-Awareness-Scale.png)
+[![Schwartz awareness scale](../../images/post-images/Schwartz-Awareness-Scale.png)](../../images/post-images/Schwartz-Awareness-Scale.png)
 Image taken from Search Engine Land[^sel].  
 
 Don't forget to check details like the sender name and sender email address are clear and obvious. If I signed up for emails from WidgetsCo I expect to get an email from WidgetsCo, not Employee Bob. If you're expecting or hoping for replies, don't send from a noreply@ address, which is bad practice in any case[^noreply].
@@ -120,7 +122,7 @@ At this stage you might just have one email, or you might have a series of 20 hi
 
 Well, there's no time like the present. Time to hit the big red button and get this program live!
 
-[![Push the button](../images/post-images/push-the-button.gif)](../images/post-images/push-the-button.gif)
+[![Push the button](../../images/post-images/push-the-button.gif)](../../images/post-images/push-the-button.gif)
 
 ***What's the worst that could happen?***
 

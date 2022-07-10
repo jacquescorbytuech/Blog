@@ -1,7 +1,9 @@
-Title: ICO Direct Marketing Consultation
-Slug: ico-direct-marketing-consultation
-Date: 2020-01-29 15:47
-Link: https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-consultation-on-the-draft-direct-marketing-code-of-practice
+---
+title: ICO Direct Marketing Consultation
+permalink: ico-direct-marketing-consultation
+date: 2020-01-29
+link: https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-consultation-on-the-draft-direct-marketing-code-of-practice
+---
 
 The ICO is holding a consultation on their new direct marketing code of practice.
 

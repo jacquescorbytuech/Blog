@@ -1,7 +1,9 @@
-Title: Hello World
-Slug: hello-world
-Date: 2019-05-06 13:37
-Summary: Is this a blog? I think it might just be.
+---
+title: Hello World
+permalink: hello-world
+date: 2019-05-06
+summary: Is this a blog? I think it might just be.
+---
 
 So, it's been a **long** time since I've bothered to have a blog or personal site of any sort - and while I've certainly dabbled in a bunch of web related projects over the years (mostly wikis and video game community related stuff), I've not really _done_ the web properly in a long time.
 

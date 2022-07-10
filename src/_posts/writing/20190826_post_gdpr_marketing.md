@@ -1,7 +1,9 @@
-Title: Digital Marketing in the Age of the GDPR
-Slug: digital-marketing-post-gdpr
-Date: 2019-08-26 19:44
-Summary: Houston, we have a problem.
+---
+title: Digital Marketing in the Age of the GDPR
+permalink: digital-marketing-post-gdpr
+date: 2019-08-26
+summary: Houston, we have a problem.
+---
 
 *What does marketing look like in post GDPR world where everyone is compliant?*
 

@@ -1,7 +1,9 @@
-Title: Google Maps Hack
-Slug: google-maps-hack
-Date: 2020-02-03 09:07
-Link: http://www.simonweckert.com/googlemapshacks.html
+---
+title: Google Maps Hack
+permalink: google-maps-hack
+date: 2020-02-03
+link: http://www.simonweckert.com/googlemapshacks.html
+---
 
 Through the use of 99 smartphones and a hand-pulled cart, artist Simon Weckert has found a way to manipulate our virtual world, and in turn manipulate people's experience of the real world.
 

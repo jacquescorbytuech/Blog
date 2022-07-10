@@ -1,7 +1,9 @@
-Title: Saying Goodbye to the Landing Page
-Slug: goodbye-landing-pages
-Date: 2020-01-20 13:43
-Link: https://uxdesign.cc/the-new-landing-page-is-to-have-no-landing-page-at-all-bb57ca1548f1
+---
+title: Saying Goodbye to the Landing Page
+permalink: goodbye-landing-pages
+date: 2020-01-20
+link: https://uxdesign.cc/the-new-landing-page-is-to-have-no-landing-page-at-all-bb57ca1548f1
+---
 
 Working on a SaaS app? You probably don't need another landing page.
 

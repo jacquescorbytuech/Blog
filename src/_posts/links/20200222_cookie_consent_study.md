@@ -1,7 +1,9 @@
-Title: Post GDPR Dark Patterns - A Study of Cookie Consent Notices
-Slug: gdpr-dark-patterns-cookie-consent-study
-Date: 2020-02-22 17:44
-Link: https://arxiv.org/abs/2001.02479
+---
+title: Post GDPR Dark Patterns - A Study of Cookie Consent Notices
+permalink: gdpr-dark-patterns-cookie-consent-study
+date: 2020-02-22
+link: https://arxiv.org/abs/2001.02479
+---
 
 Since the GDPR went into effect it's hard to navigate the web without an endless barrage of "consent" notices asking you to agree to being tracked by unanmed third parties.
 

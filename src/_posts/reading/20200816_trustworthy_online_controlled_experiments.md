@@ -1,13 +1,15 @@
-Title: Trustworthy Online Controlled Experiments
-Slug: trustworthy-online-controlled-experiments
-Date: 2020-08-16 15:18
-Subheading: A Practical Guide to A/B Testing
-Template: book
-BookAuthor: Ron Kohavi, Diane Tang, Ya Xu
-Book: https://www.goodreads.com/book/show/51635906-trustworthy-online-controlled-experiments
-Bookshop: https://uk.bookshop.org/a/2625/9781108724265
-Recommended: True
-Cover: images/covers/trustworthy-online-controlled-experiments.jpg
+---
+title: Trustworthy Online Controlled Experiments
+permalink: trustworthy-online-controlled-experiments
+date: 2020-08-16
+subheading: A Practical Guide to A/B Testing
+template: book
+bookauthor: Ron Kohavi, Diane Tang, Ya Xu
+book: https://www.goodreads.com/book/show/51635906-trustworthy-online-controlled-experiments
+bookshop: https://uk.bookshop.org/a/2625/9781108724265
+recommended: True
+cover: images/covers/trustworthy-online-controlled-experiments.jpg
+---
 
 I'm glad I stumbled across this book recently while reading an excellent article on [non-significance in A/B testing](https://www.jacquescorbytuech.com/links/non-significance-ab-testing).
 

@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190916-weekly-reading
-Date: 2019-09-23 19:25
-Summary: 14 links from the past
+---
+title: Weekly Reading
+permalink: 20190916-weekly-reading
+date: 2019-09-23
+summary: 14 links from the past
+---
 
 Keeping things short this week, I'm still reading Scott Galloway's [The Four: The Hidden DNA of Amazon, Apple, Facebook and Google](https://www.goodreads.com/book/show/36166396-the-four), which is excellent and insightful so far. 
 

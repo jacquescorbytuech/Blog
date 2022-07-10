@@ -1,13 +1,15 @@
-Title: The Age of Surveillance Capitalism
-Slug: the-age-of-surveillance-capitalism
-Date: 2020-04-06 16:14
-Subheading: The Fight for a Human Future at the New Frontier of Power
-Template: book
-BookAuthor: Shoshana Zuboff
-Book: https://www.goodreads.com/book/show/45439510-the-age-of-surveillance-capitalism
-Bookshop: https://uk.bookshop.org/a/2625/9781781256855
-Recommended: True
-Cover: images/covers/the-age-of-surveillance-capitalism.jpg
+---
+title: The Age of Surveillance Capitalism
+permalink: the-age-of-surveillance-capitalism
+date: 2020-04-06
+subheading: The Fight for a Human Future at the New Frontier of Power
+template: book
+bookauthor: Shoshana Zuboff
+book: https://www.goodreads.com/book/show/45439510-the-age-of-surveillance-capitalism
+bookshop: https://uk.bookshop.org/a/2625/9781781256855
+recommended: True
+cover: images/covers/the-age-of-surveillance-capitalism.jpg
+---
 
 > Surveillance capitalism operates through unprecedented asymmetries in knowledge and the power that accrues to knowledge. Surveillance capitalists know everything *about us*, whereas their operations are designed to be unknowable *to us*. They accumulate vast domains of new knowledge *from us*, but not *for us*. They predict our futures for the sake of others' gain, not ours.
 

@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190812-weekly-reading
-Date: 2019-08-18 15:48
-Summary: I finally finished The Inheritance of Rome!
+---
+title: Weekly Reading
+permalink: 20190812-weekly-reading
+date: 2019-08-18
+summary: I finally finished The Inheritance of Rome!
+---
 
 This week's been a good week, I was in Provence enjoying some much needed sunshine and rosé and catching up on some reading.
 

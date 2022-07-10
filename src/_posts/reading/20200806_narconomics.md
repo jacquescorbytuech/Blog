@@ -1,13 +1,15 @@
-Title: Narconomics
-Slug: narconomics
-Date: 2020-08-06 10:19
-Subheading: How To Run a Drug Cartel
-Template: book
-BookAuthor: Tom Wainwright
-Book: https://www.goodreads.com/book/show/30141406-narconomics
-Bookshop: https://uk.bookshop.org/a/2625/9781785030420
-Recommended: 
-Cover: images/covers/narconomics.jpg
+---
+title: Narconomics
+permalink: narconomics
+date: 2020-08-06
+subheading: How To Run a Drug Cartel
+template: book
+bookauthor: Tom Wainwright
+book: https://www.goodreads.com/book/show/30141406-narconomics
+bookshop: https://uk.bookshop.org/a/2625/9781785030420
+recommended: 
+cover: images/covers/narconomics.jpg
+---
 
 Using economics to understand how modern drug cartels work shouldn't be this compelling.
 

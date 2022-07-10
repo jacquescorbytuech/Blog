@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190902-weekly-reading
-Date: 2019-09-08 19:02
-Summary: Far indeed is this from the way.
+---
+title: Weekly Reading
+permalink: 20190902-weekly-reading
+date: 2019-09-08
+summary: Far indeed is this from the way.
+---
 
 As you may have seen the [last](https://www.jacquescorbytuech.com/writing/20190819-weekly-reading.html) [couple](https://www.jacquescorbytuech.com/writing/20190826-weekly-reading.html) of weeks, I've been slowly plodding through Catherine Nixey's [The Darkening Age: The Christian Destruction of the Classical World](https://www.goodreads.com/book/show/35450727-the-darkening-age). It turned out to be a deeply frustrating read ⁠— the topic is one that is fascinating; namely the destruction of the classical world by the rise of Christianity within the Roman Empire. The frustration begins and ends with the writing, Nixey is quick to turn the subject into an emotional argument, which given the sheer breadth of the art and knowledge we lost at the hands of the early Christians is understandable but frustrating when you're trying to separate fact from fiction.
 

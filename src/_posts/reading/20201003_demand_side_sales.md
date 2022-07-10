@@ -1,13 +1,15 @@
-Title: Demand-Side Sales 101
-Slug: demand-side-sales-101
-Date: 2020-10-03 11:29
-Subheading: Stop Selling and Help Your Customers Make Progress
-Template: book
-BookAuthor: Bob Moesta
-Book: https://www.goodreads.com/book/show/55020861-demand-side-sales-101
-Bookshop: https://uk.bookshop.org/a/2625/9781544509969
-Recommended: 
-Cover: images/covers/demand-side-sales-101.jpg
+---
+title: Demand-Side Sales 101
+permalink: demand-side-sales-101
+date: 2020-10-03
+subheading: Stop Selling and Help Your Customers Make Progress
+template: book
+bookauthor: Bob Moesta
+book: https://www.goodreads.com/book/show/55020861-demand-side-sales-101
+bookshop: https://uk.bookshop.org/a/2625/9781544509969
+recommended: 
+cover: images/covers/demand-side-sales-101.jpg
+---
 
 I picked this one up after [Jason Fried](https://twitter.com/jasonfried/status/1308470995875848192) tweeted about it, and I'm glad I did.
 

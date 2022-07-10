@@ -1,7 +1,9 @@
-Title: Writing Usefully
-Slug: writing-usefully
-Date: 2020-02-21 11:30
-Link: http://www.paulgraham.com/useful.html
+---
+title: Writing Usefully
+permalink: writing-usefully
+date: 2020-02-21
+link: http://www.paulgraham.com/useful.html
+---
 
 I still find writing quite a clumsy and difficult activity, but Paul fantastically articulates how to write effectively, which in this instance is about being *useful*.
 

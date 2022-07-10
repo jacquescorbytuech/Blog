@@ -1,13 +1,15 @@
-Title: Byzantium
-Slug: byzantium
-Date: 2020-08-15 15:19
-Subheading: The Surprising Life of a Medieval Empire
-Template: book
-BookAuthor: Judith Herrin
-Book: https://www.goodreads.com/book/show/11936615-byzantium
-Bookshop: https://uk.bookshop.org/a/2625/9780141031026
-Recommended: True
-Cover: images/covers/byzantium.jpg
+---
+title: Byzantium
+permalink: byzantium
+date: 2020-08-15
+subheading: The Surprising Life of a Medieval Empire
+template: book
+bookauthor: Judith Herrin
+book: https://www.goodreads.com/book/show/11936615-byzantium
+bookshop: https://uk.bookshop.org/a/2625/9780141031026
+recommended: True
+cover: images/covers/byzantium.jpg
+---
 
 Byzantium gets a bad rap and is synonymous with inefficient bureaucracy. Fortunately this book is an absolute eye opener and sets the record straight on a fascinating empire that lasted for over 1,000 years.
 

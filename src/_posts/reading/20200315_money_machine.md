@@ -1,13 +1,15 @@
-Title: The Money Machine
-Slug: the-money-machine
-Date: 2020-03-15 11:24
-Subheading: How the City Works
-Template: book
-BookAuthor: Phillip Coggan
-Book: https://www.goodreads.com/book/show/28196623-the-money-machine
-Bookshop: https://uk.bookshop.org/a/2625/9780141980737
-Recommended: True
-Cover: images/covers/the-money-machine.jpg
+---
+title: The Money Machine
+permalink: the-money-machine
+date: 2020-03-15
+subheading: How the City Works
+template: book
+bookauthor: Phillip Coggan
+book: https://www.goodreads.com/book/show/28196623-the-money-machine
+bookshop: https://uk.bookshop.org/a/2625/9780141980737
+recommended: True
+cover: images/covers/the-money-machine.jpg
+---
 
 With everything going on in the world right now, it seems prudent to at least try to understand how the global economy works.
 

@@ -1,7 +1,9 @@
-Title: Yves Klein and the Void
-Slug: 20200116-yves-klein-void
-Date: 2020-01-16 13:38
-Link: https://www.artsy.net/article/artsy-editorial-yves-klein-tricked-iconic-photograph
+---
+title: Yves Klein and the Void
+permalink: 20200116-yves-klein-void
+date: 2020-01-16
+link: https://www.artsy.net/article/artsy-editorial-yves-klein-tricked-iconic-photograph
+---
 
 It's no secret that many early photographic works were edited. If not carefully staged like Capa's *Loyalist Militiaman at the Moment of Death, Cerro Muriano* then manipulated in the darkroom, giving us the name for many of the now familiar tools we use in Photoshop.
 

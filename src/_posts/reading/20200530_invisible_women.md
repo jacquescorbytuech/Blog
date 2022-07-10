@@ -1,13 +1,15 @@
-Title: Invisible Women
-Slug: invisible-women
-Date: 2020-05-30 13:22
-Subheading: Exposing Data Bias in a World Designed for Men
-Template: book
-BookAuthor: Caroline Criado Perez
-Book: https://www.goodreads.com/book/show/46158570-invisible-women
-Bookshop: https://uk.bookshop.org/a/2625/9781784706289
-Recommended: True
-Cover: images/covers/invisible-women.jpg
+---
+title: Invisible Women
+permalink: invisible-women
+date: 2020-05-30
+subheading: Exposing Data Bias in a World Designed for Men
+template: book
+bookauthor: Caroline Criado Perez
+book: https://www.goodreads.com/book/show/46158570-invisible-women
+bookshop: https://uk.bookshop.org/a/2625/9781784706289
+recommended: True
+cover: images/covers/invisible-women.jpg
+---
 
 I'm not sure that I can give adequate voice to just how good *Invisible Women* is.
 

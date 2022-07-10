@@ -1,6 +1,8 @@
-Title: What Value Does an Artist Have?
-Slug: what-value-does-an-artist-have
-Date: 2021-01-18 18:52
+---
+title: What Value Does an Artist Have?
+permalink: what-value-does-an-artist-have
+date: 2021-01-18
+---
 
 I was shocked and saddened yesterday to see [Benoit Paillé on Instagram](https://www.instagram.com/benoit_paille/) livestreaming his campervan, upside down in a snowy ditch somewhere in the boonies near New Brunswick, Canada.
 

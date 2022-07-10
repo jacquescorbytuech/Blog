@@ -1,7 +1,9 @@
-Title: Geofencing Gets Political
-Slug: geofencing-spatial-politics
-Date: 2020-02-17 16:37
-Link: http://www.bldgblog.com/2020/02/the-spatial-politics-of-geofencing/
+---
+title: Geofencing Gets Political
+permalink: geofencing-spatial-politics
+date: 2020-02-17
+link: http://www.bldgblog.com/2020/02/the-spatial-politics-of-geofencing/
+---
 
 I've been a subscriber to Geoff Manaugh's BLDGBLOG for about a decade now (since reading [this article](http://www.bldgblog.com/2008/04/gamespace-an-interview-with-daniel-dociu/), in fact) and I've always loved his takes on architecture and the societal applications and implications of space in general.
 

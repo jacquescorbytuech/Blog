@@ -1,13 +1,15 @@
-Title: The Fifth Risk
-Slug: the-fifth-risk
-Date: 2020-03-21 14:43
-Subheading: Undoing Democracy
-Template: book
-BookAuthor: Michael lewis
-Book: https://www.goodreads.com/book/show/49675425-the-fifth-risk
-Bookshop: https://uk.bookshop.org/a/2625/9780141991429
-Recommended: True
-Cover: images/covers/the-fifth-risk.jpg
+---
+title: The Fifth Risk
+permalink: the-fifth-risk
+date: 2020-03-21
+subheading: Undoing Democracy
+template: book
+bookauthor: Michael lewis
+book: https://www.goodreads.com/book/show/49675425-the-fifth-risk
+bookshop: https://uk.bookshop.org/a/2625/9780141991429
+recommended: True
+cover: images/covers/the-fifth-risk.jpg
+---
 
 I really enjoyed Michael Lewis' [Flash Boys](https://www.jacquescorbytuech.com/reading/flash-boys.html) which I read a couple months ago so figured I'd give this one a try.
 

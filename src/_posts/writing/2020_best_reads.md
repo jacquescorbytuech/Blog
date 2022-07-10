@@ -1,6 +1,8 @@
-Title: My Favourite Books of 2020
-Slug: 2020-favourite-books
-Date: 2021-01-01 11:12
+---
+title: My Favourite Books of 2020
+permalink: 2020-favourite-books
+date: 2021-01-01
+---
 
 2020 was a good year for reading, what with being stuck inside for the overwhelming majority of it.
 
@@ -12,7 +14,7 @@ These three are in alphabetical order, they're all worth your time, I can't rate
 
 ## The Age of Surveillance Capitalism
 
-<a href="https://www.jacquescorbytuech.com/reading/the-age-of-surveillance-capitalism"><img alt="The Age of Surveillance Capitalism book cover" src="../images/covers/the-age-of-surveillance-capitalism.jpg" style="width:100%; max-width:300px;"/></a>
+<a href="https://www.jacquescorbytuech.com/reading/the-age-of-surveillance-capitalism"><img alt="The Age of Surveillance Capitalism book cover" src="../../images/covers/the-age-of-surveillance-capitalism.jpg" style="width:100%; max-width:300px;"/></a>
 
 This is essential reading for anyone working in the spheres of data or technology, which these days is essentially everyone. In *The Age of Surveillance Capitalism* Shoshana Zuboff argues that modern tech companies have overstepped their boundaries and are now operating as surveillance platforms with the ultimate goal of influencing our behaviour in the manner of a Skinner Box. It's written with prose that can be quite hard to read if you don't have a background reading non-stem works, but don't let that put you off.
 
@@ -22,7 +24,7 @@ There is some hope on the horizon, however, as we're starting to see legislators
 
 ## Invisible Women
 
-<a href="https://www.jacquescorbytuech.com/reading/invisible-women"><img alt="Invisible Women book cover" src="../images/covers/invisible-women.jpg" style="width:100%; max-width:300px;"/></a>
+<a href="https://www.jacquescorbytuech.com/reading/invisible-women"><img alt="Invisible Women book cover" src="../../images/covers/invisible-women.jpg" style="width:100%; max-width:300px;"/></a>
 
 We live in a world designed for men. Products are designed and build according to the *average man*. Safety standards are designed around the biology and size of the average man. The result? A world in which women find discomfort in the products they're forced to use on a daily basis. A world in which women die, simply because they were not considered when designing safety standards.
 
@@ -32,7 +34,7 @@ This book highlights deep injustices that permeate our society. We all need to d
 
 ## No Logo
 
-<a href="https://www.jacquescorbytuech.com/reading/no-logo"><img alt="No Logo book cover" src="../images/covers/no-logo.jpg" style="width:100%; max-width:300px;"/></a>
+<a href="https://www.jacquescorbytuech.com/reading/no-logo"><img alt="No Logo book cover" src="../../images/covers/no-logo.jpg" style="width:100%; max-width:300px;"/></a>
 
 I wish I'd known Parry Malm when I was in my late teens so he could have recommended this book to me then. As it stands I only got to discover this early 00's classic this year. But what a classic it is.
 

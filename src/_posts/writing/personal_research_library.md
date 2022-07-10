@@ -1,6 +1,8 @@
-Title: Building a Personal Research Library
-Slug: building-personal-research-library
-Date: 2020-12-22 13:56
+---
+title: Building a Personal Research Library
+permalink: building-personal-research-library
+date: 2020-12-22
+---
 
 In an excellent post by Steph Smith, titled [Writing is Thinking: Learning to Write with Confidence](https://blog.stephsmith.io/learning-to-write-with-confidence/), she describes what she calls the Thinking and Writing Cycle as follows:
 
@@ -10,7 +12,7 @@ Earlier this year [I started using a note taking app](https://www.jacquescorbytu
 
 Going hand-in-hand with writing is reading, and just like Zettlr, I've found a great open source tool that I use to keep track of what I've read[^1], when. That tool is [Zotero](https://www.zotero.org/).
 
-[![Zotero](../images/post-images/Zotero.png)](../images/post-images/Zotero.png)
+[![Zotero](../../images/post-images/Zotero.png)](../../images/post-images/Zotero.png)
 
 Zotero lets you build a personal library of books, articles, web pages, PDF's and more with just a few clicks, and can be synced with an online account for access across multiple devices (including of any PDF you might have chosen to upload).
 

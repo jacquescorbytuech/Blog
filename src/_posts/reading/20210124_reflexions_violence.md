@@ -1,14 +1,16 @@
-Title: Réflexions sur la violence
-Slug: reflexions-sur-la-violence
-Date: 2021-01-24 16:58
-Subheading: 
-Template: book
-BookAuthor: Goerges Sorel
-Book: https://www.goodreads.com/book/show/18361355-r-flexions-sur-la-violence
-Bookshop: https://uk.bookshop.org/a/2625/9782917260746
-Recommended: 
-Language: French
-Cover: images/covers/reflexions-sur-la-violence.jpg
+---
+title: Réflexions sur la violence
+permalink: reflexions-sur-la-violence
+date: 2021-01-24
+subheading: 
+template: book
+bookauthor: Goerges Sorel
+book: https://www.goodreads.com/book/show/18361355-r-flexions-sur-la-violence
+bookshop: https://uk.bookshop.org/a/2625/9782917260746
+recommended: 
+language: French
+cover: images/covers/reflexions-sur-la-violence.jpg
+---
 
 I'm trying to read more books in French this year, so I've started with Réflexions sur la violence (In English, Reflections on Violence) by Georges Sorel, a French historian, political theorist, journalist and more.
 

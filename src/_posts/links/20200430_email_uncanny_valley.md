@@ -1,7 +1,9 @@
-Title: Plain Text email and the Uncanny Valley
-Slug: plain-text-uncanny-valley
-Date: 2020-04-30 11:29
-Link: https://www.gosquared.com/blog/uncanny-valley-email
+---
+title: Plain Text email and the Uncanny Valley
+permalink: plain-text-uncanny-valley
+date: 2020-04-30
+link: https://www.gosquared.com/blog/uncanny-valley-email
+---
 
 If you spend much time on the marketing web you've likely seen plenty of *hot takes* on the topic of plain text emails, with often wild claims about them being more effective than HTML email from companies with a vested interest in getting you to use their product. *[Cough, cough.](https://www.drift.com/blog/plain-text-emails/)*
 

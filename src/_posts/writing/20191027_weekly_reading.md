@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191021-weekly-reading
-Date: 2019-10-27 17:25
+---
+title: Weekly Reading
+permalink: 20191021-weekly-reading
+date: 2019-10-27
+---
 
 It's been a pretty slow week on the reading front. I'm still working my way through [Traction](https://www.goodreads.com/book/show/25768015-traction), which is quite interesting so far although I can't help but feel like a lot of the marketing tactics discussed - being so digital in nature - are now outdated and no longer of much use. I think there are still a few nuggets to be teased out of it though. More to come when I finish the book, I guess.
 

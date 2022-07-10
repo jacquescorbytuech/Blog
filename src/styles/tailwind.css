@@ -56,6 +56,10 @@
 
 
 
-.footnotes ol {
+.content ol {
     @apply list-decimal text-xl ml-8
+}
+
+.content ul {
+    @apply list-disc text-xl ml-12 leading-8
 }

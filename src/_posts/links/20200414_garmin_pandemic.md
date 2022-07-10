@@ -1,7 +1,9 @@
-Title: Exercising Through the Pandemic
-Slug: garmin-covid19-exercise
-Date: 2020-04-14 16:48
-Link: https://www.garmin.com/en-US/blog/general/the-effect-of-the-global-pandemic-on-active-lifestyles/
+---
+title: Exercising Through the Pandemic
+permalink: garmin-covid19-exercise
+date: 2020-04-14
+link: https://www.garmin.com/en-US/blog/general/the-effect-of-the-global-pandemic-on-active-lifestyles/
+---
 
 The folks at Garmin published some interesting data looking at people's exercise habits through the ongoing COVID19 pandemic.
 

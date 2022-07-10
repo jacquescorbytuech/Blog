@@ -1,14 +1,16 @@
-Title: The Death of the Artist
-Slug: the-death-of-the-artist
-Date: 2021-02-07 17:33
-Subheading: How Creators are Struggling to Survive in the Age of Billionaires and Big Tech
-Template: book
-BookAuthor: William Deresiewicz
-Book: https://www.goodreads.com/book/show/52079593-making-art-in-the-twenty-first-century
-Bookshop: 
-Recommended: True
-Language: English
-Cover: images/covers/the-death-of-the-artist.jpg
+---
+title: The Death of the Artist
+permalink: the-death-of-the-artist
+date: 2021-02-07
+subheading: How Creators are Struggling to Survive in the Age of Billionaires and Big Tech
+template: book
+bookauthor: William Deresiewicz
+book: https://www.goodreads.com/book/show/52079593-making-art-in-the-twenty-first-century
+bookshop: 
+recommended: True
+language: English
+cover: images/covers/the-death-of-the-artist.jpg
+---
 
 Believe it or not I graduated university with an art degree. Okay, so it was Digital Art as opposed to Fine Art, Art History or something more traditional, but an art degree nevertheless. I realised, probably during my second year that art wasn't the career path I wanted, but it remains a more than passing interest of mine. I like to think I support artists by buying photos, buying books, getting tattooed, etc.
 

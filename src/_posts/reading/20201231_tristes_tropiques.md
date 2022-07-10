@@ -1,14 +1,16 @@
-Title: Tristes Tropiques
-Slug: tristes-tropiques
-Date: 2020-12-31 12:17
-Subheading: 
-Template: book
-BookAuthor: Claude Lévi-Strauss
-Book: https://www.goodreads.com/book/show/59003.Tristes_Tropiques
-Bookshop: https://uk.bookshop.org/a/2625/9780141197548
-Recommended: True
-Language: French
-Cover: images/covers/tristes-tropiques.jpg
+---
+title: Tristes Tropiques
+permalink: tristes-tropiques
+date: 2020-12-31
+subheading: 
+template: book
+bookauthor: Claude Lévi-Strauss
+book: https://www.goodreads.com/book/show/59003.Tristes_Tropiques
+bookshop: https://uk.bookshop.org/a/2625/9780141197548
+recommended: True
+language: French
+cover: images/covers/tristes-tropiques.jpg
+---
 
 This is the first book I've read in French in a long time and subsequently felt much harder to read than it should have. I'm not one for new year's resolutions but this is something I intend to work on next year. There's no excuse for letting my mother tongue slip.
 

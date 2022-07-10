@@ -1,7 +1,9 @@
-Title: What are "toast" messages?
-Slug: toast-messages
-Date: 2020-03-26 10:42
-Link: https://adrianroselli.com/2020/01/defining-toast-messages.html
+---
+title: What are "toast" messages?
+permalink: toast-messages
+date: 2020-03-26
+link: https://adrianroselli.com/2020/01/defining-toast-messages.html
+---
 
 This is the toast masterclass you didn't know you needed.
 

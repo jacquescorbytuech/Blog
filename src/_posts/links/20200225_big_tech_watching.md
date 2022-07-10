@@ -1,7 +1,9 @@
-Title: You're a Lab-Rat for Big Tech
-Slug: youre-lab-rat-big-tech
-Date: 2020-02-25 09:25
-Link: https://www.newyorker.com/magazine/2020/03/02/big-tech-is-testing-you
+---
+title: You're a Lab-Rat for Big Tech
+permalink: youre-lab-rat-big-tech
+date: 2020-02-25
+link: https://www.newyorker.com/magazine/2020/03/02/big-tech-is-testing-you
+---
 
 Every day, hundreds of thousands of people become unwitting subjects to big tech's testing whims.
 

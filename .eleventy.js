@@ -15,8 +15,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addWatchTarget("images");
+  eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addWatchTarget("src/images");
 
   let options = {
     html: true,

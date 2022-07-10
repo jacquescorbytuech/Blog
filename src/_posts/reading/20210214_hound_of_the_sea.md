@@ -1,14 +1,16 @@
-Title: Hound of the Sea
-Slug: hound-of-the-sea
-Date: 2021-02-14 12:07
-Subheading: Wild Man. Wild Waves. Wild Wisdom
-Template: book
-BookAuthor: Garrett McNamara, Karen Karbo
-Book: https://www.goodreads.com/book/show/32600727-hound-of-the-sea
-Bookshop: 
-Recommended: 
-Language: English
-Cover: images/covers/hound-of-the-sea.jpg
+---
+title: Hound of the Sea
+permalink: hound-of-the-sea
+date: 2021-02-14
+subheading: Wild Man. Wild Waves. Wild Wisdom
+template: book
+bookauthor: Garrett McNamara, Karen Karbo
+book: https://www.goodreads.com/book/show/32600727-hound-of-the-sea
+bookshop: 
+recommended: 
+language: English
+cover: images/covers/hound-of-the-sea.jpg
+---
 
 Another surfer biography, which seemed interesting after reading [Barbarian Days](https://www.jacquescorbytuech.com/reading/barbarian-days) earlier this year.
 

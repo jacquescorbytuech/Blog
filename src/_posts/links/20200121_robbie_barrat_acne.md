@@ -1,7 +1,9 @@
-Title: ACNE  X Robbie Barrat A/W20
-Slug: acne-x-robbie-barrat-aw20
-Date: 2020-01-21 18:50
-Link: https://www.vogue.com/fashion-shows/fall-2020-menswear/acne-studios
+---
+title: ACNE  X Robbie Barrat A/W20
+permalink: acne-x-robbie-barrat-aw20
+date: 2020-01-21
+link: https://www.vogue.com/fashion-shows/fall-2020-menswear/acne-studios
+---
 
 It would be hard to argue that Robbie Barrat isn't a pioneer.
 

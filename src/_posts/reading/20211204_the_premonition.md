@@ -1,14 +1,16 @@
-Title: The Premonition
-Slug: the-premonition
-Date: 2021-12-04 18:24
-Subheading: A Pandemic Story
-Template: book
-BookAuthor: Michael Lewis
-Book: https://www.goodreads.com/book/show/57380101-the-premonition
-Bookshop: 
-Recommended: 
-Language: English
-Cover: images/covers/the-premonition.jpg
+---
+title: The Premonition
+permalink: the-premonition
+date: 2021-12-04
+subheading: A Pandemic Story
+template: book
+bookauthor: Michael Lewis
+book: https://www.goodreads.com/book/show/57380101-the-premonition
+bookshop: 
+recommended: 
+language: English
+cover: images/covers/the-premonition.jpg
+---
 
 I'm generally a fan of Michael Lewis, as my reading recommendations can attest to. This however, felt like a miss. A little unfinished, a little rushed to the press for the story to remain relevant.
 

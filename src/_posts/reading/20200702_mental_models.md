@@ -1,13 +1,15 @@
-Title: The Great Mental Models
-Slug: the-great-mental-models
-Date: 2020-07-02 11:21
-Subheading: General Thinking Concepts
-Template: book
-BookAuthor: Shane Parrish
-Book: https://www.goodreads.com/book/show/44245196-the-great-mental-models
-Bookshop: 
-Recommended: 
-Cover: images/covers/the-great-mental-models.jpg
+---
+title: The Great Mental Models
+permalink: the-great-mental-models
+date: 2020-07-02
+subheading: General Thinking Concepts
+template: book
+bookauthor: Shane Parrish
+book: https://www.goodreads.com/book/show/44245196-the-great-mental-models
+bookshop: 
+recommended: 
+cover: images/covers/the-great-mental-models.jpg
+---
 
 I've been aware of the [Farnam Street](https://fs.blog/) blog for a number of years now but always found it fairly impenetrable.
 
@@ -18,8 +20,8 @@ The book can be roughly broken down into the following concepts:
 1. **The Map is not the Territory** - The description of the thing is not the thing itself.
 2. **Circle of Competence** - The subject area that matches your skills or expertise.
 3. **Inversion** - Approaching a situation from the opposite end.
-5. **Occam’s Razor** - Something simple is more likely to be true than something complex.
-6. **Hanlon’s Razor** - Don't attribute to malice that which is more easily explained by stupidity.
+4. **Occam’s Razor** - Something simple is more likely to be true than something complex.
+5. **Hanlon’s Razor** - Don't attribute to malice that which is more easily explained by stupidity.
 
 There's a few more but those are what stood out to me.
 

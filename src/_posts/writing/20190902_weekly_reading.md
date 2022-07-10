@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190826-weekly-reading
-Date: 2019-09-02 18:05
-Summary: A day late but who's counting anyway?
+---
+title: Weekly Reading
+permalink: 20190826-weekly-reading
+date: 2019-09-02
+summary: A day late but who's counting anyway?
+---
 
 I'm *still* working my way through Catherine Nixey's [The Darkening Age: The Christian Destruction of the Classical World](https://www.goodreads.com/book/show/35450727-the-darkening-age), a couple days to go and it'll be done with it 🤞. It's not a bad book per say, but, well, I guess I'll get into it next week when I'm done with it.
 

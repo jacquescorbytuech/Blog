@@ -1,7 +1,9 @@
-Title: Bad Science - Why We Sleep
-Slug: bad-science-why-we-sleep
-Date: 2020-03-27 15:20
-Link: https://statmodeling.stat.columbia.edu/2020/03/24/why-we-sleep-a-tale-of-institutional-failure/
+---
+title: Bad Science - Why We Sleep
+permalink: bad-science-why-we-sleep
+date: 2020-03-27
+link: https://statmodeling.stat.columbia.edu/2020/03/24/why-we-sleep-a-tale-of-institutional-failure/
+---
 
 You might have heard about the blockbuster success that was [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep), but what you might not have heard is how the book is based on bad science.
 

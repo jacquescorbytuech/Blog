@@ -1,7 +1,9 @@
-Title: Weekly Reading
-Slug: 20190805-weekly-reading
-Date: 2019-08-07 21:23
-Summary: Some things you should read this week.
+---
+title: Weekly Reading
+permalink: 20190805-weekly-reading
+date: 2019-08-07
+summary: Some things you should read this week.
+---
 
 Some stuff I've been reading this week that's worth bringing back up. In no particular order.
 

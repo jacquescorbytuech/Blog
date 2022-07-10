@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191209-weekly-reading
-Date: 2019-12-18 19:05
+---
+title: Weekly Reading
+permalink: 20191209-weekly-reading
+date: 2019-12-18
+---
 
 Keeping this short because I am *busy* at the moment and I should probably do a nice big yearly roundup at some point in the very near future.
 

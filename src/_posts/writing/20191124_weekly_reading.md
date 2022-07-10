@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191118-weekly-reading
-Date: 2019-11-24 14:50
+---
+title: Weekly Reading
+permalink: 20191118-weekly-reading
+date: 2019-11-24
+---
 
 Peter Wilson's [The Holy Roman Empire: A Thousand Years of Europe's History](https://www.goodreads.com/book/show/31456148-the-holy-roman-empire) is proving to be a really fascinating read, albeit a slow one. I got incredibly side-tracked recently by Pokemon Shield which was released last week (It's *really good*) and haven't had a chance to make much progress on it, but ~300 pages in and I already feel like I've learnt a ton. This isn't an easy read by any stretch of the imagination so slow progress is to be expected, I suppose. I'm going to have to pick up something nice and easy to read afterwards as a palette cleanser.
 

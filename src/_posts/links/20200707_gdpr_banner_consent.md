@@ -1,7 +1,9 @@
-Title: Only 9% of Site Visitors Consent to Marketing Tracking
-Slug: gdpr-9-percent-opt-in-to-tracking
-Date: 2020-07-07 15:49
-Link: https://markosaric.com/gdpr-consent/
+---
+title: Only 9% of Site Visitors Consent to Marketing Tracking
+permalink: gdpr-9-percent-opt-in-to-tracking
+date: 2020-07-07
+link: https://markosaric.com/gdpr-consent/
+---
 
 Some fantastic, albeit unsurprising research from Marko Saric on how many website visitors will give a GDPR compliant level of consent to being tracked by a marketing analytics tool.
 

@@ -1,7 +1,9 @@
-Title: Do Less, Convert More
-Slug: aa-testing
-Date: 2020-11-13 18:26
-Link: https://kadavy.net/blog/posts/aa-testing/
+---
+title: Do Less, Convert More
+permalink: aa-testing
+date: 2020-11-13
+link: https://kadavy.net/blog/posts/aa-testing/
+---
 
 Testing is hard, particularly when AA tests can seem to give you results. This is great article from Davic Kadavy on common A/B testing pitfalls and how it's usually a lot harder to do than we think it is.
 

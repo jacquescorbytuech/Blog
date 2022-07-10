@@ -1,7 +1,9 @@
-Title: The A/B Testing Paradox
-Slug: ab-testing-paradox
-Date: 2020-01-28 13:49
-Link: https://matthewstrom.com/writing/ab-testing-paradox/
+---
+title: The A/B Testing Paradox
+permalink: ab-testing-paradox
+date: 2020-01-28
+link: https://matthewstrom.com/writing/ab-testing-paradox/
+---
 
 In marketing, we frequently use A/B testing when we have a hypothesis we want to prove, but it's not always the right tool for the job.
 

@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20200106-weekly-reading
-Date: 2020-01-12 11:37
+---
+title: Weekly Reading
+permalink: 20200106-weekly-reading
+date: 2020-01-12
+---
 
 I finally did it! 🕺
 

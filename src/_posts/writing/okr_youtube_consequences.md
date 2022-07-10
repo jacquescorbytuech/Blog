@@ -1,6 +1,8 @@
-Title: OKR's, YouTube and the Danger of Unintended Consequences
-Slug: okr-youtube-unintended-consequences
-Date: 2020-01-22 08:52
+---
+title: OKR's, YouTube and the Danger of Unintended Consequences
+permalink: okr-youtube-unintended-consequences
+date: 2020-01-22
+---
 
 _**"All other things being equal, our goal is to increase [video] watch time"**, thus began an email sent in September 2011 by Cristos Goodrow to the YouTube leadership team._
 

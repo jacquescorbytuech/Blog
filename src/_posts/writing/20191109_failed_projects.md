@@ -1,6 +1,8 @@
-Title: A Long List of Failed Projects
-Slug: failed-projects
-Date: 2019-11-09 11:46
+---
+title: A Long List of Failed Projects
+permalink: failed-projects
+date: 2019-11-09
+---
 
 I've had a lot of projects fail over the years, here's a non-exhaustive list of them and some reasons why they failed
 

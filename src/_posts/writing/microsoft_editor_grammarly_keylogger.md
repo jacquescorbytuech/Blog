@@ -1,10 +1,12 @@
-Title: Microsoft Editor, an Alternative to Grammarly's Keylogger?
-Slug: microsoft-editor-grammarly-keylogger
-Date: 2020-05-03 16:51
+---
+title: Microsoft Editor, an Alternative to Grammarly's Keylogger?
+permalink: microsoft-editor-grammarly-keylogger
+date: 2020-05-03
+---
 
 I'm not going to lie, Grammarly's product is a fantastic one. The ability to check your writing for correctness, clarity, engagement, and delivery is incredibly powerful and can help anyone become a better writer. Whether you just need a simple spellchecker or something more complex like providing common synonyms for words you're overusing.
 
-![Grammarly in use](../images/post-images/grammarly.gif)
+![Grammarly in use](../../images/post-images/grammarly.gif)
 
 I wish I could use it, and not solely because I'm an email geek and Grammarly send super engaging [activity report emails](https://reallygoodemails.com/emails/your-weekly-progress-report-2/).
 
@@ -44,7 +46,7 @@ Skip forward a couple hours, I'm logging into a service I've not used for a whil
 
 [Introduced on March 30th](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-microsoft-editor-bring-out-your-best-writer-wherever/ba-p/1247931#), **Microsoft Editor** brings many of those great features you've already experienced in Grammarly.
 
-![Microsoft Editor in use](../images/post-images/MicrosoftEditor.png)
+![Microsoft Editor in use](../../images/post-images/MicrosoftEditor.png)
 
 ### What about their Privacy Policy?
 
@@ -58,7 +60,7 @@ The closest reference I can find to how Editor falls under their policy is the f
 
 In a move that inspires *some* confidence, their browser plugin provides a straightforward way to opt out of data collection. Like Grammarly, you can also disable the plugin on specific websites.
 
-![Microsoft Editor browser plugin settings page](../images/post-images/MicrosoftEditorSettings.png)
+![Microsoft Editor browser plugin settings page](../../images/post-images/MicrosoftEditorSettings.png)
 
 ## Is Microsoft Editor a suitable alternative for Grammarly?
 

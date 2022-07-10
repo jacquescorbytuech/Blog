@@ -1,14 +1,16 @@
-Title: Weapons of Math Destruction
-Slug: weapons-of-math-destruction
-Date: 2021-01-11 18:58
-Subheading: How Big Data Increases Inequality and Threatens Democracy
-Template: book
-BookAuthor: Cathy O'Neil
-Book: https://www.goodreads.com/book/show/33222376-weapons-of-math-destruction
-Bookshop: https://uk.bookshop.org/a/2625/9780141985411
-Recommended: 
-Language: English
-Cover: images/covers/weapons-of-math-destruction.jpg
+---
+title: Weapons of Math Destruction
+permalink: weapons-of-math-destruction
+date: 2021-01-11
+subheading: How Big Data Increases Inequality and Threatens Democracy
+template: book
+bookauthor: Cathy O'Neil
+book: https://www.goodreads.com/book/show/33222376-weapons-of-math-destruction
+bookshop: https://uk.bookshop.org/a/2625/9780141985411
+recommended: 
+language: English
+cover: images/covers/weapons-of-math-destruction.jpg
+---
 
 Algorithms rules our lives in a number of ways. Credit scores determine our ability to get financing, advertising is targeted at us to exploit our financial situations, the homeless are kept homeless, poor neighbourhoods are over-policed, teachers lose their jobs through opaque performance measurement systems and insurance increasingly tries to penetrate our private lives.
 

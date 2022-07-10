@@ -1,14 +1,16 @@
-Title: Unruly Waters
-Slug: unruly-waters
-Date: 2021-05-23 12:55
-Subheading: How Mountain Rivers and Monsoons Have Shaped South Asia's History
-Template: book
-BookAuthor: Sunil Amrith
-Book: https://www.goodreads.com/book/show/44778170-unruly-waters
-Bookshop: 
-Recommended: True
-Language: English
-Cover: images/covers/unruly-waters.jpg
+---
+title: Unruly Waters
+permalink: unruly-waters
+date: 2021-05-23
+subheading: How Mountain Rivers and Monsoons Have Shaped South Asia's History
+template: book
+bookauthor: Sunil Amrith
+book: https://www.goodreads.com/book/show/44778170-unruly-waters
+bookshop: 
+recommended: True
+language: English
+cover: images/covers/unruly-waters.jpg
+---
 
 *Unruly Waters* is a really fascinating look at the importance of water in South Asia, but more particularly that of India. Notably, Amrith talks about the difficulties of predicting the monsoon and the rise of meteorology in South Asia as a result. Never far away is the ghost of past droughts and subsequent famines that have had a devastating human cost in South Asia over the last few centuries.
 

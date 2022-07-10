@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191028-weekly-reading
-Date: 2019-11-03 18:33
+---
+title: Weekly Reading
+permalink: 20191028-weekly-reading
+date: 2019-11-03
+---
 
 Progress made so far on [Traction](https://www.goodreads.com/book/show/25768015-traction). Zero. It appears I've fallen off the wagon on that front. I'll pick it back up during the week.
 

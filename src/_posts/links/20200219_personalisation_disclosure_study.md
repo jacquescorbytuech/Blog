@@ -1,7 +1,9 @@
-Title: Self Disclosure and the Monetary Value of Clear Privacy Policies
-Slug: self-disclosure-personalisation-effectiveness
-Date: 2020-02-19 13:46
-Link: https://www.sciencedirect.com/science/article/abs/pii/S0148296320301004?dgcid=rss_sd_all
+---
+title: Self Disclosure and the Monetary Value of Clear Privacy Policies
+permalink: self-disclosure-personalisation-effectiveness
+date: 2020-02-19
+link: https://www.sciencedirect.com/science/article/abs/pii/S0148296320301004
+---
 
 This study from the Journal of Business Research provides some significant evidence towards the efficacy of personalisation and the role that adequately disclosing privacy concerns can have on customer's willingness to disclose personal information for personalisation and marketing purposes.
 

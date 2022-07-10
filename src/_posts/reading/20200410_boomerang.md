@@ -1,13 +1,15 @@
-Title: Boomerang
-Slug: boomerang
-Date: 2020-04-10 13:37
-Subheading: The Biggest Bust
-Template: book
-BookAuthor: Michael Lewis
-Book: https://www.goodreads.com/book/show/15872298-boomerang
-Bookshop: https://uk.bookshop.org/a/2625/9780241955024
-Recommended: True
-Cover: images/covers/boomerang.jpg
+---
+title: Boomerang
+permalink: boomerang
+date: 2020-04-10
+subheading: The Biggest Bust
+template: book
+bookauthor: Michael Lewis
+book: https://www.goodreads.com/book/show/15872298-boomerang
+bookshop: https://uk.bookshop.org/a/2625/9780241955024
+recommended: True
+cover: images/covers/boomerang.jpg
+---
 
 This is the third book by Michael Lewis I've read this year, after [Flash Boys](https://www.jacquescorbytuech.com/reading/flash-boys.html) and [The Fifth Risk](https://www.jacquescorbytuech.com/reading/the-fifth-risk.html).
 

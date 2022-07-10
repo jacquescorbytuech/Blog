@@ -1,6 +1,8 @@
-Title: Warhammer 40k Digital Strategy and Opportunities
-Slug: warhammer-digital-app-opportunities-strategy
-Date: 2020-07-11 20:31
+---
+title: Warhammer 40k Digital Strategy and Opportunities
+permalink: warhammer-digital-app-opportunities-strategy
+date: 2020-07-11
+---
 
 To coincide with the launch of Warhammer 40k 9th edition, Games Workshop [recently announced](https://www.warhammer-community.com/2020/07/09/the-app-all-you-need-to-know/) the release of their first dedicated app for the 40k franchise.
 
@@ -8,7 +10,7 @@ This app will finally allow 40k players to easily check core game rules and rule
 
 The digitisation of codexes has been a long time coming, allowing app users to easily navigate rules that are always up to date. Previously, a gamer would have to have a physical copy of the book, plus various rules errata and FAQ's acquired online which are designed to clarify and amend rules to aid ongoing balancing.
 
-[![40k App](../images/post-images/warhammerApp.png)](../images/post-images/warhammerApp.png)
+[![40k App](../../images/post-images/warhammerApp.png)](../../images/post-images/warhammerApp.png)
 
 The army list builder in particular seems to be a smart move and a sign of Games Workshop's ongoing strategic initiatives, _more on that later_.
 
@@ -72,7 +74,7 @@ The Games Workshop online store should become a highly personalised system that 
 
 It should be a no-brainer that Games Workshop make direct purchasing of additional rules possible within their app. With the data they'll be capturing not only will they be able to sell digital content directly, but with campaign books they'll be able to directly sell rules as microtransactions. For example a Death Guard player may simply want to purchase the new rules for DG units available from the [War of the Spider](https://www.games-workshop.com/en-GB/Psychic-Awakening-War-Of-The-Spider-EN-2020) supplement without shelling out for the whole book.
 
-[![Microtransactions on DDB](../images/post-images/ddbMicrotransactions.png)](../images/post-images/ddbMicrotransactions.png)
+[![Microtransactions on DDB](../../images/post-images/ddbMicrotransactions.png)](../../images/post-images/ddbMicrotransactions.png)
 
 _Microtransactions on DDB_.
 

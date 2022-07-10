@@ -1,7 +1,9 @@
-Title: Inside Mark Zuckerberg's Lost Notebook
-Slug: inside-zuckerberg-lost-notebook
-Date: 2020-02-13 15:25
-Link: https://www.wired.com/story/facebook-mark-zuckerberg-lost-notebook/
+---
+title: Inside Mark Zuckerberg's Lost Notebook
+permalink: inside-zuckerberg-lost-notebook
+date: 2020-02-13
+link: https://www.wired.com/story/facebook-mark-zuckerberg-lost-notebook/
+---
 
 Fantastic article from Wired telling the story of Mark Zuckerberg's notebooking habit, and some of the key facts about early Facebook that have emerged.
 

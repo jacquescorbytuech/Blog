@@ -1,6 +1,8 @@
-Title: Marketers are Addicted to Bad Data
-Slug: marketers-addicted-bad-data
-Date: 2020-11-07 15:45
+---
+title: Marketers are Addicted to Bad Data
+permalink: marketers-addicted-bad-data
+date: 2020-11-07
+---
 
 Modern marketing is all about data and however hard you might try, you can't spend any time around marketers online without [being](https://blog.marketo.com/2013/11/prove-your-worth10-kpis-for-marketers.html) [subjected](https://www.searchenginejournal.com/paid-owned-earned-content/242075/) [to](https://blogs.oracle.com/oracledatacloud/effectively-measuring-advertising-performance-your-guide-to-success) [endless](https://searchengineland.com/using-auction-insights-for-better-ppc-competitor-analysis-343264) [think](https://www.searchenginewatch.com/2020/07/28/10-reasons-why-marketers-use-data-to-make-budgeting-decisions/) [pieces](https://www.oberlo.co.uk/blog/spent-200000-facebook-ads-heres-learned), how-to guides, ebooks or other dreck about how we need to track and measure and count every little thing.
 

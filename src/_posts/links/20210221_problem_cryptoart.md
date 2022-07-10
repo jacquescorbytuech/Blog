@@ -1,7 +1,9 @@
-Title: The problem of CryptoArt
-Slug: problem-cryptoart-emissions
-Date: 2021-02-21 16:26
-Link: https://joanielemercier.com/the-problem-of-cryptoart/
+---
+title: The problem of CryptoArt
+permalink: problem-cryptoart-emissions
+date: 2021-02-21
+link: https://joanielemercier.com/the-problem-of-cryptoart/
+---
 
 Art published on the blockchain has been pretty popular lately, but there's a very real environmental cost to that work. Joanie Lemercier, artist and activist breaks down the ecological impact of publishing a piece of art on the blockchain.
 

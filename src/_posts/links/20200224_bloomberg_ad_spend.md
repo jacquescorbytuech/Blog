@@ -1,7 +1,9 @@
-Title: Bloomberg Ad Spending
-Slug: bloomberg-ad-spending
-Date: 2020-02-24 13:08
-Link: https://www.washingtonpost.com/graphics/2020/politics/bloomberg-ad-spending-scale/
+---
+title: Bloomberg Ad Spending
+permalink: bloomberg-ad-spending
+date: 2020-02-24
+link: https://www.washingtonpost.com/graphics/2020/politics/bloomberg-ad-spending-scale/
+---
 
 Been seeing a few Mike Bloomberg ads recently? You're not the only one...
 

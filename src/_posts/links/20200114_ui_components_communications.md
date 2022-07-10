@@ -1,7 +1,9 @@
-Title: UI Components for Communication
-Slug: 20200114-ui-components-communication
-Date: 2020-01-14 21:22
-Link: https://medium.com/@adamshriki/choosing-the-right-ui-component-for-communication-with-your-users-523499c39490
+---
+title: UI Components for Communication
+permalink: 20200114-ui-components-communication
+date: 2020-01-14
+link: https://medium.com/@adamshriki/choosing-the-right-ui-component-for-communication-with-your-users-523499c39490
+---
 
 This might be blasphemy coming from someone who's worked in email marketing as long as I have, but there's more than one way to skin a cat when it comes to communicating with your app's customers.
 

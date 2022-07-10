@@ -1,6 +1,8 @@
-Title: Mobile Wallet Marketing
-Slug: mobile-wallet-marketing
-Date: 2020-06-14 17:31
+---
+title: Mobile Wallet Marketing
+permalink: mobile-wallet-marketing
+date: 2020-06-14
+---
 
 You've probably seen mobile wallets before, with Google Pay on Android devices or the Apple Wallet app on iPhone, but if you're like me, you might never have thought about the marketing opportunities available within these apps.
 
@@ -10,13 +12,13 @@ One aspect I hadn't come across until yesterday was the ability to store loyalty
 
 I've been a subscriber to the Kooples mailing list for a few years now and recently received a newsletter[^subjectline] from them promoting their new Wallet based loyalty scheme, I've not seen one of these before so I had to check it out.
 
-[![Kooples wallet email campaign](../images/post-images/kooples-wallet-email.png)](../images/post-images/kooples-wallet-email.png)
+[![Kooples wallet email campaign](../../images/post-images/kooples-wallet-email.png)](../../images/post-images/kooples-wallet-email.png)
 
 Once downloaded and setup, I had a new pass available in my wallet.
 
-[![Kooples pass in Wallet](../images/post-images/wallet.png)](../images/post-images/wallet.png)
+[![Kooples pass in Wallet](../../images/post-images/wallet.png)](../../images/post-images/wallet.png)
 
-[![Kooples pass](../images/post-images/pass.png)](../images/post-images/pass.png)
+[![Kooples pass](../../images/post-images/pass.png)](../../images/post-images/pass.png)
 
 ## Cool. Now What?
 

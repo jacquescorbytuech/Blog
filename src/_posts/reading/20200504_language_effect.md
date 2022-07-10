@@ -1,13 +1,15 @@
-Title: The Language Effect
-Slug: the-language-effect
-Date: 2020-05-04 19:22
-Subheading: Why AI-Powered Copywriting is a marketer's (new) best friend
-Template: book
-BookAuthor: Parry Malm
-Book: https://www.goodreads.com/book/show/51872281-the-language-effect
-Bookshop: 
+---
+title: The Language Effect
+permalink: the-language-effect
+date: 2020-05-04
+subheading: Why AI-Powered Copywriting is a marketer's (new) best friend
+template: book
+bookauthor: Parry Malm
+book: https://www.goodreads.com/book/show/51872281-the-language-effect
+bookshop: 
 Recommended:
-Cover: images/covers/the-language-effect.jpg
+cover: images/covers/the-language-effect.jpg
+---
 
 I love what the pholk are Phrasee are doing so had to pick this up.
 

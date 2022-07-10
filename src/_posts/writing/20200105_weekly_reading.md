@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191230-weekly-reading
-Date: 2020-01-05 15:23
+---
+title: Weekly Reading
+permalink: 20191230-weekly-reading
+date: 2020-01-05
+---
 
 It's been a while, eh?
 

@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191014-weekly-reading
-Date: 2019-10-21 19:32
+---
+title: Weekly Reading
+permalink: 20191014-weekly-reading
+date: 2019-10-21
+---
 
 Continuing where [One Word Kill](https://www.jacquescorbytuech.com/writing/20190930-weekly-reading.html) left off, [Limited Wish](https://www.goodreads.com/book/show/41771517-limited-wish) by Mark Lawrence was an equally fun and light hearted read. There's frankly not a ton to say about it, it was fun and you should read it.
 

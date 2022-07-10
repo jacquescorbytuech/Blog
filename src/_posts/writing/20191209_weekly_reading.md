@@ -1,6 +1,8 @@
-Title: Weekly Reading
-Slug: 20191202-weekly-reading
-Date: 2019-12-09 21:34
+---
+title: Weekly Reading
+permalink: 20191202-weekly-reading
+date: 2019-12-09
+---
 
 In case you've been living under a rock, some serious shit is happening on Thursday.
 

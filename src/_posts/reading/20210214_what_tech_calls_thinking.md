@@ -1,14 +1,16 @@
-Title: What Tech Calls Thinking
-Slug: what-tech-calls-thinking
-Date: 2021-02-14 11:56
-Subheading: An Inquiry Into the Intellectual Bedrock of Silicon Valley
-Template: book
-BookAuthor: Adrian Daub
-Book: https://www.goodreads.com/book/show/50403471-what-tech-calls-thinking
-Bookshop: 
-Recommended: 
-Language: English
-Cover: images/covers/what-tech-calls-thinking.jpg
+---
+title: What Tech Calls Thinking
+permalink: what-tech-calls-thinking
+date: 2021-02-14
+subheading: An Inquiry Into the Intellectual Bedrock of Silicon Valley
+template: book
+bookauthor: Adrian Daub
+book: https://www.goodreads.com/book/show/50403471-what-tech-calls-thinking
+bookshop: 
+recommended: 
+language: English
+cover: images/covers/what-tech-calls-thinking.jpg
+---
 
 This is another book by FSGO x Logic, along with [Subprime Attention Crisis](https://www.jacquescorbytuech.com/reading/subprime-attention-crisis), and a few others sitting in my to-read pile.
 
