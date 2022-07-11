@@ -3,7 +3,7 @@
 {% block content %}
 
 <section class="flex flex-col flex-1 max-w-5xl mx-auto w-full">
-<article class="content">
+<article class="">
   <header class="text-center text-6xl mt-3 mb-2 font-bold leading-normal">
     <h1>{{ title }}</h1>
   </header>
@@ -19,7 +19,7 @@
   </div>
   {% endif %}
 
-  <main class="mt-6">
+  <main class="mt-6 content">
     {{ content | safe }}
   </main>
   

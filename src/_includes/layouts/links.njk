@@ -2,14 +2,14 @@
 
 {% block content %}
 
-<section class="max-w-4xl ">
-<article>
-  <header class="text-center">
+<section class="flex flex-col flex-1 max-w-5xl mx-auto w-full">
+<article class="content">
+  <header class="text-center text-6xl mt-3 mb-2 font-bold leading-normal">
     <h1>{{ title }}</h1>
   </header>
   <div class="text-sm text-center mt-5 mb-5">
     <time class="published" datetime="">
-      {{ date }}
+      {{ date | readableDate }}
     </time>
   </div>
 
@@ -19,14 +19,13 @@
   </div>
   {% endif %}
 
-  <div class="mt-10">
+  <main class="mt-6">
     {{ content | safe }}
-    <p>Cheers,</p>
-    <img class="signature"  alt="signature" src="{{ SITEURL }}/images/jacques.png" />
-  </div>
-  {% include 'subscribe.njk' %}
+  </main>
   
 </article>
+  {% include 'signature.njk' %}
+  {% include 'subscribe.njk' %}
 </section>
 
 
