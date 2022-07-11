@@ -67,7 +67,7 @@
         @apply list-none ml-0
     }
 
-    .footnotes > p {
+    .footnotes p {
         @apply my-2
     }
 }
