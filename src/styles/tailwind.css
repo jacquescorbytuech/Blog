@@ -15,7 +15,7 @@
 /* Markdown content styling */
 
 .content p {
-    @apply text-xl mt-8 mb-8 leading-normal
+    @apply text-xl my-8 leading-normal
 }
 
 .content h2 {
@@ -51,7 +51,11 @@
 }
 
 .content img {
-    @apply max-w-3xl mb-20 mt-20 ml-auto mr-auto 
+    @apply max-w-3xl my-20 mx-auto w-full
+}
+
+.content code {
+    @apply bg-gray-100 text-lg px-1
 }
 
 
@@ -66,4 +70,8 @@
 
 .category ol {
     @apply list-none ml-0
+}
+
+.footnotes p {
+    @apply my-2
 }
