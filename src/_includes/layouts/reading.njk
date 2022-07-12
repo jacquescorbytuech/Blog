@@ -13,12 +13,6 @@
     </time>
   </div>
 
-  {% if article.link is defined %}
-  <div>
-    <a href="{{ article.link }}" class="article-link">Go to source &#10230;</a>
-  </div>
-  {% endif %}
-
   <main class="mt-6">
     {{ content | safe }}
   </main>
