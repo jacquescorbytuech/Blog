@@ -30,7 +30,7 @@
     }
 
     .content a {
-        @apply underline decoration-sky-600 hover:decoration-4
+        @apply underline decoration-sky-600 hover:decoration-4 break-words
     }
 
     .content a:visited {

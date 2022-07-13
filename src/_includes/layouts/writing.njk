@@ -2,10 +2,10 @@
 
 {% block content %}
 
-<section class="flex flex-col flex-1 max-w-5xl mx-auto w-full">
+<section class="flex flex-col flex-1 max-w-5xl mx-auto w-full mt-12">
   <article class="">
-    <header class="text-center text-6xl mt-3 mb-2 font-bold leading-normal">
-      <h1>{{ title }}</h1>
+    <header class="text-center mt-3 mb-2 font-bold leading-normal">
+      <h1 class="text-4xl md:text-6xl">{{ title }}</h1>
     </header>
     <div class="text-sm text-center mt-5 mb-5">
       <time class="published" datetime="">
@@ -18,8 +18,8 @@
     </main>
     
   </article>
-  {% include 'signature.njk' %}
-  {% include 'subscribe.njk' %}
+  {% include 'partials/signature.njk' %}
+  {% include 'partials/subscribe.njk' %}
 </section>
 
 
