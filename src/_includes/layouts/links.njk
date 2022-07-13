@@ -3,22 +3,22 @@
 {% block content %}
 
 <section class="flex flex-col flex-1 max-w-5xl mx-auto w-full">
-<article class="content">
-  <header class="text-center text-5xl mt-3 mb-2 font-bold leading-normal">
-    <h1>{{ title }}</h1>
-  </header>
-  <div class="text-sm text-center mt-5 mb-5">
-    <time class="published" datetime="">
-      {{ date | readableDate }}
-    </time>
-  </div>
+  <article class="content">
+    <header class="text-center text-5xl mt-3 mb-2 font-bold leading-normal">
+      <h1>{{ title }}</h1>
+    </header>
+    <div class="text-sm text-center mt-5 mb-5">
+      <time class="published" datetime="">
+        {{ date | readableDate }}
+      </time>
+    </div>
 
-  <main class="mt-6">
-    <a class="text-3xl" href="{{ link }}">Go to source &#10230;</a>
-    {{ content | safe }}
-  </main>
-  
-</article>
+    <main class="mt-6">
+      <a class="text-3xl" href="{{ link }}">Go to source &#10230;</a>
+      {{ content | safe }}
+    </main>
+    
+  </article>
   {% include 'signature.njk' %}
   {% include 'subscribe.njk' %}
 </section>

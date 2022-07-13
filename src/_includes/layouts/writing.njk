@@ -3,27 +3,21 @@
 {% block content %}
 
 <section class="flex flex-col flex-1 max-w-5xl mx-auto w-full">
-<article class="">
-  <header class="text-center text-6xl mt-3 mb-2 font-bold leading-normal">
-    <h1>{{ title }}</h1>
-  </header>
-  <div class="text-sm text-center mt-5 mb-5">
-    <time class="published" datetime="">
-      {{ date | readableDate }}
-    </time>
-  </div>
+  <article class="">
+    <header class="text-center text-6xl mt-3 mb-2 font-bold leading-normal">
+      <h1>{{ title }}</h1>
+    </header>
+    <div class="text-sm text-center mt-5 mb-5">
+      <time class="published" datetime="">
+        {{ date | readableDate }}
+      </time>
+    </div>
 
-  {% if article.link is defined %}
-  <div>
-    <a href="{{ article.link }}" class="article-link">Go to source &#10230;</a>
-  </div>
-  {% endif %}
-
-  <main class="mt-6 content">
-    {{ content | safe }}
-  </main>
-  
-</article>
+    <main class="mt-6 content">
+      {{ content | safe }}
+    </main>
+    
+  </article>
   {% include 'signature.njk' %}
   {% include 'subscribe.njk' %}
 </section>
