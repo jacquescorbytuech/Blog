@@ -3,27 +3,38 @@
 {% block title %}Jacques Corby-Tuech{% endblock %}
 
 {% block content %}
-  <div class="">
-    <h1 class="text-4xl font-bold">Hi, I'm Jacques</h1>
-    <p class="text-xl">I do Marketing Ops and CRM</p>
+  <div class="max-w-7xl mx-auto w-full">
+    <h1 class="text-4xl font-bold mt-12">Hi, I'm Jacques</h1>
+    <p class="text-2xl mt-4 max-w-2xl block">I do <span class="underline decoration-emerald-700 decoration-4">Revenue Operations</span>, helping Marketing, Sales and Customer Success teams with data, process and technology.</p>
+
+    <h2 class="mt-16">Writing</h2>
+    <ul>
+    {%- for writing in collections.writing | reverse -%}
+      {% if loop.index0 < 5 %}
+      <li><a href ="{{ writing.url }}">{{ writing.data.title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+
+    <h2 class="mt-16">Reading</h2>
+    <ul>
+    {%- for reading in collections.reading | reverse -%}
+      {% if loop.index0 < 5 %}
+      <li><a href ="{{ reading.url }}">{{ reading.data.title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+
+    <h2 class="mt-16">Links</h2>
+    <ul>
+    {%- for links in collections.links | reverse -%}
+      {% if loop.index0 < 5 %}
+      <li><a href ="{{ links.url }}">{{ links.data.title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
   </div>
 
-<ul>
-{%- for writing in collections.writing | reverse -%}
-  <li><a href ="{{ writing.url }}">{{ writing.data.title }}</a></li>
-{%- endfor -%}
-</ul>
 
-<ul>
-{%- for reading in collections.reading | reverse -%}
-  <li><a href ="{{ reading.url }}">{{ reading.data.title }}</a></li>
-{%- endfor -%}
-</ul>
-
-<ul>
-{%- for links in collections.links.slice (0, 5) | reverse -%}
-  <li><a href ="{{ links.url }}">{{ links.data.title }}</a></li>
-{%- endfor -%}
-</ul>
 
 {% endblock %}
