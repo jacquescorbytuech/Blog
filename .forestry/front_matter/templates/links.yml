@@ -1,4 +1,29 @@
 ---
 label: Links
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: Permalink
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+  default: '2022-07-18T19:13:31Z'
+- name: link
+  type: text
+  config:
+    required: true
+  label: Link
