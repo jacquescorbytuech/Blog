@@ -1,0 +1,28 @@
+{% extends "default.njk" %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+
+<section class="flex flex-col flex-1 max-w-5xl mx-auto w-full mt-12">
+  <article class="">
+    <header class="text-center mt-3 mb-2 font-bold leading-normal">
+      <h1 class="text-4xl md:text-6xl">{{ title }}</h1>
+    </header>
+    <div class="text-sm text-center mt-5 mb-5">
+      <time class="published" datetime="">
+        {{ date | readableDate }}
+      </time>
+    </div>
+
+    <main class="mt-6 content">
+      {{ content | safe }}
+    </main>
+    
+  </article>
+  {% include 'partials/signature.njk' %}
+  {% include 'partials/subscribe.njk' %}
+</section>
+
+
+{% endblock %}

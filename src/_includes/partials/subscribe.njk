@@ -1,0 +1,10 @@
+<div class="border border-gray-200 bg-gray-50 flex flex-col items-center mt-4 p-4">
+    <h4 class="mt-2 mb-6 text-3xl font-bold">Subscribe for updates</h4>
+    <form class="flex flex-col lg:flex-row items-center w-full justify-center" name="email-subscribers" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/email-subscription-confirmed/">
+        <input class="invisible" type="hidden" name="bot-field">
+        <input class="invisible" type="hidden" name="form-name" value="email-subscribers">
+        <input class="w-full lg:w-64 p-3 box-border border border-gray-500" required="required" type="email" name="email" placeholder="enter your email" />
+        <button class="w-full mt-2 lg:w-28 lg:mt-0 lg:ml-2 font-semibold uppercase p-3 box-border bg-gray-200 border border-gray-500" type="submit">Subscribe</button>
+    </form>
+    <p class="block mt-4">Updates, whenever I've got something valuable to say.</p>
+  </div>

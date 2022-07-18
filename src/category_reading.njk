@@ -1,0 +1,26 @@
+---
+permalink: /reading/
+eleventyExcludeFromCollections: true
+---
+
+{% extends "default.njk" %}
+
+{% block title %}Reading{% endblock %}
+
+{% block content %}
+
+<section class="flex flex-col items-center justify-center">
+<article class="max-w-5xl w-full mx-auto">
+  <h1 class="text-3xl font-bold mt-10">Reading</h1>
+  <p class="text-lg mt-4">Included here are the non-fiction titles I've read. For everything else, follow me on <a class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500" href="https://www.goodreads.com/user/show/86396018-jacques-corby-tuech">Goodreads</a>.</p>
+
+  <div class="mt-10 category">
+    {% set postslist = collections.reading %}
+    {% include 'partials/postslist.njk' %}
+  </div>
+  
+</article>
+</section>
+
+
+{% endblock %}

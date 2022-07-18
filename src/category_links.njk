@@ -1,0 +1,26 @@
+---
+permalink: /links/
+eleventyExcludeFromCollections: true
+---
+
+{% extends "default.njk" %}
+
+{% block title %}Links{% endblock %}
+
+{% block content %}
+
+<section class="flex flex-col items-center justify-center">
+<article class="max-w-5xl w-full mx-auto">
+  <h1 class="text-3xl font-bold mt-10">Links</h1>
+  <p class="text-lg mt-4">Useful links and resources</p>
+
+  <div class="mt-10 category">
+    {% set postslist = collections.links %}
+    {% include 'partials/postslist.njk' %}
+  </div>
+  
+</article>
+</section>
+
+
+{% endblock %}
