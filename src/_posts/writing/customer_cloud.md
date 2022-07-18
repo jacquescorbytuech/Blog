@@ -2,6 +2,7 @@
 title: The Customer Cloud I Want
 permalink: writing/the-customer-cloud-i-want/
 date: 2022-05-14
+eleventyExcludeFromCollections: true
 ---
 
 There's a lot of crossover in the capabilities tools customer facing teams use to communicate with customers.

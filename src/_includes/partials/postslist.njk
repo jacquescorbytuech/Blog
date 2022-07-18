@@ -6,7 +6,7 @@
       {% if  post.date.getFullYear() == 2022  %}
         {% if post.data.recommended === true  %}
         <li class="text-xl">
-          <small><time class="mr-8" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
+          <small><time class="mr-8 text-gray-500" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
           <a href="{{ post.url | url }}" class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500">{{ post.data.title }} ⚡</a>
         </li>
         {% endif %}
@@ -18,7 +18,7 @@
   {% if loop.first %}<ol>{% endif %}
       {% if  post.date.getFullYear() == 2022  %}
         <li class="text-xl">
-          <small><time class="mr-8" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
+          <small><time class="mr-8 text-gray-500" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
           <a href="{{ post.url | url }}" class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500">{{ post.data.title }}</a>
         </li>
       {% endif %}
@@ -31,7 +31,7 @@
       {% if  post.date.getFullYear() == 2021  %}
         {% if post.data.recommended === true  %}
         <li class="text-xl">
-          <small><time class="mr-8" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
+          <small><time class="mr-8 text-gray-500" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
           <a href="{{ post.url | url }}" class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500">{{ post.data.title }} ⚡</a>
         </li>
         {% endif %}
@@ -43,7 +43,7 @@
   {% if loop.first %}<ol>{% endif %}
       {% if  post.date.getFullYear() == 2021  %}
         <li class="text-xl">
-          <small><time class="mr-8" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
+          <small><time class="mr-8 text-gray-500" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
           <a href="{{ post.url | url }}" class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500">{{ post.data.title }}</a>
         </li>
       {% endif %}
@@ -56,7 +56,7 @@
       {% if  post.date.getFullYear() == 2020  %}
         {% if post.data.recommended === true  %}
         <li class="text-xl">
-          <small><time class="mr-8" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
+          <small><time class="mr-8 text-gray-500" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
           <a href="{{ post.url | url }}" class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500">{{ post.data.title }} ⚡</a>
         </li>
         {% endif %}
@@ -68,7 +68,7 @@
   {% if loop.first %}<ol>{% endif %}
       {% if  post.date.getFullYear() == 2020  %}
         <li class="text-xl">
-          <small><time class="mr-8" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
+          <small><time class="mr-8 text-gray-500" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
           <a href="{{ post.url | url }}" class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500">{{ post.data.title }}</a>
         </li>
       {% endif %}
@@ -83,7 +83,7 @@
     {% for post in postslist | reverse %}
     {% if loop.first %}<ol>{% endif %}
       <li class="text-xl">
-        <small><time class="mr-8" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
+        <small><time class="mr-8 text-gray-500" datetime="{{ post.date | htmlDateString }}">{{ post.date | htmlDateString }}</time></small>
         <a href="{{ post.url | url }}" class="underline decoration-sky-600 hover:decoration-4 visited:decoration-purple-500">{{ post.data.title }}</a>
       </li>
   {% if loop.last %}</ol>{% endif %}
