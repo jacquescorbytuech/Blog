@@ -27,3 +27,5 @@ fields:
   config:
     required: true
   label: Link
+pages:
+- src/_posts/links/parcel-2.0.md
