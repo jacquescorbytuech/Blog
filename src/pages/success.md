@@ -1,7 +1,7 @@
 ---
----
 title: Email Subscription Confirmed 🎉
-permalink: email-subscription-confirmed
+permalink: /email-subscription-confirmed/
+layout: layouts/page.njk
 ---
 
 Thanks!
