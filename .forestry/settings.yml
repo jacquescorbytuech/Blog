@@ -21,7 +21,7 @@ sections:
   match: "**/*"
   templates:
   - links
-upload_dir: site/content/images
+upload_dir: src/images/post-images
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
