@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: src/_posts/writing
+  label: Writing
+  create: all
+  match: "**/*"
+- type: directory
   path: src/_posts/reading
   label: Reading
   create: all
@@ -14,11 +19,8 @@ sections:
   label: Links
   create: all
   match: "**/*"
-- type: directory
-  path: src/_posts/writing
-  label: Writing
-  create: all
-  match: "**/*"
+  templates:
+  - links
 upload_dir: site/content/images
 public_path: "/uploads"
 front_matter_path: ''
