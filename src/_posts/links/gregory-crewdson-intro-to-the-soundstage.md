@@ -1,6 +1,6 @@
 ---
 permalink: "/links/gregory-crewdson-intro-soundstage/"
-date: 2022-07-18T19:13:31Z
+date: 2022-08-18T20:13:31+01:00
 title: Gregory Crewdson - Intro to the Soundstage
 link: https://gregorycrewdson.substack.com/p/deep-dive-4-intro-to-the-soundstage
 
