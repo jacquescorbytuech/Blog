@@ -33,19 +33,7 @@ This probably comes as no surprise to the #emailgeeks community who've seen me b
 
 artnet published their third [report](http://www.artnet.com/artnet-intelligence-report/) on the latest trends in the art market. There are some real insights in here worth looking into.
 
-> $46,281
-The average price of an artwork
-sold at auction in the first half
-of 2019—28 percent less than in
-the equivalent period last year,
-when the average price hit $61,699.
-What happened? For the first time
-in several years, the number
-of works sold at auction is going
-up while total sales are going
-down. There are simply fewer
-high-priced outliers to drive up
-the average price. 
+> $46,281 The average price of an artwork sold at auction in the first half of 2019—28 percent less than in the equivalent period last year, when the average price hit $61,699. What happened? For the first time in several years, the number of works sold at auction is going up while total sales are going down. There are simply fewer high-priced outliers to drive up the average price. 
 
 Sticking to the subject of art, I can already hear the gnashing of teeth over *[but her emails...](https://news.artnet.com/art-world/hillary-clinton-reads-emails-venice-art-show-1648867)*
 
