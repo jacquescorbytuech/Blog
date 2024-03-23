@@ -30,7 +30,8 @@
   {%- set absolutePostUrl = post.url | url | absoluteUrl(metadata.url) %}
   <entry>
     <title>{{ post.data.title }}</title>
-    <perma>{{ post.permalink }}</perma>
+    <perma>{{ post.url }}</perma>
+    <perma2>{{ post.data.url }}</perma2>
     <link href="{{ absolutePostUrl }}"/>
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
