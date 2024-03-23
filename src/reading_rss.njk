@@ -40,7 +40,7 @@
     <cover>{{ post.data.cover }}</cover>
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
-    <bookshop>bookshop</bookshop>
+    <bookshop>{{ post.data.bookshop }}</bookshop>
     <content xml:lang="{{ metadata.language }}" type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>
   {%- endfor %}
